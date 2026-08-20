@@ -12,6 +12,7 @@ Phase 1C — Fragilidad soberana avanzada. Phase 2A está en observación, pero 
 
 - [Plano estructural](./plano.md)
 - [Estado actual](./estado.md)
+- [Track Global](./tracking.md)
 - [Event Ledger](./eventos.md)
 - [Asset Playbook](./posicionamiento.md)
 - [Metodología](../metodologia/)
