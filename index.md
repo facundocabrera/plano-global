@@ -30,6 +30,10 @@ La hipótesis estructural, sus fases y los criterios que permitirían confirmarl
 
 Dónde estamos parados hoy, qué evidencia sostiene la clasificación y qué tendría que suceder después.
 
+### [Seguimiento]({{ '/tracking/' | relative_url }})
+
+El Stage táctico, el dashboard mensual, las señales maestras y los cortes históricos que permiten validar la progresión del régimen.
+
 ### [Event Ledger]({{ '/eventos/' | relative_url }})
 
 Los acontecimientos que cambian la interpretación del plano. Cada evento separa hechos, lectura e invalidación.
