@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://facundocabrera.github.io/plano-global/sitemap.xml
