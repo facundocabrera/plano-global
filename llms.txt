@@ -9,6 +9,7 @@ Plano Global estudia una transición de largo plazo hacia mayor intervención so
 - [Introducción](https://facundocabrera.github.io/plano-global/agent/index.md): propósito, estado y regla central.
 - [Plano estructural](https://facundocabrera.github.io/plano-global/agent/plano.md): tesis, fases y criterios de transición.
 - [Estado actual](https://facundocabrera.github.io/plano-global/agent/estado.md): clasificación vigente y próximas señales.
+- [Track Global](https://facundocabrera.github.io/plano-global/agent/tracking.md): coordenada táctica, dashboard mensual y señales maestras.
 - [Event Ledger](https://facundocabrera.github.io/plano-global/agent/eventos.md): acontecimientos materiales y fuentes.
 - [Asset Playbook](https://facundocabrera.github.io/plano-global/agent/posicionamiento.md): activos preferidos, condicionales y excluidos.
 
