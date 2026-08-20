@@ -16,6 +16,15 @@ permalink: /metodologia/
 3. **Event Ledger:** acontecimientos que modifican la evidencia.
 4. **Asset Playbook:** traducción del régimen a activos preferidos, condicionales y excluidos.
 
+## Phase estructural y Stage táctico
+
+El archivo histórico utilizaba “phase” para dos escalas distintas. La versión pública fija una nomenclatura inequívoca:
+
+- **Phase:** régimen estructural de varios años o décadas.
+- **Stage:** expresión táctica de semanas o meses.
+
+Un Stage puede avanzar sin que cambie la Phase. En particular, una intervención puntual puede llevar la lectura táctica a Stage 3 sin confirmar Phase 2A, que exige pérdida persistente de determinación libre del costo largo del Tesoro.
+
 ## Clasificación de evidencia
 
 - **Hecho confirmado:** existe evidencia trazable y fuentes identificables.
@@ -39,6 +48,12 @@ Un acontecimiento debe afectar al menos uno de estos elementos:
 ## Cadencia
 
 Los eventos se registran cuando ocurren. Una vez por mes, el Track consolida métricas y determina si hubo un cambio de fase o solamente más evidencia dentro de la fase vigente.
+
+[Consultar el dashboard de seguimiento]({{ '/tracking/' | relative_url }}).
+
+## Archivo y límites de reconstrucción
+
+El [canvas de validación](https://chatgpt.com/canvas/shared/6a871841e2608191ae3721091ce04e4d) y la conversación [TRACK 2026–2027](https://chatgpt.com/share/6a87189d-d6e8-83e9-91d0-2a56f3def0bd) se preservan como fuentes documentales. Cuando un dato histórico solo existe dentro de una imagen o archivo adjunto no accesible desde el enlace público, no se reconstruye por inferencia.
 
 ## Principio editorial
 
