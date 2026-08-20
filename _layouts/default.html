@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'es' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="describedby" href="{{ '/llms.txt' | relative_url }}" type="text/plain">
+  {% if page.agent_url %}<link rel="alternate" href="{{ page.agent_url | relative_url }}" type="text/markdown">{% endif %}
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark">PG</span>
+      <span>Plano Global</span>
+    </a>
+    <nav aria-label="Navegación principal">
+      <a href="{{ '/plano/' | relative_url }}">El plano</a>
+      <a href="{{ '/estado/' | relative_url }}">Estado actual</a>
+      <a href="{{ '/eventos/' | relative_url }}">Eventos</a>
+      <a href="{{ '/posicionamiento/' | relative_url }}">Posicionamiento</a>
+    </nav>
+  </header>
+  <main class="page">
+    {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <p>Una hipótesis en evolución, construida con evidencia y abierta a invalidación.</p>
+    <p><a href="{{ '/metodologia/' | relative_url }}">Metodología</a> · <a href="{{ '/disclaimer/' | relative_url }}">Disclaimer</a> · <a href="{{ '/llms.txt' | relative_url }}">Para agentes</a></p>
+  </footer>
+</body>
+</html>

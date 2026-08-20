@@ -1,0 +1,12 @@
+title: Plano Global
+description: Una hipótesis macroeconómica viva — plano, eventos y posicionamiento.
+url: https://facundocabrera.github.io
+baseurl: /plano-global
+lang: es
+timezone: America/Argentina/Buenos_Aires
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+exclude:
+  - README.md
