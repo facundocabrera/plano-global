@@ -13,8 +13,10 @@ permalink: /estado/
 
 <div class="status">
 <strong>Clasificación</strong><br>
-Phase 1C activa · Phase 2A en observación
+Phase 1C activa · Stage táctico 2B · Phase 2A en observación
 </div>
+
+La **Phase** describe el régimen estructural; el **Stage** describe su expresión táctica. [Ver dashboard y criterios]({{ '/tracking/' | relative_url }}).
 
 ## Evidencia que confirma
 
