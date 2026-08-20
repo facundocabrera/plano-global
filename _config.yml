@@ -6,5 +6,7 @@ lang: es
 timezone: America/Argentina/Buenos_Aires
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-sitemap
 exclude:
   - README.md
