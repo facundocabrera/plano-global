@@ -2,14 +2,14 @@
 layout: default
 title: Estado actual
 description: Ubicación actual dentro del Plano Global y señales de transición.
-eyebrow: Corte · 20 de agosto de 2026
+eyebrow: Corte · 22 de agosto de 2026
 agent_url: /agent/estado.md
 permalink: /estado/
 ---
 
 # Phase 1C avanzada
 
-<p class="lead">El sistema muestra fragilidad soberana y ya aparecieron respuestas defensivas sobre mercados estratégicos. Todavía no existe evidencia suficiente de control persistente sobre el costo largo del Tesoro.</p>
+<p class="lead">La fragilidad soberana ya se observa simultáneamente en Estados Unidos, Japón y Europa. Aparecieron intervenciones defensivas y voluntad declarada de escalarlas, pero todavía no existe control persistente sobre el costo largo del Tesoro.</p>
 
 <div class="status">
 <strong>Clasificación</strong><br>
@@ -20,28 +20,32 @@ La **Phase** describe el régimen estructural; el **Stage** describe su expresi�
 
 ## Evidencia que confirma
 
-- las tasas largas se convirtieron en una restricción explícita;
-- el Tesoro duplicó temporalmente el máximo de recompras para deuda de 10 a 30 años;
-- Estados Unidos participó junto con Japón en una intervención cambiaria para sostener el yen;
-- la política estadounidense intenta crear un marco favorable para activos digitales;
+- las tasas largas se convirtieron en una restricción explícita en Estados Unidos, Japón y Europa;
+- el Tesoro duplicó temporalmente las recompras largas y Bessent manifestó disposición a superar USD 4.000 millones por operación;
+- Estados Unidos participó con Japón en la defensa del yen y Japón mantiene coordinación posterior con Corea del Sur;
+- la primera compresión del 30Y se revirtió, mostrando que la herramienta todavía carece de escala;
+- el shock energético por Hormuz conecta inflación de oferta con presión sobre yields;
+- el ajuste comenzó a reflejarse en dólar, oro y Bitcoin;
 - los bancos centrales mantienen una demanda estructuralmente alta de oro.
 
 ## Por qué Phase 2A no está confirmada
 
-- las recompras siguen siendo pequeñas frente al mercado total;
-- oficialmente son operaciones de apoyo a la liquidez;
+- la escala ejecutada sigue siendo pequeña frente al mercado;
+- los rendimientos largos recuperaron gran parte de la suba;
 - no existe un objetivo público de yield;
-- no se observa todavía una coordinación permanente Fed–Treasury;
-- el mercado sigue pudiendo volver a tensionar el tramo largo.
+- Trump atribuyó la decisión a la autonomía de Bessent, no a una directiva presidencial;
+- no se observa todavía coordinación operativa permanente Fed–Treasury;
+- el mercado continúa determinando y tensionando el costo largo.
 
 ## Próximas señales
 
-1. Escala y repetición de las recompras.
+1. Montos efectivos de recompra desde el 9 de septiembre y continuidad posterior al 4 de noviembre.
 2. Cambio deliberado en composición o duración de las emisiones.
 3. Regulación que genere demanda cautiva por Treasuries.
 4. Compras o swaps de duración desde la Reserva Federal.
-5. Evidencia de un rango de rendimiento que las autoridades defiendan reiteradamente.
-6. Oro oficial ajustado por precio y participación del dólar en reservas.
+5. Evidencia de un rango de rendimiento defendido reiteradamente.
+6. Evolución de JGB, subastas europeas y coordinación cambiaria asiática.
+7. Oro oficial ajustado por precio y participación del dólar en reservas.
 
 ## Señales contrarias
 
