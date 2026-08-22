@@ -12,8 +12,8 @@ permalink: /
 <p class="lead">Plano Global documenta una hipótesis macroeconómica de largo plazo, la contrasta con la realidad y registra qué implicaría para el posicionamiento antes de que el cambio resulte evidente.</p>
 
 <div class="status">
-<strong>Estado al 20 de agosto de 2026</strong><br>
-Phase 1C — Fragilidad soberana avanzada. Primeras intervenciones defensivas compatibles con Phase 2A, todavía sin confirmación de control persistente sobre las tasas largas.
+<strong>Estado al 22 de agosto de 2026</strong><br>
+Phase 1C — Fragilidad soberana avanzada y sincronizada. El Tesoro mostró voluntad de escalar su intervención sobre el tramo largo, pero todavía no existe control persistente ni coordinación formal suficiente para confirmar Phase 2A.
 </div>
 
 No intentamos acertar cada noticia. Buscamos reconocer una secuencia:
