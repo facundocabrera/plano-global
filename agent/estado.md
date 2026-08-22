@@ -1,21 +1,23 @@
-# Estado actual — 2026-08-20
+# Estado actual — 2026-08-22
 
 ## Clasificación
 
-Phase 1C activa. Phase 2A en observación.
+Phase 1C activa. Stage táctico 2B. Phase 2A en observación.
 
 ## Evidencia
 
-- presión persistente sobre tasas largas;
-- recompras largas del Tesoro duplicadas temporalmente;
-- intervención coordinada Estados Unidos–Japón sobre el yen;
-- dirección regulatoria favorable a activos digitales;
+- presión persistente y sincronizada sobre tasas largas en Estados Unidos, Japón y Europa;
+- recompras largas del Tesoro duplicadas y disposición declarada a escalarlas;
+- reversión de la baja inicial del 30Y: todavía no existe control efectivo;
+- intervención coordinada sobre el yen y seguimiento regional Japón–Corea del Sur;
+- shock energético por Hormuz todavía conectado con inflación de oferta;
+- reacción compatible con desplazamiento parcial hacia dólar débil, oro y Bitcoin;
 - acumulación estructural de oro por bancos centrales.
 
 ## Phase 2A no confirmada
 
-No existe todavía escala suficiente, objetivo explícito de yield, coordinación permanente ni control observable y persistente del tramo largo.
+No existe todavía escala ejecutada suficiente, objetivo explícito de yield, coordinación operativa permanente Fed–Treasury ni control observable y persistente del tramo largo. Trump atribuyó la decisión de recompras a la autonomía de Bessent, no a una directiva presidencial.
 
 ## Próximas señales
 
-Escala y repetición de recompras; composición de emisión; regulación que cree demanda cautiva; operaciones de duración de la Fed; rango de yield defendido; reservas oficiales de oro y dólar ajustadas por precio y FX.
+Montos efectivos desde septiembre; persistencia de recompras; composición de emisión; regulación que cree demanda cautiva; operaciones de duración de la Fed; rango de yield defendido; JGB y subastas europeas; reservas oficiales de oro y dólar ajustadas por precio y FX.
