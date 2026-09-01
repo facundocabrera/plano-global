@@ -1,8 +1,17 @@
 # Event Ledger
 
-> Actualizado: 2026-08-25 · Orden: más nuevo a más antiguo
+> Actualizado: 2026-09-01 · Orden: más nuevo a más antiguo
 
 Este archivo registra acontecimientos materiales para el Plano Global. La clasificación vigente continúa siendo **Phase 1C avanzada; Phase 2A en observación, no confirmada**.
+
+## 2026-09-01 — El JGB 10Y alcanza el 3%
+
+El rendimiento soberano japonés a 10 años alcanzó 3,005% intradiario y cerró en 2,996%, máximo desde septiembre de 1996. Japón deja de funcionar como ancla global de tasas cercanas a cero: los rendimientos domésticos más altos pueden atraer capital japonés de regreso, reducir la demanda marginal por deuda extranjera cubierta y sumar presión sobre Treasuries y bonos europeos. Refuerza Phase 1C y aumenta la probabilidad de intervención; no confirma por sí solo control de curva ni Phase 2A.
+
+Fuentes:
+- https://www.marketwatch.com/investing/bond/tmbmkjp-10y?countrycode=bx
+- https://www.reuters.com/world/asia-pacific/japans-10-year-government-bond-yield-rises-three-decade-peak-2026-08-18/
+- https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm
 
 ## 2026-08-24 / 2026-08-25 — El Tesoro acota el Twist antes de ejecutarlo
 
@@ -109,6 +118,6 @@ Fuentes:
 
 ## Lectura conjunta
 
-Intervención cambiaria asiática → contención física del shock energético → presión soberana sincronizada → buybacks sobre el tramo largo → diseño potencial del Treasury Twist → primera prueba operativa pendiente → traslado parcial del ajuste al dólar, oro y Bitcoin.
+Intervención cambiaria asiática → contención física del shock energético → presión soberana sincronizada → buybacks sobre el tramo largo → diseño potencial del Treasury Twist → JGB 10Y en 3% y pérdida del ancla japonesa de tasas cero → primera prueba operativa pendiente → traslado parcial del ajuste al dólar, oro y Bitcoin.
 
 La secuencia eleva la probabilidad de transición, pero Phase 2A exige escala, persistencia, coordinación e impacto efectivo sobre el costo largo.
