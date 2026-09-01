@@ -14,3 +14,9 @@ GitHub is the canonical store for Event Ledger data.
 Do not manually edit `eventos.md`, `agent/eventos.md`, or files under `agent/eventos/`. They are derived outputs.
 
 The persistent local Ledger is no longer an independent write target. If a snapshot is needed, generate it from `agent/eventos.md` after the GitHub update.
+
+## Asset Playbook
+
+`posicionamiento.md` is the canonical Asset Playbook. Update it directly during a positioning review, then run `node scripts/build-asset-playbook.mjs`.
+
+Do not manually edit `agent/posicionamiento.md`; it is a generated exact-content mirror.
