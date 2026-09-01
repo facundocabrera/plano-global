@@ -2,7 +2,7 @@
 layout: default
 title: Event Ledger
 description: Acontecimientos que confirman, contradicen o modifican el Plano Global.
-eyebrow: Registro causal · Actualizado 25 de agosto de 2026
+eyebrow: Registro causal · Actualizado 1 de septiembre de 2026
 agent_url: /agent/eventos.md
 permalink: /eventos/
 ---
@@ -10,6 +10,14 @@ permalink: /eventos/
 # Event Ledger
 
 <p class="lead">No es un archivo de noticias. Registra solamente acontecimientos capaces de cambiar nuestra ubicación dentro del plano o la expresión del posicionamiento.</p>
+
+## 01 sep 2026 · El JGB 10Y alcanza el 3%
+
+El rendimiento del bono soberano japonés a 10 años alcanzó 3,005% intradiario y cerró en 2,996%, máximo desde septiembre de 1996. En doce meses, el extremo inferior del rango observado fue 1,545%.
+
+**Lectura:** Japón deja de funcionar como ancla global de tasas cercanas a cero. Aumenta el atractivo de los JGB para el capital doméstico y la presión potencial de repatriación desde Treasuries y deuda europea. Refuerza Phase 1C y eleva la probabilidad de intervención, pero no confirma todavía control de curva ni Phase 2A.
+
+[Leer ficha completa]({{ '/eventos/2026/jgb-10y-3-por-ciento/' | relative_url }})
 
 ## 24–25 ago 2026 · El Tesoro acota el Twist antes de ejecutarlo
 
@@ -111,6 +119,6 @@ Los bancos centrales sostuvieron compras extraordinariamente elevadas desde 2022
 
 ## Lectura conjunta
 
-La secuencia observable es: intervención cambiaria para limitar dislocaciones asiáticas → contención física del shock energético → presión soberana sincronizada → buybacks sobre el tramo largo → diseño potencial del Treasury Twist → primera prueba operativa pendiente → traslado parcial del ajuste al dólar, oro y Bitcoin.
+La secuencia observable es: intervención cambiaria para limitar dislocaciones asiáticas → contención física del shock energético → presión soberana sincronizada → buybacks sobre el tramo largo → diseño potencial del Treasury Twist → JGB 10Y en 3% y pérdida del ancla japonesa de tasas cero → primera prueba operativa del Twist pendiente → traslado parcial del ajuste al dólar, oro y Bitcoin.
 
 La coherencia funcional eleva la probabilidad de transición. Todavía no demuestra una política única ni confirma Phase 2A: faltan escala ejecutada, persistencia, coordinación Fed–Treasury y supresión efectiva del costo largo.
