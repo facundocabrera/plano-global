@@ -10,3 +10,7 @@ plugins:
   - jekyll-sitemap
 exclude:
   - README.md
+  - AGENTS.md
+  - scripts
+  - templates
+  - eventos/contexto

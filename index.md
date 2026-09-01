@@ -12,8 +12,8 @@ permalink: /
 <p class="lead">Plano Global documenta una hipótesis macroeconómica de largo plazo, la contrasta con la realidad y registra qué implicaría para el posicionamiento antes de que el cambio resulte evidente.</p>
 
 <div class="status">
-<strong>Estado al 22 de agosto de 2026</strong><br>
-Phase 1C — Fragilidad soberana avanzada y sincronizada. El Tesoro mostró voluntad de escalar su intervención sobre el tramo largo, pero todavía no existe control persistente ni coordinación formal suficiente para confirmar Phase 2A.
+<strong>Estado al 27 de agosto de 2026</strong><br>
+Phase 1C — Fragilidad soberana avanzada y sincronizada. FIMA conecta la defensa del yen con la preservación de demanda por Treasuries, mientras el marco Irán–Omán alivia marginalmente la presión energética. Todavía no existe control persistente ni coordinación formal suficiente para confirmar Phase 2A.
 </div>
 
 No intentamos acertar cada noticia. Buscamos reconocer una secuencia:

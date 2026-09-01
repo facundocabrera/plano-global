@@ -2,7 +2,7 @@
 layout: default
 title: Estado actual
 description: Ubicación actual dentro del Plano Global y señales de transición.
-eyebrow: Corte · 22 de agosto de 2026
+eyebrow: Corte · 27 de agosto de 2026
 agent_url: /agent/estado.md
 permalink: /estado/
 ---
@@ -23,8 +23,10 @@ La **Phase** describe el régimen estructural; el **Stage** describe su expresi�
 - las tasas largas se convirtieron en una restricción explícita en Estados Unidos, Japón y Europa;
 - el Tesoro duplicó temporalmente las recompras largas y Bessent manifestó disposición a superar USD 4.000 millones por operación;
 - Estados Unidos participó con Japón en la defensa del yen y Japón mantiene coordinación posterior con Corea del Sur;
+- FIMA permite obtener dólares contra Treasuries y reduce el riesgo de que nuevas defensas del yen fuercen ventas de deuda estadounidense;
 - la primera compresión del 30Y se revirtió, mostrando que la herramienta todavía carece de escala;
 - el shock energético por Hormuz conecta inflación de oferta con presión sobre yields;
+- el marco Irán–Omán abre una posible corrección física de esa restricción y funciona como contraseñal, todavía sin reapertura sostenida;
 - el ajuste comenzó a reflejarse en dólar, oro y Bitcoin;
 - los bancos centrales mantienen una demanda estructuralmente alta de oro.
 
@@ -45,7 +47,9 @@ La **Phase** describe el régimen estructural; el **Stage** describe su expresi�
 4. Compras o swaps de duración desde la Reserva Federal.
 5. Evidencia de un rango de rendimiento defendido reiteradamente.
 6. Evolución de JGB, subastas europeas y coordinación cambiaria asiática.
-7. Oro oficial ajustado por precio y participación del dólar en reservas.
+7. Uso y posible ampliación de FIMA, junto con tenencias japonesas de Treasuries.
+8. Reapertura física de Hormuz, tránsito efectivo y primas de seguros.
+9. Oro oficial ajustado por precio y participación del dólar en reservas.
 
 ## Señales contrarias
 
