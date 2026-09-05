@@ -53,6 +53,30 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 
 ## Eventos consolidados
 
+### 2026-09-03 / 2026-09-05 — El shock de Treasuries alcanza al extremo más débil del crédito corporativo
+
+**Hecho confirmado:** el yield del Treasury a 10 años llegó a 4,82% durante la semana, máximo desde 2023, y el spread ajustado por opciones del índice ICE BofA de bonos estadounidenses CCC o inferiores cerró en 10,51 puntos porcentuales el 03/09, frente a 8,06 puntos un año antes. Financial Times reportó además que las acciones de default corporativo aumentaron 9% en 2026, hasta USD 40.100 millones, y que la recuperación promedio cayó a 29%, frente a 40% en los últimos 25 años. El deterioro permanece concentrado: los emisores de mayor calidad conservan acceso y la tasa de default especulativo agregada de Moody’s fue 4,0% en julio, levemente inferior al 4,2% de un año antes.
+
+**Restricción corregida:** el plano había identificado estrés soberano y mantenía el crédito privado bajo observación porque los spreads agregados todavía no confirmaban transmisión. La nueva evidencia muestra que el mayor costo libre de riesgo ya está restringiendo refinanciación y elevando pérdidas en la cola más apalancada. Corrige la ausencia de contagio, pero no prueba todavía una ruptura general de crédito.
+
+**Mecanismo:** `Treasury 10Y más alto + prima soberana/fiscal persistente → costo base de refinanciación mayor → emisores CCC sin flujo suficiente enfrentan cupones prohibitivos o reestructuración → defaults y recuperaciones más bajas → endurecimiento adicional de spreads y acceso`. La bifurcación importa: balances sólidos absorben el shock, mientras empresas construidas sobre dinero barato se convierten en el primer canal de pérdida efectiva.
+
+**Relación con eventos anteriores:** es la transmisión corporativa del diagnóstico institucional registrado el 04/09: Waller sostuvo que desapareció la prima de seguridad de los Treasuries y que los buybacks cortos no corregirán el problema fundamental. También valida el riesgo señalado en el corte del 23/07, cuando el diagnóstico era Stage 2B porque bonos y tasas reales mostraban estrés pero crédito y volatilidad aún no confirmaban ruptura. La señal actual aparece primero en CCC, no en todo high yield.
+
+**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada**: el costo largo determinado por el mercado ya produce daño verificable fuera del soberano. No confirma Phase 2 porque no existe intervención coordinada con escala, persistencia, intención y efecto efectivo sobre el 10Y/30Y. Tampoco confirma colapso sistémico: el deterioro está segmentado y el default agregado no se acelera de forma uniforme.
+
+**Implicación potencial para la cartera:** mantener high yield y empresas dependientes de refinanciación fuera del núcleo; evitar interpretar un spread CCC superior a 1.000 pb como carry ordinario, porque default, liquidez y recovery dominan el retorno. Elevar el hurdle rate para small caps, private credit y modelos intensivos en deuda. No extender duration larga sólo como cobertura: hasta que exista control efectivo de curva, la misma suba de tasas que abarata bonos puede seguir deteriorando crédito.
+
+**Evidencia pendiente:** OAS agregado de high yield e investment grade; nuevas emisiones y refinanciaciones CCC; tasa de default a 12 meses y defaults privados no capturados; recuperaciones por sector; préstamos apalancados y private credit; estándares bancarios; fondos con rescates o descalces de liquidez; reacción del crédito a la recompra ampliada del Tesoro del 10/09; y cualquier intervención que reduzca de manera persistente el costo largo.
+
+**Fuentes:**
+
+- https://fred.stlouisfed.org/series/BAMLH0A3HYC
+- https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639
+- https://www.moodys.com/web/en/us/insights/data-stories/us-corporate-default-risk-outlook-for-2026-2027.html
+
+---
+
 ### 2026-09-03 / 2026-09-04 — La Fed reconoce la desaparición de la prima de seguridad de los Treasuries
 
 **Hecho confirmado:** Christopher Waller, gobernador de la Reserva Federal, afirmó que la prima que los inversores pagaban por la seguridad y liquidez de la deuda estadounidense prácticamente desapareció. Atribuyó la suba de yields a la preocupación fiscal y a la competencia por capital de la infraestructura de inteligencia artificial, y explicó que esta erosión eleva su estimación de la tasa neutral. También sostuvo que un déficit estructural cercano a 6% del PIB no puede resolverse sólo con crecimiento, que incluso 3% de déficit seguiría siendo insostenible y que no espera que los buybacks de corto plazo del Tesoro produzcan un efecto importante.
