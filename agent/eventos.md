@@ -53,6 +53,31 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 
 ## Eventos consolidados
 
+### 2026-09-05 / 2026-09-06 — Estados Unidos pasa del bloqueo a destruir capacidad exportadora iraní
+
+**Hecho confirmado:** CENTCOM informó que, después de ataques iraníes fallidos con misiles balísticos contra dos buques de guerra estadounidenses, fuerzas de Estados Unidos inutilizaron permanentemente los petroleros M/T Downy frente a Kharg y M/T Stark 1 cerca de Jask, y destruyeron el petrolero sin carga M/T Kylo —también denominado Noxen— en el golfo de Omán. Las tripulaciones recibieron orden de abandonar los buques y no hubo bajas estadounidenses. Washington atribuye las tres naves a la red petrolera clandestina de la Guardia Revolucionaria. Irán anunció represalias adicionales, pero Estados Unidos negó su afirmación de haber alcanzado un buque estadounidense el 06/09.
+
+**Restricción corregida:** la entrada del 02/09 mostraba un corredor intermitente capaz de evacuar cargas puntuales pese al riesgo militar. Faltaba establecer si Estados Unidos se limitaría a escoltar tránsito y aplicar sanciones o atacaría directamente los medios físicos con los que Irán financia y sostiene su posición. La destrucción de tres petroleros confirma el segundo régimen: la flota exportadora iraní pasa a ser objetivo militar explícito.
+
+**Mecanismo:** `ataques iraníes a fuerzas estadounidenses → represalia sobre petroleros vinculados al IRGC → pérdida de capacidad y mayor riesgo para la flota clandestina → menores ingresos y divisas iraníes → presión para negociar el tránsito de Hormuz`. El canal puede producir dos efectos opuestos: debilitar el incentivo y la capacidad de Teherán para restringir el estrecho, o provocar represalias contra buques comerciales que eleven seguros, fletes, demoras y precio de energía antes de cualquier acuerdo.
+
+**Relación con eventos anteriores:** profundiza la secuencia `corredor protegido → sanciones y bloqueo → desgaste económico → ataque directo a capacidad exportadora`. Reuters reporta que el bloqueo ya redujo ingresos petroleros, acceso a divisas e importaciones esenciales, aunque el liderazgo iraní todavía no muestra intención de ceder. La posible negociación sobre cargos de navegación continúa abierta. La decisión de OPEC+ del 06/09 de mantener sin cambios su política de producción no compensa por sí sola la restricción: varios miembros siguen por debajo de sus objetivos y el problema dominante es tránsito y capacidad efectiva, no una cuota nominal adicional.
+
+**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** por el riesgo de que la guerra económica y marítima mantenga energía, inflación y term premium elevados. No confirma Phase 2: no hay una nueva herramienta que suprima el costo largo ni evidencia de coordinación monetaria-fiscal con escala, persistencia y efecto sobre 10Y/30Y. La escalada puede, en cambio, aumentar la presión que una intervención futura debería absorber.
+
+**Implicación potencial para la cartera:** conservar exposición selectiva a productores de bajo costo y proveedores fuera de Hormuz, incluida Argentina sólo dentro del universo global de alternativas; evitar perseguir petróleo apalancado antes de observar el tránsito y la reapertura del mercado. Mantener oro como cobertura geopolítica y cautela con duration nominal larga y crédito frágil: un shock energético persistente empeora inflación, refinanciación y primas soberanas simultáneamente.
+
+**Evidencia pendiente:** carga y tonelaje efectivo de los tres buques; daño ambiental; reacción del Brent, LNG, diésel, fletes y seguros cuando reabran los mercados; número y volumen de tránsitos por Hormuz; capacidad restante de la flota clandestina; represalias verificadas contra navegación comercial; postura de China e India como compradores; duración del bloqueo; negociación sobre cargos de tránsito; y capacidad real de OPEC+ de elevar oferta exportable.
+
+**Fuentes:**
+
+- https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4591744/centcom-destroys-3-irgc-oil-tankers-after-iran-targets-2-us-navy-warships/
+- https://www.reuters.com/business/energy/irans-hormuz-leverage-wanes-us-economic-squeeze-bites-2026-09-06/
+- https://apnews.com/article/a52beec77dc90af3d040d0553837ad20
+- https://www.reuters.com/business/energy/opec-set-keep-oil-output-policy-unchanged-sunday-sources-say-2026-09-06/
+
+---
+
 ### 2026-09-03 / 2026-09-05 — El shock de Treasuries alcanza al extremo más débil del crédito corporativo
 
 **Hecho confirmado:** el yield del Treasury a 10 años llegó a 4,82% durante la semana, máximo desde 2023, y el spread ajustado por opciones del índice ICE BofA de bonos estadounidenses CCC o inferiores cerró en 10,51 puntos porcentuales el 03/09, frente a 8,06 puntos un año antes. Financial Times reportó además que las acciones de default corporativo aumentaron 9% en 2026, hasta USD 40.100 millones, y que la recuperación promedio cayó a 29%, frente a 40% en los últimos 25 años. El deterioro permanece concentrado: los emisores de mayor calidad conservan acceso y la tasa de default especulativo agregada de Moody’s fue 4,0% en julio, levemente inferior al 4,2% de un año antes.
