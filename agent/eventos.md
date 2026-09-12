@@ -53,6 +53,32 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 
 ## Eventos consolidados
 
+### 2026-09-10 / 2026-09-12 — Arabia Saudita cierra el bypass de Yanbu y Estados Unidos raciona la protección aérea de Hormuz
+
+**Hecho confirmado:** el Ministerio de Energía saudí informó que el oleoducto Este–Oeste sufrió múltiples ataques en las regiones de Riad y Medina durante la mañana del 10 de septiembre y fue cerrado preventivamente mientras equipos técnicos evalúan su seguridad; hubo heridos y daños. La cancillería saudí afirmó que los drones fueron lanzados desde Irak, cuyo gobierno cerró un cruce fronterizo con Irán e inició una investigación, pero ningún grupo reivindicó el ataque y su autoría final no está establecida. El ducto de 1.200 km venía transportando entre 4 y 5 millones de bpd —4%–5% de la oferta mundial— hacia el Mar Rojo para evitar Hormuz. En paralelo, CENTCOM confirmó al *Financial Times* que la defensa aérea para buques comerciales que cruzan Hormuz se concentrará en ventanas horarias específicas en lugar de cobertura nocturna continua. La medida no cierra el estrecho, pero obliga a coordinar los cruces con la disponibilidad militar.
+
+**Restricción corregida:** el bypass saudí dejó de ser una válvula disponible pero geopolíticamente amenazada: ahora la infraestructura física está detenida. A la vez, la protección estadounidense en Hormuz no es continua ni ilimitada. La restricción total combina capacidad de oleoducto, integridad de estaciones, control hutí de Perim, seguridad de Bab el-Mandeb, disponibilidad de buques y horas efectivas de defensa aérea. Ninguna ruta individual puede analizarse como sustituto pleno de las demás.
+
+**Mecanismo:** `Hormuz restringido → desvío de 4–5 millones bpd por el oleoducto Este–Oeste → ataque a la infraestructura y cierre preventivo → menor capacidad saudí de entregar crudo fuera del Golfo`. Simultáneamente, `ataques nocturnos a mercantes + alto costo operativo de patrullaje → protección aérea concentrada en franjas → convoyes y salidas sincronizadas → colas, demoras, mayor concentración de riesgo y prima de seguro`. El resultado es una oferta global más dependiente de inventarios, almacenamiento saudí, capacidad marítima puntual y decisiones militares.
+
+**Relación con eventos anteriores:** materializa la vulnerabilidad registrada el 10/09 y el 11/09. Yanbu había recuperado embarques y ofrecía una compensación parcial a Hormuz; luego los hutíes alcanzaron Perim y ahora el propio ducto que alimenta el puerto está cerrado. También endurece el “corredor administrado” del 02/09: ya no se trata sólo de permisos, trasbordos o costos, sino de ventanas militares discretas para navegar. El sistema conserva flujos —incluidas salidas puntuales de crudo y LNG—, pero los dos corredores y su infraestructura terrestre están correlacionados.
+
+**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** al transformar riesgo logístico en pérdida temporal de capacidad física equivalente a varios puntos de la oferta mundial y sostener presión sobre energía, inflación y yields. No confirma Phase 2: la protección aérea es intervención operativa sobre una ruta, no control financiero del costo largo. Tampoco basta una eventual liberación de reservas. Para Phase 2 siguen faltando escala monetario-fiscal, persistencia, intención de suprimir el costo largo y efecto verificable sobre 10Y/30Y.
+
+**Implicación potencial para la cartera:** mantener exposición selectiva a productores, infraestructura y transporte fuera de Hormuz y del Mar Rojo. La opcionalidad de Vaca Muerta y LNG argentino aumenta junto con la de Estados Unidos, Brasil, Guyana, Canadá y África occidental, sin eliminar riesgo de ejecución ni justificar sesgo doméstico. Favorecer oro y activos reales como cobertura; sostener cautela con duration larga, crédito débil, aerolíneas, transporte y consumidores intensivos en combustible. No perseguir petróleo apalancado: el cierre es preventivo y una reapertura rápida, liberación de reservas o acuerdo diplomático puede comprimir la prima.
+
+**Evidencia pendiente:** magnitud y localización exacta del daño; fecha y capacidad de reinicio del oleoducto; inventarios y capacidad de carga disponible en Yanbu; pérdida neta de exportaciones saudíes; autoría confirmada y respuesta de Irak, Arabia Saudita e Irán; nuevas ofensivas sobre Perim y Bab el-Mandeb; horarios, duración y eficacia de la cobertura aérea estadounidense; ataques durante ventanas sin protección; primas de seguro y fletes; uso de reservas estratégicas; evolución de diésel y Brent; y transmisión adicional a inflación y tasas largas.
+
+**Fuentes:**
+
+- https://www.spa.gov.sa/en/N2674017
+- https://www.spa.gov.sa/en/N2674116
+- https://www.reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12/
+- https://www.reuters.com/world/middle-east/saudi-arabia-says-drones-launched-iraq-hit-east-west-pipeline-holds-off-2026-09-11/
+- https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e
+
+---
+
 ### 2026-09-10 / 2026-09-11 — La primera recompra ampliada falla la prueba de eficacia mientras el 10Y roza 5%
 
 **Hecho confirmado:** el Tesoro estadounidense aceptó el 10 de septiembre USD 5.200 millones de bonos con vencimientos de 10 a 20 años en su primera recompra larga ampliada, por debajo del máximo anunciado de USD 6.000 millones, pese a recibir más de USD 10.000 millones de ofertas a valor nominal. Respetó su regla de comprar a precios de mercado. El Treasury 10Y pasó de 4,938% inmediatamente antes del resultado a 4,946% después y, tras el IPC del 11 de septiembre, alcanzó 4,9915%, casi 5%; el 30Y tocó un máximo de 19 años. El IPC de agosto aceleró a 0,4% mensual y 3,4% interanual; el núcleo subió 0,3% mensual y 2,4% interanual. La probabilidad implícita de una suba de 25 pb de la Fed la semana siguiente pasó de 67% a 85%. La subasta de USD 22.000 millones a 30 años no fue disfuncional: adjudicó a 5,308%, máximo desde agosto de 2001, con bid-to-cover de 2,61, 2,7 pb por debajo del *when-issued* y sólo 2,2% absorbido por dealers.
