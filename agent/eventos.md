@@ -53,6 +53,30 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 
 ## Eventos consolidados
 
+### 2026-09-13 — El cierre del oleoducto saudí pasa de pausa precautoria a riesgo de retirar 4% de la oferta mundial
+
+**Hecho confirmado:** el oleoducto Este–Oeste saudí continuaba cerrado el 13 de septiembre después de los ataques con drones registrados el día 10. Fuentes de la industria consultadas por Reuters estimaron plazos de reparación que van desde algunos días hasta seis semanas. El ducto venía desviando alrededor de 4 millones de bpd hacia Yanbu, cerca de 4% de la oferta mundial. Compradores y operadores estimaron que los inventarios disponibles en Yanbu permiten sostener embarques normales sólo entre cinco y siete días; existen existencias adicionales limitadas en Ain Sukhna y Sidi Kerir, Egipto. Por lo tanto, todavía no se perdieron automáticamente 4 millones de bpd, pero la continuidad del cierre más allá de esa ventana obligaría a reducir de manera sustancial las exportaciones saudíes. En paralelo, UKMTO reportó un nuevo impacto de proyectil contra un buque en Hormuz que provocó incendio y evacuación de la tripulación; la autoría no fue confirmada.
+
+**Restricción corregida:** el 12/09 sólo podía afirmarse un cierre preventivo mientras se evaluaba la integridad del ducto. La nueva información acota el buffer y amplía la posible duración: almacenamiento y puertos pueden desacoplar temporalmente el flujo exportado del ducto, pero no por más de aproximadamente una semana a ritmo normal. La restricción pasa a ser temporal y medible: reparación antes del agotamiento de inventarios o recorte físico de exportaciones.
+
+**Mecanismo:** `ducto detenido → Yanbu embarca desde stocks durante 5–7 días → si la reparación excede el buffer, caen las cargas saudíes hasta por varios millones de bpd → inventarios globales y productos refinados se ajustan → energía e inflación permanecen elevadas → bancos centrales sostienen o suben tasas + term premium`. Los stocks egipcios y cruces puntuales por Hormuz amortiguan la magnitud, pero no sustituyen de forma sostenida los 4 millones de bpd transportados por el ducto. Cada nuevo ataque a mercantes reduce además la disposición privada a usar el estrecho aun dentro de ventanas de defensa aérea.
+
+**Relación con eventos anteriores:** convierte en horizonte operativo la secuencia del 10–12/09: Arabia Saudita primero recuperó cargas por Yanbu, luego los hutíes alcanzaron Perim y finalmente el ducto que alimenta el bypass fue atacado y cerrado. La estimación de hasta seis semanas eleva la probabilidad de que la caída saudí observada por OPEC e IEA persista, en lugar de revertirse rápidamente. También refuerza el vínculo ya observado entre energía, IPC estadounidense, suba del ECB y Treasury 10Y cercano a 5%.
+
+**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** porque una interrupción logística adquiere escala potencial de 4% de la oferta mundial y duración superior al buffer disponible. No confirma Phase 2: ni la gestión de inventarios, ni la defensa militar, ni una eventual liberación de reservas controlan por sí mismas el costo financiero largo. El shock aumenta la presión para una respuesta, pero siguen faltando escala monetario-fiscal, persistencia, intención explícita y compresión efectiva de 10Y/30Y.
+
+**Implicación potencial para la cartera:** sostener exposición selectiva a energía y productores atlánticos, pero evitar apalancamiento direccional porque el resultado depende de una reparación binaria y puede revertirse con rapidez. La ventana de 5–7 días vuelve más valiosa la opcionalidad de oferta de Estados Unidos, Brasil, Guyana, Canadá, África occidental y Argentina; Vaca Muerta y LNG argentino siguen siendo tesis de infraestructura y ejecución, no respuesta inmediata. Mantener oro y activos reales como cobertura; cautela con duration larga, crédito frágil, transporte, fertilizantes y consumidores intensivos en combustible.
+
+**Evidencia pendiente:** informe técnico saudí y fecha de reapertura; capacidad parcial o total al reiniciar; ritmo diario de cargas desde Yanbu; agotamiento o reposición de inventarios; uso de terminales egipcias; pérdida neta de exportaciones y producción saudí; autoría y nuevos ataques; tránsito asegurado por Hormuz y Bab el-Mandeb; respuesta de OPEC+, IEA y reservas estratégicas; persistencia de diésel y Brent; y transmisión a inflación, Fed y yields largos.
+
+**Fuentes:**
+
+- https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/
+- https://www.reuters.com/business/energy/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-2026-09-13/
+- https://www.spa.gov.sa/en/N2674017
+
+---
+
 ### 2026-09-10 / 2026-09-12 — Arabia Saudita cierra el bypass de Yanbu y Estados Unidos raciona la protección aérea de Hormuz
 
 **Hecho confirmado:** el Ministerio de Energía saudí informó que el oleoducto Este–Oeste sufrió múltiples ataques en las regiones de Riad y Medina durante la mañana del 10 de septiembre y fue cerrado preventivamente mientras equipos técnicos evalúan su seguridad; hubo heridos y daños. La cancillería saudí afirmó que los drones fueron lanzados desde Irak, cuyo gobierno cerró un cruce fronterizo con Irán e inició una investigación, pero ningún grupo reivindicó el ataque y su autoría final no está establecida. El ducto de 1.200 km venía transportando entre 4 y 5 millones de bpd —4%–5% de la oferta mundial— hacia el Mar Rojo para evitar Hormuz. En paralelo, CENTCOM confirmó al *Financial Times* que la defensa aérea para buques comerciales que cruzan Hormuz se concentrará en ventanas horarias específicas en lugar de cobertura nocturna continua. La medida no cierra el estrecho, pero obliga a coordinar los cruces con la disponibilidad militar.
