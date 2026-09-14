@@ -53,6 +53,31 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 
 ## Eventos consolidados
 
+### 2026-09-14 — Se posterga la negociación sobre Hormuz y el shock energético vuelve a transmitirse al Treasury 10Y
+
+**Hecho confirmado:** la reunión entre los Estados del Golfo e Irán que debía celebrarse el 14 de septiembre en Omán para negociar acuerdos sobre el estrecho de Hormuz fue postergada sin nueva fecha, según el ministro de Relaciones Exteriores omaní. En paralelo, nuevos ataques contra infraestructura saudí y un mercante mantuvieron cerrado el oleoducto Este–Oeste y elevaron el Brent por encima de USD 107 por barril. El Treasury a 10 años alcanzó 4,9915%, su máximo en casi tres años, antes de retroceder levemente.
+
+**Restricción corregida:** hasta el 13/09, el principal límite cuantificable era físico: reparar el ducto antes de agotar los inventarios de Yanbu. La reunión de Omán ofrecía además una posible salida diplomática para restaurar tránsito más regular por Hormuz. Su postergación elimina ese alivio del horizonte inmediato; no prueba el fracaso definitivo de la diplomacia ni una pérdida consumada de 4% de la oferta mundial, pero prolonga la dependencia de inventarios, cruces excepcionales y rutas igualmente expuestas.
+
+**Mecanismo:** `sin negociación inmediata sobre Hormuz + ducto saudí cerrado → menor probabilidad de normalización rápida de flujos → petróleo, diésel, seguros y fletes más altos → expectativas de inflación y subas de bancos centrales → mayor term premium → Treasury 10Y cerca de 5%`. A diferencia de una reacción puramente técnica, el movimiento conecta la persistencia del shock físico con el costo soberano largo justo antes de las decisiones de la Fed y el BOJ.
+
+**Relación con eventos anteriores:** extiende la secuencia del 09–13/09: el daño se propagó desde mercantes en Hormuz hacia Perim y el bypass saudí; luego el cierre del ducto adquirió un horizonte de hasta seis semanas y un buffer de Yanbu de sólo cinco a siete días. La postergación de Omán retira la vía que podía relajar esa restricción antes de que el buffer se agote. También confirma la transmisión ya observada el 11/09: la recompra ampliada del Tesoro no pudo impedir que el 10Y volviera a aproximarse a 5%.
+
+**Efecto sobre Phase 1C / Phase 2:** profundiza **Phase 1C avanzada**: el shock de rutas ya no sólo amenaza oferta física, sino que mantiene el costo largo estadounidense en el umbral de 5%. No confirma Phase 2. La recompra sigue sin escala ni eficacia sobre la curva, y no existe todavía una intervención monetario-fiscal persistente con intención explícita y efecto comprobado de comprimir 10Y/30Y.
+
+**Implicación potencial para la cartera:** sostener coberturas en energía, oro y activos reales, y exposición selectiva a productores y corredores fuera de Hormuz, sin perseguir el salto diario del crudo. Mantener cautela con duration larga, high yield, transporte y consumidores intensivos en combustible. Para Argentina, mejora el valor estratégico relativo de Vaca Muerta, minería y futuros proyectos de LNG, pero el beneficio exige infraestructura y estabilidad contractual y no compensa automáticamente el encarecimiento global de capital e insumos.
+
+**Evidencia pendiente:** nueva fecha, participantes y condiciones de la reunión de Omán; apertura de un corredor comercial verificable por Hormuz; informe técnico y reapertura parcial o total del oleoducto saudí; nominaciones y entregas efectivas de Saudi Aramco a refinadores asiáticos; agotamiento de inventarios en Yanbu; tránsito, seguros y fletes; respuesta de OPEC+, IEA y reservas estratégicas; persistencia del Brent y del diésel; decisiones de Fed y BOJ; y permanencia del Treasury 10Y sobre 5% después de esas decisiones.
+
+**Fuentes:**
+
+- https://www.reuters.com/world/middle-east/oman-meeting-between-gulf-states-iran-postponed-omani-foreign-minister-says-2026-09-13/
+- https://www.reuters.com/business/energy/oil-prices-jump-more-than-3-after-new-strikes-saudi-strait-hormuz-2026-09-13/
+- https://www.reuters.com/markets/us/global-markets-technicals-graphic-2026-09-14/
+- https://www.reuters.com/business/energy/asian-refiners-awaiting-word-saudi-shipments-expect-tighter-supply-2026-09-14/
+
+---
+
 ### 2026-09-13 — El cierre del oleoducto saudí pasa de pausa precautoria a riesgo de retirar 4% de la oferta mundial
 
 **Hecho confirmado:** el oleoducto Este–Oeste saudí continuaba cerrado el 13 de septiembre después de los ataques con drones registrados el día 10. Fuentes de la industria consultadas por Reuters estimaron plazos de reparación que van desde algunos días hasta seis semanas. El ducto venía desviando alrededor de 4 millones de bpd hacia Yanbu, cerca de 4% de la oferta mundial. Compradores y operadores estimaron que los inventarios disponibles en Yanbu permiten sostener embarques normales sólo entre cinco y siete días; existen existencias adicionales limitadas en Ain Sukhna y Sidi Kerir, Egipto. Por lo tanto, todavía no se perdieron automáticamente 4 millones de bpd, pero la continuidad del cierre más allá de esa ventana obligaría a reducir de manera sustancial las exportaciones saudíes. En paralelo, UKMTO reportó un nuevo impacto de proyectil contra un buque en Hormuz que provocó incendio y evacuación de la tripulación; la autoría no fue confirmada.
