@@ -53,6 +53,30 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 
 ## Eventos consolidados
 
+### 2026-09-19 — La escalada alcanza Riad y vuelve a poner bajo ataque el corredor de Yanbu
+
+**Hecho confirmado:** la coalición encabezada por Arabia Saudita informó que interceptó un misil balístico hutí dirigido a Riad —el primer ataque contra la capital saudí desde que comenzó la escalada actual— y que frustró otros intentos contra infraestructura civil en Yanbu, Taif, Bish y Farasan. Imágenes de Reuters mostraron llamas y una gran columna de humo cerca de depósitos de combustible del aeropuerto de Riad, pero al corte no existía atribución oficial del incendio ni reporte de víctimas. Los hutíes afirmaron haber atacado instalaciones de Aramco en Yanbu y causado grandes incendios; esa afirmación no fue confirmada por Aramco ni verificada de forma independiente. Turquía declaró que está dispuesta a cubrir necesidades técnicas o militares saudíes bajo el pacto de defensa firmado con Arabia Saudita y Pakistán, mientras Islamabad aclaró que todavía no había conversaciones sobre una respuesta militar.
+
+**Restricción corregida:** la sustitución parcial de Yanbu registrada el 16/09 reducía el riesgo de retirar automáticamente hasta 4 millones de bpd, pero dependía de que Arabia Saudita pudiera defender simultáneamente puertos del Golfo, cruces por Hormuz, trasbordos frente a Omán y el corredor del mar Rojo. Los nuevos intentos no prueban daño adicional en Yanbu ni pérdida física de oferta, pero muestran que la amenaza ya no está concentrada en un solo ducto: alcanza al nodo exportador, a ciudades interiores y a infraestructura aeroportuaria. La adaptación logística existe; su perímetro de seguridad es más amplio y costoso de lo supuesto.
+
+**Mecanismo:** `Hormuz restringido + Bab el-Mandeb bajo presión + nuevos ataques contra Yanbu y Riad → más activos y rutas que deben ser defendidos con interceptores limitados → mayor costo logístico, militar, de seguro y de inventarios → prima energética e inflación más persistentes → presión sobre tasas cortas y term premium soberano`. El pacto con Turquía y Pakistán puede aumentar la capacidad defensiva, pero también regionaliza la respuesta. La falta de apoyo militar directo estadounidense mantiene abierto el riesgo de escalada sin asegurar la reapertura de las rutas.
+
+**Relación con eventos anteriores:** extiende la secuencia del 11–16/09. La toma de Perim puso presión sobre Bab el-Mandeb; el ataque al oleoducto Este–Oeste cerró temporalmente el bypass de Hormuz; Aramco respondió aumentando cargas desde Ras Tanura y Juaymah y organizando trasbordos frente a Sohar. El 19/09 los hutíes volvieron a apuntar precisamente a Yanbu y extendieron el alcance hasta Riad. La secuencia corrige el alivio marginal del 16/09: la sustitución preserva barriles, pero no restablece un corredor seguro.
+
+**Efecto sobre Phase 1C / Phase 2:** profundiza **Phase 1C avanzada** porque el shock de rutas se transforma en una necesidad permanente de defensa de múltiples nodos, con costos fiscales e inflacionarios crecientes. **Phase 2 no está confirmada**: no hubo nueva actuación del Tesoro o de la Fed, ni escala, persistencia, intención o efecto oficial capaz de controlar el 10Y/30Y. La escalada aumenta la presión que eventualmente podría provocar esa respuesta, pero no la sustituye.
+
+**Implicación potencial para la cartera:** mantener exposición selectiva a energía, refinación, transporte protegido y productores fuera del Golfo, sin perseguir petróleo sobre la base de daños todavía no confirmados. Oro y activos reales conservan valor como cobertura del encadenamiento entre geopolítica, inflación y fragilidad soberana. Mantener duration nominal larga fuera del núcleo mientras el shock energético siga transmitiéndose a inflación y term premium. Para Argentina, la persistencia del riesgo logístico sostiene el valor estratégico relativo de Vaca Muerta, LNG y agro, pero no convierte automáticamente precios extraordinarios en volúmenes exportables: infraestructura y acceso a mercados siguen siendo la restricción.
+
+**Evidencia pendiente:** causa y daño final del incendio cerca del aeropuerto de Riad; confirmación independiente o de Aramco sobre Yanbu; estado y capacidad efectiva del oleoducto Este–Oeste; cargas y cancelaciones desde Yanbu, Ras Tanura y Juaymah; tránsito por Hormuz y Bab el-Mandeb; inventarios, seguros y fletes; disponibilidad de interceptores saudíes; tipo de asistencia turca o pakistaní; resultado de la mediación qatarí y pakistaní; respuesta de Estados Unidos e Irán; y transmisión a Brent, diésel, inflación y yields largos cuando reabran los mercados globales.
+
+**Fuentes:**
+
+- https://www.reuters.com/world/middle-east/saudi-civil-defence-sends-all-clear-after-danger-warning-capital-riyadh-2026-09-19/
+- https://apnews.com/article/yemen-saudi-arabia-b1286cad816dd3e553f50f6dd5205972
+- https://www.reuters.com/business/aerospace-defense/turkey-says-it-could-help-meet-saudi-military-needs-under-defence-pact-2026-09-19/
+
+---
+
 ### 2026-09-18 — El BOJ sube a 1,25%, pero el yen se debilita y mantiene abierto el canal de intervención
 
 **Hecho confirmado:** el Banco de Japón elevó 25 puntos básicos su tasa de referencia hasta 1,25%, máximo en 31 años, por siete votos contra dos. La decisión cumplió la expectativa dominante y el BOJ sostuvo que continuará elevando la tasa si la economía y los precios evolucionan según sus proyecciones, pero no aceleró explícitamente la trayectoria futura. El yen se debilitó más de 1,2% frente al dólar después del anuncio —su mayor caída diaria desde diciembre—, tocó un mínimo de dos semanas y acumuló alrededor de 2,6% de depreciación semanal. La reacción ocurrió dos días después de que la Fed también subiera 25 puntos básicos, por lo que el diferencial bilateral no se comprimió mediante esta ronda de decisiones.
