@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 57773)
+Total output lines: 1492
+
 # Plano Global — Event Ledger
 
 ## Propósito
@@ -53,765 +56,221 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 
 ## Eventos consolidados
 
-### 2026-09-19 — La escalada alcanza Riad y vuelve a poner bajo ataque el corredor de Yanbu
+### 2026-10-04 — Irán condiciona la reapertura de Ormuz y OPEC+ deja sin cambios la oferta de noviembre
 
-**Hecho confirmado:** la coalición encabezada por Arabia Saudita informó que interceptó un misil balístico hutí dirigido a Riad —el primer ataque contra la capital saudí desde que comenzó la escalada actual— y que frustró otros intentos contra infraestructura civil en Yanbu, Taif, Bish y Farasan. Imágenes de Reuters mostraron llamas y una gran columna de humo cerca de depósitos de combustible del aeropuerto de Riad, pero al corte no existía atribución oficial del incendio ni reporte de víctimas. Los hutíes afirmaron haber atacado instalaciones de Aramco en Yanbu y causado grandes incendios; esa afirmación no fue confirmada por Aramco ni verificada de forma independiente. Turquía declaró que está dispuesta a cubrir necesidades técnicas o militares saudíes bajo el pacto de defensa firmado con Arabia Saudita y Pakistán, mientras Islamabad aclaró que todavía no había conversaciones sobre una respuesta militar.
+**Hecho confirmado:** Irán declaró que el estrecho de Ormuz no reabrirá hasta que Estados Unidos cumpla siete condiciones del entendimiento interino de junio. Washington respondió mediante intermediarios qataríes y las partes coinciden en componentes generales, pero discrepan sobre la secuencia de pasos. El mismo día, los siete miembros centrales de OPEC+ mantuvieron sin cambios sus objetivos de producción para noviembre. Esos productores bombearon unos 25 millones de bpd en agosto, 5 millones menos que antes de la guerra; Brent permanecía por encima de USD 100 pese a la liberación de reservas del G7.
 
-**Restricción corregida:** la sustitución parcial de Yanbu registrada el 16/09 reducía el riesgo de retirar automáticamente hasta 4 millones de bpd, pero dependía de que Arabia Saudita pudiera defender simultáneamente puertos del Golfo, cruces por Hormuz, trasbordos frente a Omán y el corredor del mar Rojo. Los nuevos intentos no prueban daño adicional en Yanbu ni pérdida física de oferta, pero muestran que la amenaza ya no está concentrada en un solo ducto: alcanza al nodo exportador, a ciudades interiores y a infraestructura aeroportuaria. La adaptación logística existe; su perímetro de seguridad es más amplio y costoso de lo supuesto.
+**Restricción corregida:** la propuesta iraní no ofrecía una reapertura automática en siete días: ese plazo empezaba sólo después de acordar y ejecutar condiciones de confianza. Al mismo tiempo, Ormuz no está físicamente cerrado a todo tránsito: el 28/09 ya se había verificado una recuperación importante de crudo. Los objetivos de OPEC+ tampoco equivalen a oferta efectiva, porque las interrupciones mantienen producción y exportaciones muy por debajo de cuota.
 
-**Mecanismo:** `Hormuz restringido + Bab el-Mandeb bajo presión + nuevos ataques contra Yanbu y Riad → más activos y rutas que deben ser defendidos con interceptores limitados → mayor costo logístico, militar, de seguro y de inventarios → prima energética e inflación más persistentes → presión sobre tasas cortas y term premium soberano`. El pacto con Turquía y Pakistán puede aumentar la capacidad defensiva, pero también regionaliza la respuesta. La falta de apoyo militar directo estadounidense mantiene abierto el riesgo de escalada sin asegurar la reapertura de las rutas.
+**Mecanismo:** `desacuerdo sobre secuencia diplomática → normalización completa de Ormuz aplazada → persistencia de costos de seguro, escolta y flete`. En paralelo, `OPEC+ mantiene cuotas + capacidad efectiva restringida → no aparece un colchón productor adicional`; las reservas del G7 alivian productos en el corto plazo, pero no sustituyen una ruta segura ni capacidad de refinación. La combinación deja un piso más alto para energía e inflación aun con flujos parciales crecientes.
 
-**Relación con eventos anteriores:** extiende la secuencia del 11–16/09. La toma de Perim puso presión sobre Bab el-Mandeb; el ataque al oleoducto Este–Oeste cerró temporalmente el bypass de Hormuz; Aramco respondió aumentando cargas desde Ras Tanura y Juaymah y organizando trasbordos frente a Sohar. El 19/09 los hutíes volvieron a apuntar precisamente a Yanbu y extendieron el alcance hasta Riad. La secuencia corrige el alivio marginal del 16/09: la sustitución preserva barriles, pero no restablece un corredor seguro.
+**Relación con eventos anteriores:** convierte la recuperación física del 28/09 y la liberación de reservas del 02/10 en alivios tácticos dentro de un cuello de botella todavía político. Corrige el optimismo del 13/09 sobre una reparación rápida y confirma que la disputa central es de secuencia y garantías. La decisión de OPEC+ muestra que los aumentos nominales de 2026 quedaron mayormente en papel por la guerra.
 
-**Efecto sobre Phase 1C / Phase 2:** profundiza **Phase 1C avanzada** porque el shock de rutas se transforma en una necesidad permanente de defensa de múltiples nodos, con costos fiscales e inflacionarios crecientes. **Phase 2 no está confirmada**: no hubo nueva actuación del Tesoro o de la Fed, ni escala, persistencia, intención o efecto oficial capaz de controlar el 10Y/30Y. La escalada aumenta la presión que eventualmente podría provocar esa respuesta, pero no la sustituye.
+**Efecto sobre Phase 1C / Phase 2:** sostiene **Phase 1C avanzada**: gobiernos administran inventarios, rutas y cuotas mientras el shock energético continúa transmitiéndose a inflación y primas soberanas. **Phase 2 no está confirmada.** Ni la liberación de reservas ni la decisión de OPEC+ son herramientas sobre la curva; falta demostrar que la coordinación fiscal/monetaria reduce con escala y persistencia el costo largo. Por ahora, energía arriba de USD 100 sigue siendo presión alcista sobre inflación y yields.
 
-**Implicación potencial para la cartera:** mantener exposición selectiva a energía, refinación, transporte protegido y productores fuera del Golfo, sin perseguir petróleo sobre la base de daños todavía no confirmados. Oro y activos reales conservan valor como cobertura del encadenamiento entre geopolítica, inflación y fragilidad soberana. Mantener duration nominal larga fuera del núcleo mientras el shock energético siga transmitiéndose a inflación y term premium. Para Argentina, la persistencia del riesgo logístico sostiene el valor estratégico relativo de Vaca Muerta, LNG y agro, pero no convierte automáticamente precios extraordinarios en volúmenes exportables: infraestructura y acceso a mercados siguen siendo la restricción.
+**Implicación potencial para la cartera:** mantener exposición selectiva a productores y logística fuera del Golfo, oro y activos reales, sin perseguir petróleo apalancado después de la intervención del G7. Favorecer capacidad operativa y acceso exportador sobre cuotas nominales. Para Argentina, persiste la ventana estratégica para Vaca Muerta, LNG y agro, pero con dos contrapesos: costo mundial de capital elevado y diésel caro para producción y transporte.
 
-**Evidencia pendiente:** causa y daño final del incendio cerca del aeropuerto de Riad; confirmación independiente o de Aramco sobre Yanbu; estado y capacidad efectiva del oleoducto Este–Oeste; cargas y cancelaciones desde Yanbu, Ras Tanura y Juaymah; tránsito por Hormuz y Bab el-Mandeb; inventarios, seguros y fletes; disponibilidad de interceptores saudíes; tipo de asistencia turca o pakistaní; resultado de la mediación qatarí y pakistaní; respuesta de Estados Unidos e Irán; y transmisión a Brent, diésel, inflación y yields largos cuando reabran los mercados globales.
+**Evidencia pendiente:** contenido verificable de las siete condiciones; respuesta formal estadounidense; calendario y pasos simultáneos o secuenciales; tráfico diario y primas de seguro en Ormuz; producción y exportaciones efectivas de OPEC+; revisión de capacidad para cuotas 2027; duración del Brent sobre USD 100; ejecución de reservas G7; y transmisión conjunta a inflación, Fed/ECB/BOJ y tasas largas.
 
 **Fuentes:**
 
-- https://www.reuters.com/world/middle-east/saudi-civil-defence-sends-all-clear-after-danger-warning-capital-riyadh-2026-09-19/
-- https://apnews.com/article/yemen-saudi-arabia-b1286cad816dd3e553f50f6dd5205972
-- https://www.reuters.com/business/aerospace-defense/turkey-says-it-could-help-meet-saudi-military-needs-under-defence-pact-2026-09-19/
+- https://www.reuters.com/world/middle-east/iran-says-strait-hormuz-will-not-reopen-until-conditions-are-met-2026-10-04/
+- https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/
 
 ---
 
-### 2026-09-18 — El BOJ sube a 1,25%, pero el yen se debilita y mantiene abierto el canal de intervención
+### 2026-10-02 — El G7 reemplaza la amenaza de restringir diésel por una liberación coordinada de 100 millones de barriles
 
-**Hecho confirmado:** el Banco de Japón elevó 25 puntos básicos su tasa de referencia hasta 1,25%, máximo en 31 años, por siete votos contra dos. La decisión cumplió la expectativa dominante y el BOJ sostuvo que continuará elevando la tasa si la economía y los precios evolucionan según sus proyecciones, pero no aceleró explícitamente la trayectoria futura. El yen se debilitó más de 1,2% frente al dólar después del anuncio —su mayor caída diaria desde diciembre—, tocó un mínimo de dos semanas y acumuló alrededor de 2,6% de depreciación semanal. La reacción ocurrió dos días después de que la Fed también subiera 25 puntos básicos, por lo que el diferencial bilateral no se comprimió mediante esta ronda de decisiones.
+**Hecho confirmado:** los líderes del G7 acordaron una liberación coordinada a través de la IEA de **100 millones de barriles** de crudo y productos durante cuatro meses, con una descarga sustancial de diésel concentrada en los primeros 20 días. El comunicado comprometió además evitar restricciones a exportaciones energéticas. Donald Trump confirmó que Estados Unidos no impondría la prohibición de exportar diésel que había promovido; el precio del petróleo cayó tras el anuncio.
 
-**Restricción corregida:** la señal de comienzos de septiembre había mostrado que la expectativa de una política monetaria japonesa más ágil podía fortalecer al yen sin consumir reservas. La decisión colectiva confirma la suba que faltaba, pero corrige la inferencia más fuerte: elevar una vez la tasa corta no basta para restaurar demanda sostenida de yenes cuando Estados Unidos también endurece, el mercado percibe gradualismo del BOJ y persisten dudas sobre la expansión fiscal japonesa y el costo energético importado. La herramienta actúa sobre el fundamento correcto, pero su efecto depende de la trayectoria relativa esperada, no sólo del nivel anunciado.
+**Restricción corregida:** no se adoptó el control de exportaciones evaluado el 25/09. La intervención es grande en términos absolutos, pero parte de los 100 millones puede corresponder a compromisos todavía no ejecutados de la acción IEA de marzo: al 02/10 se habían liberado unos 325 millones de los 400 millones comprometidos. El comunicado no detalló todavía la asignación exacta por país y producto. Las reservas desplazan oferta en el tiempo; no reparan refinerías ni crean capacidad estructural.
 
-**Mecanismo:** `BOJ sube 25 pb, pero Fed también sube y la guía japonesa sigue gradual → el diferencial esperado y el atractivo del carry cambian menos de lo necesario → venta de yenes → mayor inflación importada y presión política → riesgo de nueva intervención cambiaria o de subas más rápidas`. Si el Ministerio de Finanzas vuelve a comprar yenes sin utilizar FIMA, reaparece el canal `uso de reservas / posible venta o menor reinversión de Treasuries → presión sobre yields estadounidenses`. En sentido contrario, una secuencia BOJ más restrictiva podría cerrar carry trades y repatriar capital japonés, fortaleciendo al yen pero retirando demanda marginal de bonos extranjeros.
+**Mecanismo:** `presión estadounidense sobre Europa + coordinación G7/IEA → liberación adelantada de diésel y crudo → mayor oferta spot y menor precio marginal`. El compromiso de no prohibir exportaciones evita fragmentar el mercado y preserva el arbitraje desde refinerías estadounidenses hacia Europa y América Latina. El alivio es transitorio si `Ormuz restringido + refinerías del Golfo y Rusia dañadas + China sin exportar productos → reposición insuficiente de inventarios`.
 
-**Relación con eventos anteriores:** completa la prueba pendiente del 03/09, cuando la postura de Takata había apreciado al yen mediante expectativas, y confirma que el Board podía llevar la tasa a 1,25%. Sin embargo, la reacción posterior muestra que la expectativa fue más potente que la ejecución aislada. También se conecta con el 07/09: FIMA permaneció sin uso durante la intervención de agosto y la caída de reservas dejó abierto el costo de futuras defensas. Finalmente, la suba de la Fed del 16/09 neutralizó parte del canal relativo que Japón necesitaba para cerrar el diferencial.
+**Relación con eventos anteriores:** resuelve la bifurcación abierta el 25/09 a favor de coordinación de stocks y no de nacionalismo comercial. Se apoya en la recuperación parcial de crudo del 28/09, pero responde al problema que esa recuperación no corrigió: los productos refinados. También extiende la liberación récord iniciada en marzo, mostrando persistencia de intervención estatal sobre el mercado físico de energía.
 
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada**: dos bancos centrales endurecen la tasa corta mientras las monedas, los flujos de capital y las curvas soberanas continúan transmitiendo el shock. **Phase 2 no está confirmada**. El BOJ no reinstaló YCC ni anunció compras para fijar el JGB largo; la Fed tampoco intervino sobre 10Y/30Y. La suba japonesa, por sí sola, no tiene escala, persistencia ni efecto sobre el costo largo estadounidense que exige el umbral.
+**Efecto sobre Phase 1C / Phase 2:** es una intervención gubernamental coordinada y de escala sobre energía que puede reducir inflación de corto plazo y, por ese canal, aliviar la presión sobre bonos. Refuerza la administración de escasez propia de **Phase 1C avanzada**, pero **no confirma Phase 2**: no controla deuda larga y todavía falta demostrar persistencia y un efecto sostenido sobre inflación y yields. Una baja transitoria del Brent no satisface el criterio de costo largo efectivo.
 
-**Implicación potencial para la cartera:** mantener al yen sólo como cobertura táctica frente a un eventual *carry unwind*, no como posición direccional estructural mientras el BOJ no muestre una trayectoria relativa más restrictiva. Evitar complacencia en posiciones financiadas en yenes: la debilidad actual eleva, no reduce, el riesgo de una intervención oficial discontinua. Mantener cautela con duration larga estadounidense y japonesa, porque tanto una nueva venta de reservas como una repatriación inducida por mayores tasas japonesas pueden retirar demanda de Treasuries. Oro y activos reales conservan utilidad frente a inflación importada y tensión monetario-fiscal, aunque tasas reales más altas limitan posiciones apalancadas.
+**Implicación potencial para la cartera:** reducir exposición táctica a un salto lineal del diésel y evitar tesis basadas en una prohibición estadounidense. Mantener selectividad en refinación y logística porque los inventarios siguen ajustados y la oferta oficial es finita. Para Argentina, evita por ahora un shock adicional al costo del gasoil para agro y minería, pero también limita la renta extraordinaria de exportadores energéticos; el balance favorece proyectos de bajo costo y horizonte largo sobre apuestas spot.
 
-**Evidencia pendiente:** conferencia y lenguaje completo de Ueda; persistencia de USDJPY una vez absorbido el anuncio; velocidad y composición de futuras subas; intervención del Ministerio de Finanzas y eventual uso de FIMA; evolución de reservas y tenencias japonesas de Treasuries; flujos semanales hacia bonos extranjeros; JGB 10Y/30Y y calidad de subastas; política fiscal del gobierno; y respuesta coordinada si la depreciación vuelve a trasladarse a precios.
+**Evidencia pendiente:** desglose por país, producto y calendario; cuánto es adicional al compromiso de marzo; ritmo efectivo de entrega; inventarios de destilados; reapertura de refinerías y exportaciones rusas/chinas; respuesta de precios mayoristas y minoristas; posibilidad de nuevas liberaciones; reposición futura de reservas; y transmisión a inflación implícita y Treasury 10Y/30Y.
 
 **Fuentes:**
 
+- https://www.elysee.fr/en/emmanuel-macron/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability
+- https://www.iea.org/news/executive-director-participates-in-g7-leaders-meeting-on-energy-security-and-markets
+- https://www.reuters.com/business/energy/europe-discussing-plan-diesel-stock-releases-after-us-pressure-source-says-2026-10-02/
+- https://www.reuters.com/business/energy/trump-not-going-be-doing-diesel-export-ban-2026-10-02/
+
+---
+
+### 2026-10-01 — El Treasury 10Y llega a 5,34% mientras las recompras quedan por debajo del tope
+
+**Hecho confirmado:** el Treasury 10Y tocó **5,34%**, máximo desde 2002, después de su mayor suba trimestral de rendimiento en este siglo. La presión fue global: el bono francés a 10 años se acercó a 5%, el gilt británico a 30 años superó 6% y los JGB completaron cinco trimestres consecutivos de subas porcentuales de dos dígitos en sus rendimientos. En paralelo, el Tesoro estadounidense había aceptado cerca de la mitad de los bonos ofrecidos en operaciones recientes y recomprado menos que el nuevo máximo de **USD 6.000 millones**, frente al tope previo de USD 2.000 millones, rechazando precios considerados caros.
+
+**Restricción corregida:** elevar el tope no convirtió la facilidad en QE, YCC u Operation Twist. El Tesoro sigue describiendo las recompras como soporte técnico de liquidez para bonos viejos, puede aceptar menos que el máximo y debe financiarlas con nueva deuda, potencialmente bills con rendimientos superiores a los cupones retirados. La mejora de *swap spreads* y la negociación todavía ordenada indican que la liquidez no colapsó, aunque el nivel de yields sí endureció las condiciones financieras.
+
+**Mecanismo:** `energía cara + inflación persistente + déficit/oferta soberana + inversión intensiva en capital de IA → mayor tasa real y prima por plazo → venta global de duration`. Las recompras retiran bonos antiguos de bajo cupón y mejoran su negociabilidad, pero `escala pequeña + aceptación selectiva + financiamiento corto → poco poder para alterar el rendimiento benchmark`. El 10Y en 5,34% mientras el programa opera es una prueba observada de que el mercado todavía fija el costo largo.
+
+**Relación con eventos anteriores:** confirma la restricción señalada el 11/09 y el 25/09: la expansión de buybacks no logró detener la suba del tramo largo. A diferencia del Banco de Inglaterra, que ajustó la composición de oferta, Estados Unidos todavía no mostró una reducción sostenida de emisión larga ni compras de escala. El contagio hacia Francia, Reino Unido y Japón amplía el problema desde un evento estadounidense hacia competencia global por capital.
+
+**Efecto sobre Phase 1C / Phase 2:** profundiza **Phase 1C avanzada** y, a la vez, eleva el umbral de prueba para Phase 2. Existe una herramienta compatible con gestión de la curva, pero **no hay escala suficiente, intención declarada de controlar yields, persistencia ni efecto efectivo sobre el costo largo**. Por ahora la evidencia es la opuesta: el 10Y marcó un máximo de 24 años y el Tesoro ni siquiera agotó el tope disponible.
+
+**Implicación potencial para la cartera:** mantener la duration nominal larga fuera del núcleo hasta observar estabilización efectiva y no sólo anuncios. Los yields altos mejoran el carry, pero la convexidad negativa frente a energía, déficit y oferta sigue dominando. Favorecer balances con flujo propio, activos reales y oro como cobertura; exigir más spread en crédito y emergentes. Una recompra selectiva puede favorecer bonos *off-the-run* específicos, no justifica comprar indiscriminadamente el índice largo.
+
+**Evidencia pendiente:** resultados operación por operación; porcentaje aceptado y CUSIP concentrados; composición futura entre bills, notes y bonds; *swap spreads*, profundidad y volatilidad; demanda, *tails* y participación extranjera en subastas; persistencia del 10Y sobre 5%; respuesta de la Fed y del Tesoro; y cualquier coordinación que cambie tamaño, frecuencia o objetivo explícito del programa.
+
+**Fuentes:**
+
+- https://www.reuters.com/legal/transactional/treasurys-smaller-than-expected-buybacks-fuel-debate-over-aims-2026-10-01/
+- https://www.reuters.com/business/bonds-teeter-after-us-treasuries-worst-quarter-since-1994-2026-10-01/
+- https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
+
+### 2026-10-01 — Eramet condiciona USD 350 millones para ampliar 46% su capacidad de litio en Argentina
+
+**Hecho confirmado:** Eramet anunció un plan sujeto a decisión final de inversión por aproximadamente **USD 350 millones** para sumar **11.000 toneladas anuales de carbonato de litio equivalente** a su planta Centenario en Salta, sobre una capacidad actual de 24.000 toneladas. El aumento potencial es cercano a 46%. La empresa buscará incluir el proyecto en el régimen RIGI; la instalación comenzó a producir a fines de 2024.
+
+**Restricción corregida:** todavía no es capex ejecutado ni producción asegurada. Falta la FID —que la empresa había situado para fines de 2027—, no se informó un nuevo cronograma y Eramet redujo planes anteriores mientras enfrenta resultados débiles y mayor deuda. El RIGI mejora el marco de inversión, pero no reemplaza financiamiento, ingeniería, ramp-up, infraestructura ni precio rentable del litio.
+
+**Mecanismo:** `incentivos de inversión + recurso de salmuera ya operativo + tecnología y capital extranjero → expansión de capacidad argentina → diversificación de oferta de materiales para baterías fuera de un único proveedor`. Si se ejecuta, aumenta volumen exportable real; si el precio del litio o el balance de Eramet impiden la FID, permanece como opcionalidad sin flujo.
+
+**Relación con eventos anteriores:** complementa la inversión de Continental en Vaca Muerta registrada el 20/08 y amplía la tesis argentina desde hidrocarburos hacia minerales críticos. A diferencia de una declaración diplomática, cuantifica inversión y capacidad incremental; a diferencia del proyecto ya aprobado, la expansión sigue condicionada.
+
+**Efecto sobre Phase 1C / Phase 2:** es evidencia sectorial transversal y no cambia por sí sola la fase monetaria. Refuerza el eje de **oferta real y reasignación geopolítica de capital** dentro de Phase 1C. **No confirma Phase 2:** no interviene en deuda larga ni crea demanda cautiva por activos financieros.
+
+**Implicación potencial para la cartera:** elevar el litio argentino y su infraestructura asociada dentro del universo de seguimiento, comparándolo con Chile, Bolivia, Australia, China y nuevos proyectos globales. No adoptar sesgo doméstico ni extrapolar el monto anunciado a valor presente: priorizar vehículos con balance capaz de financiar la expansión, costos competitivos, acceso a agua/energía/logística y contratos estables. Más oferta potencial puede ser positiva para la cadena de baterías y negativa para productores marginales de alto costo.
+
+**Evidencia pendiente:** FID y financiamiento; aprobación bajo RIGI; fecha de construcción y ramp-up; recuperación financiera de Eramet; costo por tonelada y calidad del producto; precio de equilibrio del litio; permisos, agua y energía; capacidad logística; contratos de venta; producción efectiva de la planta actual; y comparación de retorno con proyectos competidores.
+
+**Fuentes:**
+
+- https://www.reuters.com/business/eramet-plans-350-million-lithium-expansion-argentina-2026-10-01/
+
+---
+
+### 2026-09-30 — Japón deja al yen sin nueva intervención y reduce otra vez las compras ordinarias de JGB
+
+**Hecho confirmado:** el Ministerio de Finanzas informó **cero yenes** de intervención cambiaria entre el 27/08 y el 28/09. El BOJ, por su parte, publicó para octubre–diciembre compras ordinarias de JGB por aproximadamente **¥2,3 billones mensuales**, por debajo de los ¥2,5 billones del trimestre julio–septiembre, manteniendo el cronograma de reducción. La señal se produjo con USDJPY alrededor de 156,9 y rendimientos japoneses cerca de máximos multidecenales, después de la suba de la tasa de política a 1,25% en septiembre.
+
+**Restricción corregida:** las advertencias oficiales y la coordinación verbal Estados Unidos–Japón no se convirtieron durante el período reportado en nuevas compras de yenes. Tampoco el calendario del BOJ es YCC ni una operación extraordinaria para fijar rendimientos: conserva flexibilidad para alterar frecuencia y tamaño ante condiciones de mercado, pero el monto base sigue descendiendo. El dato mensual no excluye operaciones posteriores al 28/09, que se conocerán en la próxima publicación.
+
+**Mecanismo:** `diferencial de tasas todavía amplio + energía importada cara + incertidumbre fiscal → yen débil`; simultáneamente, `BOJ sube la tasa corta y reduce compras de JGB → más duration queda en manos del mercado → yields domésticos más altos y menor incentivo japonés a comprar bonos extranjeros`. La ausencia de intervención preserva reservas, pero deja que el ajuste recaiga sobre la tasa, la curva y una eventual repatriación de capital.
+
+**Relación con eventos anteriores:** especifica el evento del 25/09: la coordinación sobre el yen fue verbal, no una nueva operación. También continúa el giro del 18/09 hacia una tasa de 1,25% y confirma que el BOJ todavía prioriza normalización sobre estabilización explícita de la curva. Frente al máximo del JGB 10Y registrado la semana anterior, el banco no revirtió el taper.
+
+**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** y funciona como evidencia negativa para Phase 2: el BOJ tolera por ahora la formación de precios en el tramo largo y reduce su demanda ordinaria. **Phase 2 no está confirmada** ni en Japón ni por coordinación con Estados Unidos; faltan escala, persistencia, intención de limitar yields y efecto efectivo sobre el costo largo.
+
+**Implicación potencial para la cartera:** mantener cautela con duration japonesa y con estrategias financiadas en yenes: el carry sigue siendo atractivo mientras la moneda permanezca débil, pero nuevas subas del BOJ o una intervención posterior pueden producir un unwind convexo. El aumento del rendimiento doméstico puede restar demanda marginal japonesa a Treasuries y bonos europeos. Usar el yen como cobertura sólo reconociendo que, sin intervención, puede seguir depreciándose.
+
+**Evidencia pendiente:** próximo dato oficial de intervención; USDJPY y volatilidad realizada; nuevas subas del BOJ; ejecución efectiva del programa mensual de ¥2,3 billones; compras adicionales fuera de calendario; subastas y liquidez de JGB; tenencias japonesas de Treasuries; repatriación de aseguradoras y fondos de pensión; y cualquier cambio en el límite anunciado de nueva emisión fiscal.
+
+**Fuentes:**
+
+- https://www.mof.go.jp/policy/international_policy/reference/feio/data/monthly/20260930.html
+- https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260930a.pdf
+- https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260616a.pdf
+- https://www.reuters.com/world/asia-pacific/bojs-policy-pivot-opens-scope-faster-rate-hikes-2026-09-30/
+- https://www.reuters.com/world/asia-pacific/japan-pm-takaichi-vow-nimble-response-unexpected-market-moves-nikkei-says-2026-09-30/
+
+---
+
+### 2026-09-28 — Oriente Medio recupera casi 80% de sus exportaciones de crudo sin normalizar Ormuz
+
+**Hecho confirmado:** datos preliminares de Kpler situaron las exportaciones de crudo de Arabia Saudita, Emiratos Árabes Unidos, Iraq, Omán, Qatar, Kuwait e Irán en **16,328 millones de barriles diarios** durante septiembre, máximo desde el comienzo de la guerra con Irán y apenas por debajo de 80% del nivel preconflicto de 19,513 millones. Los cruces vinculados a Ormuz alcanzaron 9,719 millones de bpd y Arabia Saudita elevó sus envíos a unos 5,4 millones de bpd desde 2,446 millones en agosto; 19 VLCC sauditas atravesaron el estrecho en la última semana observada.
+
+**Restricción corregida:** la recuperación no equivale a reapertura ni a normalización del corredor. El total regional seguía 3,2 millones de bpd por debajo de febrero y combina tránsitos por Ormuz, transferencias buque a buque, Fujairah, Omán y el Mar Rojo. Antes de la guerra, Ormuz manejaba alrededor de 125 grandes buques comerciales por día y aproximadamente una quinta parte del crudo y LNG mundial; la mejora de crudo tampoco resuelve la escasez más aguda de productos refinados, en especial diésel.
+
+**Mecanismo:** `adaptación operativa + más VLCC + rutas y terminales alternativas → recuperación parcial de crudo exportado → menor prima de escasez inmediata`. Pero `capacidad regional aún dañada + productos refinados restringidos + navegación políticamente condicionada → inventarios bajos y diésel caro → inflación y presión sobre tasas largas`. La adaptación reduce la probabilidad de un corte binario, no elimina la prima logística ni el riesgo de reversión.
+
+**Relación con eventos anteriores:** corrige parcialmente la lectura del 12/09 sobre cierres preventivos y continúa la secuencia del 22/09, cuando Arabia Saudita reactivó parcialmente el oleoducto East–West. Confirma que la redundancia física funciona, aunque con volúmenes y costos inferiores a la red prebélica. También explica por qué el petróleo puede retroceder sin que el diésel ni la inflación de transporte se normalicen.
+
+**Efecto sobre Phase 1C / Phase 2:** aporta una **contraseñal dentro de Phase 1C avanzada**: el sistema privado y estatal consiguió restaurar parte relevante del flujo sin control financiero explícito. **Phase 2 no está confirmada.** La mejora energética puede aliviar inflación futura, pero todavía no redujo de manera persistente el costo soberano largo ni activó una herramienta de control de curva.
+
+**Implicación potencial para la cartera:** reduce el atractivo de perseguir petróleo apalancado sólo por cierre total de Ormuz y favorece seleccionar operadores con infraestructura exportadora, refinación y logística efectivamente disponibles. Mantener cobertura en energía y activos reales mientras el faltante siga concentrado en diésel. Para Argentina, la oportunidad relativa de Vaca Muerta y LNG continúa, pero compite con una recuperación parcial del Golfo y depende de capacidad de evacuación, contratos y ejecución, no del Brent spot.
+
+**Evidencia pendiente:** persistencia de 16 millones de bpd o más; número diario de cruces y seguros de navegación; recuperación de productos refinados y LNG; exportaciones sauditas desde Ras Tanura y Yanbu; reparación del East–West; diferencia entre flujos con AIS y movimientos no observados; inventarios y márgenes de diésel; y resultado de la negociación para normalizar Ormuz.
+
+**Fuentes:**
+
+- https://www.reuters.com/business/energy/mideast-oil-exports-rebound-september-saudi-arabia-boosts-shipments-2026-09-28/
+
+---
+
+### 2026-09-25 — La presión del Treasury largo abre el debate sobre la eficacia de subir la tasa corta
+
+**Hecho confirmado:** la curva oficial del Tesoro estadounidense cerró el 24 de septiembre con el Treasury a 2 años en **4,87%**, el 10 años en **5,18%** y el 30 años en **5,47%**. El 10Y alcanzó su mayor nivel desde 2007 y el 30Y desde 2004; desde la reunión de la Fed de junio, el 10Y acumuló aproximadamente 70 puntos básicos de suba. En ese contexto, Bill Ackman cuestionó públicamente el supuesto de que elevar la tasa corta reducirá la inflación cuando la inversión en inteligencia artificial, capacidad de cómputo y energía responde a una carrera estratégica con retornos esperados extraordinarios. Su argumento agrega que los mayores costos financieros pueden incorporarse a precios y gasto fiscal, debilitando o incluso invirtiendo parcialmente el canal desinflacionario tradicional. El 25/09, Beth Hammack, presidenta de la Fed de Cleveland, respondió desde otro ángulo: atribuyó la suba principalmente a tasas reales, crecimiento, competencia por capital tecnológico y ajuste a la trayectoria monetaria, no a un desanclaje de expectativas de inflación.
+
+**Restricción corregida:** la publicación de Ackman no demuestra que subir tasas produzca necesariamente más inflación ni que el mecanismo monetario haya dejado de funcionar. Vivienda, consumo financiado, pequeñas empresas, crédito privado y empresas dependientes de refinanciación continúan siendo muy sensibles al costo del capital. La señal material es más acotada: la restricción monetaria actúa de forma desigual y puede necesitar castigar crecientemente a esos sectores para compensar una demanda fiscal, tecnológica y energética mucho menos sensible a la tasa. La simultaneidad entre yields altos, inversión de IA fuerte e inflación persistente identifica una hipótesis que debe seguirse; todavía no establece causalidad ni una nueva regla de política.
+
+**Mecanismo:** conviven dos canales opuestos. El convencional es `Fed sube la tasa corta → sube el costo de capital → caen crédito, consumo e inversión marginal → baja la demanda agregada y la inflación`. El canal que gana relevancia es `carrera por IA + infraestructura energética + déficit fiscal poco sensibles a la tasa → la inversión estratégica continúa → el mayor servicio de deuda y los costos financieros se trasladan parcialmente a gasto, alquileres y precios → la Fed necesita endurecer más sobre el resto de la economía`. La curva muestra esta tensión: el 2Y incorpora una trayectoria más restrictiva de la Fed, mientras 10Y/30Y exigen además una prima creciente por inflación, oferta de deuda y disposición del mercado a financiar al soberano.
+
+**Relación con eventos anteriores:** profundiza la secuencia del 04/09, cuando la Fed reconoció la pérdida de la prima de seguridad de los Treasuries; del 11/09, cuando la recompra ampliada no logró bajar el 10Y; y del 17/09, cuando la Fed volvió a subir la tasa corta sin intervenir sobre la curva mientras el Banco de Inglaterra comenzó a administrar la oferta de duration larga. También conecta el shock energético de Hormuz con el boom de inversión en IA: ambos sostienen demanda de capital y energía al mismo tiempo que el Tesoro compite por compradores.
+
+**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** y agrega una señal narrativa importante: comienza a discutirse públicamente si la tasa corta sigue siendo una herramienta suficiente y correctamente dirigida para este régimen. **Phase 2 no está confirmada.** El mercado continúa fijando el costo largo; de hecho, 10Y/30Y subieron pese a las recompras del Tesoro. El cambio de fase requeriría que la Fed, el Tesoro o la regulación actúen con escala, persistencia y eficacia para impedir que esos rendimientos continúen determinados libremente por el mercado. La narrativa sí puede convertirse en la justificación intelectual para separar instrumentos: tasa corta restrictiva y gestión explícita o indirecta de la duration larga.
+
+**Implicación potencial para la cartera:** mantener cautela con duration larga nominal estadounidense mientras el 10Y sostenga el quiebre de 5% y el 30Y permanezca cerca de 5,5%; a estos niveles el carry mejora, pero una nueva ampliación de la prima fiscal o inflacionaria puede dominarlo. Favorecer empresas capaces de financiar inversión con flujo propio y trasladar costos frente a modelos dependientes de refinanciación. Mantener oro y activos reales como cobertura del conflicto entre inflación persistente y sostenibilidad fiscal. No perseguir indiscriminadamente el trade de IA: su baja sensibilidad a tasas en los hyperscalers no se extiende automáticamente a toda la cadena de proveedores ni elimina el riesgo de valuación.
+
+**Evidencia pendiente:** persistencia del 10Y por encima de 5% y del 30Y cerca de 5,5%; descomposición entre tasa real, expectativas de inflación y prima por plazo; demanda y *tails* en subastas de 10Y/30Y; escala y eficacia de nuevas recompras; reacción de hipotecas, crédito corporativo y actividad; capex efectivo de hyperscalers y demanda eléctrica; gasto neto por intereses del Tesoro; adopción de este diagnóstico dentro de la Fed o del Tesoro; y cualquier propuesta que separe la política sobre la tasa corta de la gestión del costo largo.
+
+**Fuentes:**
+
+- https://x.com/BillAckman/status/2103299666276184301
+- https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
+- https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/
+- https://www.reuters.com/business/feds-goolsbee-strong-demand-may-be-adding-us-inflation-no-ambiguity-how-fed-2026-09-21/
+- https://www.marketscreener.com/news/u-s-30-year-bond-yield-rises-to-highest-since-2004-as-selloff-deepens-ce785adedd80f12c
+- https://www.reuters.com/markets/us/feds-hammack-says-bond-yield-surge-not-about-lost-inflation-confidence-2026-09-25/
+
+### 2026-09-25 — Treasury y JGB marcan máximos mientras Estados Unidos y Japón vuelven a coordinar sobre el yen
+
+**Hecho confirmado:** el Treasury 10Y tocó **5,2297%**, máximo desde 2007, y el JGB 10Y alcanzó **3,115%**, máximo desde 1996. El movimiento japonés ocurrió una semana después de que el BOJ subiera la tasa a 1,25%, mientras USDJPY llegó a cotizar por encima de 158. La ministra de Finanzas Satsuki Katayama informó que Donald Trump había expresado preocupación por la debilidad del yen durante su reunión con Sanae Takaichi y que Scott Bessent compartía la preocupación por su infravaloración. El yen se fortaleció hacia 157,3 después de las declaraciones.
+
+**Restricción corregida:** no hubo una nueva intervención cambiaria confirmada ni una operación extraordinaria del BOJ sobre JGB. Las verificaciones de cotizaciones reportadas al comienzo de la semana y la coordinación verbal elevan la probabilidad de acción, pero no son compras de yenes. Del mismo modo, un máximo sincronizado de Treasury y JGB no prueba causalidad directa: energía, política monetaria, gasto fiscal y competencia de la inversión en IA presionan a ambos mercados.
+
+**Mecanismo:** `tasa BOJ insuficiente para estabilizar el yen + expansión fiscal japonesa → yen débil e inflación importada → presión por nuevas subas o intervención`. En paralelo, `JGB más atractivo y volátil + pérdidas de duration doméstica → posible repatriación o menor demanda japonesa por Treasuries → presión adicional sobre yields estadounidenses`. La coordinación Washington–Tokio busca evitar que una defensa del yen fuerce ventas desordenadas de Treasuries, pero todavía no eliminó el desequilibrio.
+
+**Relación con eventos anteriores:** confirma la limitación observada el 18/09, cuando el yen cayó pese a la suba del BOJ, y reactiva el canal de coordinación utilizado en julio. También enlaza el JGB por encima de 3% con el Treasury por encima de 5%: los dos mayores mercados soberanos enfrentan simultáneamente inflación, oferta fiscal y una base compradora más exigente.
+
+**Efecto sobre Phase 1C / Phase 2:** profundiza **Phase 1C avanzada** al mostrar que la normalización monetaria japonesa no alcanza para estabilizar simultáneamente moneda y bonos. **Phase 2 no está confirmada:** Estados Unidos y Japón coordinaron verbalmente sobre el yen, pero no mostraron una intervención nueva, persistente y eficaz sobre el costo largo. Un aumento discrecional de compras de JGB o una segunda intervención conjunta serían escalones adicionales, no confirmación automática.
+
+**Implicación potencial para la cartera:** mantener vigilancia sobre trades financiados en yenes y activos de beta alta —cripto, emergentes y tecnología— ante riesgo de reversión brusca del carry. Evitar concentración en duration larga japonesa o estadounidense mientras ambos benchmarks sigan rompiendo máximos. El yen puede funcionar como cobertura convexa sólo si la coordinación se convierte en acción; sin intervención, el diferencial de tasas y la política fiscal siguen jugando en contra.
+
+**Evidencia pendiente:** confirmación oficial de rate checks; nueva intervención de Japón o Estados Unidos; tamaño y composición de cualquier operación; compras extraordinarias de JGB; trayectoria de USDJPY; tenencias japonesas de Treasuries y uso de FIMA; flujos de GPIF; próximas subastas de JGB y UST; y persistencia de 10Y JGB sobre 3% y 10Y UST sobre 5%.
+
+**Fuentes:**
+
+- https://www.reuters.com/world/asia-pacific/volatile-yen-draws-intervention-watch-other-currencies-subdued-2026-09-21/
+- https://www.reuters.com/world/china/global-markets-warpup-1-pix-2026-09-25/
+- https://www.reuters.com/world/asia-pacific/japan-says-trump-voiced-concern-over-weak-yen-summit-with-pm-takaichi-2026-09-25/
 - https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf
-- https://www.reuters.com/world/asia-pacific/boj-raises-interest-rates-31-year-high-widely-expected-move-2026-09-18/
-- https://www.reuters.com/world/asia-pacific/yen-weak-ahead-boj-decision-rate-hike-expected-2026-09-18/
-- https://www.reuters.com/world/asia-pacific/view-investors-react-boj-raising-interest-rates-31-year-high-2026-09-18/
-- https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-18/
 
----
+### 2026-09-25 — Estados Unidos evalúa restringir el diésel y desplazar el faltante hacia el mercado mundial
 
-### 2026-09-16 / 2026-09-17 — La Fed endurece la tasa corta y rehúsa validar control sobre la curva larga
+**Hecho confirmado:** Donald Trump declaró que apoyaba prohibir exportaciones de diésel, aunque la Casa Blanca negó que estuviera preparando una prohibición de 90 días y el secretario de Energía Chris Wright sostuvo que una prohibición no controlaría los precios. Wright sí consultó a grandes refinerías sobre una restricción voluntaria. La expectativa movió el mercado: el descuento de WTI frente a Brent llegó a USD 12,02, el mayor desde el 06/05. Estados Unidos exporta neto unos 1,2 millones de bpd de diésel sobre una producción de 5,1 millones.
 
-**Hecho confirmado:** el FOMC votó 12–0 elevar 25 puntos básicos el rango de fondos federales a 3,75%–4,00%, su primera suba en más de tres años, porque la inflación continúa elevada. Mantuvo la política de reservas abundantes y no anunció compras de Treasuries, cambios de balance, objetivos de yield ni coordinación con el Tesoro. Kevin Warsh atribuyó el aumento de las tasas largas a la fortaleza económica, la inversión de los grandes grupos tecnológicos, la competencia por capital y los riesgos geopolíticos; no lo atribuyó a pérdida de credibilidad de la Fed ni a dudas sobre sostenibilidad fiscal. Dieciséis de dieciocho participantes proyectaron al menos una suba adicional durante 2026. Después de la decisión subieron los yields cortos, mientras el tramo largo quedó estable o cedió levemente. Donald Trump pidió públicamente tasas de 1% o menos, pero no se anunció una modificación operativa de la política.
+**Restricción corregida:** no existe todavía una medida adoptada. Una prohibición puede bajar transitoriamente el precio doméstico del diésel, pero no crea capacidad de almacenamiento ni demanda final: estimaciones de Wood Mackenzie indican que 700.000 bpd excedentes llenarían el almacenamiento de la Costa del Golfo en poco más de un mes y forzarían un recorte de más de 2 millones de bpd, alrededor del 12% de las corridas de crudo de refinerías estadounidenses.
 
-**Restricción corregida:** ante el Treasury 10Y alrededor de 5%, existía la posibilidad de que la Fed respondiera al costo largo mediante balance, señalización o coordinación con el Treasury Twist. No ocurrió. La autoridad interpretó la suba de yields como resultado de demanda real de capital y shocks externos, y eligió endurecer el precio del dinero a corto plazo para contener inflación. La estabilidad inicial del 10Y/30Y tras la reunión no equivale a control: fue reacción de mercado sin objetivo ni mecanismo de supresión.
+**Mecanismo:** `control de exportaciones → más diésel doméstico en el corto plazo → menor precio local`, pero luego `tanques llenos → menor utilización de refinerías → menos producción conjunta de gasolina y destilados → reaparece presión de precios`. En el exterior, retirar parte de los 1,2 millones de bpd estadounidenses ampliaría el faltante dejado por Oriente Medio y Rusia, trasladando inflación a Europa, emergentes, agricultura y transporte.
 
-**Mecanismo:** `energía + actividad e inversión robustas → inflación persistente y competencia por capital → Fed sube la tasa corta → ancla expectativas y fortalece dólar → tramo corto sube; tramo largo sólo se estabiliza si el mercado cree que la inflación futura bajará`. No hubo el mecanismo de Phase 2: `compras oficiales/demanda cautiva/reducción coordinada de duration → compresión administrada de 10Y/30Y`.
+**Relación con eventos anteriores:** es la respuesta política directa al récord de diésel y al agotamiento de inventarios registrado el 21/09. Repite el patrón de restricciones rusas: cada gobierno intenta proteger al consumidor doméstico, pero la suma fragmenta el mercado mundial y agrava la escasez en importadores.
 
-**Relación con eventos anteriores:** confirma la postura de Jackson Hole registrada el 28/08: Warsh utiliza la tasa corta y preserva señales de mercado, sin respaldar explícitamente la intervención del Tesoro. También completa la prueba iniciada el 10/09: la recompra de USD 5.200 millones no controló el 10Y y la Fed no la complementó con balance. La divergencia entre el pedido presidencial de 1% y la suba unánime es evidencia contra una coordinación monetario-fiscal operativa en este momento.
+**Efecto sobre Phase 1C / Phase 2:** profundiza **Phase 1C avanzada** porque el shock físico empieza a producir controles y asignación administrativa del comercio energético. **No confirma Phase 2:** es intervención sobre productos refinados, no sobre deuda larga. Sí eleva la probabilidad de inflación divergente y de respuestas fiscales/monetarias distintas entre Estados Unidos y sus socios.
 
-**Efecto sobre Phase 1C / Phase 2:** valida con fuerza **Phase 1C avanzada**. El soberano enfrenta un costo largo cercano a 5%, el Tesoro ensaya recompras de liquidez y la Fed responde a inflación elevando el corto, no reprimiendo el largo. **Phase 2 no está confirmada**: faltan intención explícita, escala, persistencia y compresión efectiva del costo largo atribuible a intervención.
+**Implicación potencial para la cartera:** favorecer refinadores con acceso a crudo barato sólo mientras puedan exportar y operar a alta utilización; una prohibición puede invertir rápidamente esa ventaja. El mayor diferencial Brent–WTI favorece consumidores domésticos de crudo estadounidense, pero los costos de flete limitan el arbitraje. Para Argentina, una restricción estadounidense puede elevar el precio global del gasoil y los costos de agro/minería aun si el WTI cae; conviene distinguir exposición a crudo de exposición a destilados.
 
-**Implicación potencial para la cartera:** mantener plazos cortos y liquidez como núcleo defensivo y duration nominal larga sólo como posición táctica. El dólar recibe apoyo por diferencial, mientras oro, Bitcoin y activos reales conservan valor estructural frente a fragilidad fiscal, aunque pueden sufrir por tasas reales altas. Mantener cautela con high yield, empresas dependientes de refinanciación y growth intensivo en capital. La caída del crudo por adaptación saudí reduce algo el riesgo inflacionario marginal, pero el diésel y los productos refinados siguen tensos.
-
-**Evidencia pendiente:** persistencia del 10Y y 30Y después de absorber la decisión; próxima recompra larga y subastas del Tesoro; evolución de inflación, petróleo y *crack spreads*; implementación de las proyecciones de nuevas subas; cambios en composición de emisiones; utilización del balance o reservas; coordinación Fed–Tesoro; y cualquier respuesta si el 10Y supera sostenidamente 5%.
+**Evidencia pendiente:** decisión formal de la Casa Blanca; adhesión voluntaria de refinerías; alcance, duración y excepciones; inventarios de la Costa del Golfo; utilización de refinerías; exportaciones efectivas; WTI–Brent; precio doméstico versus internacional del diésel; y reacción de socios comerciales.
 
 **Fuentes:**
 
-- https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm
-- https://www.reuters.com/markets/us/feds-warsh-lays-out-forces-driving-up-bond-yields-2026-09-16/
-- https://www.reuters.com/business/trump-says-us-interest-rates-should-be-1-or-lower-2026-09-16/
-- https://www.reuters.com/world/china/global-markets-global-markets-2026-09-17/
+- https://www.reuters.com/business/energy/talk-us-export-ban-diesel-deepens-us-crude-futures-discount-global-benchmark-2026-09-25/
 
----
+### 2026-09-25 — El daño del corredor cerealero del Mar Negro queda cuantificado y mejora el valor relativo del agro alternativo
 
-### 2026-09-17 — El Banco de Inglaterra pausa ventas, reduce QT y retiene £120.000 millones de gilts largos
+**Hecho confirmado:** un análisis de Reuters estimó que ataques ucranianos dañaron severamente terminales equivalentes a alrededor del **20%** de la capacidad cerealera rusa del Mar Negro y mar de Azov; el 80% restante podría reiniciar rápidamente si un cese de ataques permite reabrir la navegación. Antes de la interrupción, el corredor concentraba hasta 70% de las exportaciones rusas de granos. La terminal NKHP de Novorossiysk, con capacidad anual de 7,1 millones de toneladas, podría requerir entre cuatro y seis meses de reparación. Turquía encabeza una negociación con participación de India, Egipto y otros importadores, mientras Rusia desvía cargas hacia terminales bálticas y árticas.
 
-**Hecho confirmado:** el Banco de Inglaterra mantuvo Bank Rate en 3,75% por seis votos contra tres, pero aprobó por unanimidad una nueva trayectoria para su cartera de gilts. Pausará sus subastas de venta hasta abril de 2027, reducirá las ventas activas a £20.000 millones anuales y bajará el ritmo medio de contracción —ventas más vencimientos— desde £70.000 millones a £46.000 millones por año hasta 2034. De los £488.000 millones restantes, separará y conservará permanentemente £120.000 millones de los gilts de mayor plazo para respaldar la emisión de billetes; £222.000 millones vencerán pasivamente y sólo £146.000 millones se venderán. El Banco y el Tesoro británico estudian transferir gilts al Debt Management Office a precios de mercado, en vez de subastarlos al sector privado.
+**Restricción corregida:** no está destruido el 70% de la capacidad rusa ni existe una pérdida equivalente de cosecha. La principal restricción es seguridad de navegación y operación portuaria; gran parte de la infraestructura puede volver si hay un acuerdo. Las rutas alternativas reducen el riesgo de corte total, aunque agregan ferrocarril, distancia, subsidios y costos logísticos. El daño físico permanente por ahora se concentra en aproximadamente una quinta parte de la capacidad regional.
 
-**Restricción corregida:** el mercado británico debía absorber simultáneamente emisión fiscal elevada y ventas activas del banco central cuando el gilt a 30 años acababa de fijar máximos desde 1998. La nueva arquitectura elimina durante seis meses un vendedor oficial, reduce permanentemente el ritmo de oferta adicional y retira £120.000 millones de gilts largos del calendario de ventas. No elimina QT ni fija un yield objetivo: el stock monetario restante seguirá bajando y el Banco mantiene Bank Rate como herramienta activa.
-
-**Mecanismo:** `pausa de subastas + menor ritmo de QT + retención permanente de gilts largos → menos duration ofrecida al mercado privado → menor term premium y mejor equilibrio frente a la emisión del DMO`. Una eventual transferencia directa al DMO coordinaría la administración de oferta entre banco central y Tesoro sin ser QE nuevo. El efecto inmediato fue un rally de gilts y una baja leve de yields, mientras el Banco reconoció que su QT agregó alrededor de 20–30 pb al term premium; estimaciones privadas elevan el efecto sobre el 30Y hasta unos 75 pb.
-
-**Relación con eventos anteriores:** responde funcionalmente al problema registrado el 08/09, cuando Reino Unido colocó deuda a 30 años al yield récord de 5,8168% y redujo el peso futuro de emisión larga. Primero el Tesoro acortó oferta; ahora el banco central deja de competir en el extremo largo. La secuencia configura una administración conjunta de duration por composición y calendario, aunque ambas instituciones mantienen formalmente objetivos separados.
-
-**Efecto sobre Phase 1C / Phase 2:** es el análogo internacional más claro hasta ahora de una transición hacia **gestión oficial de la oferta larga**: tiene escala, horizonte multianual e intención funcional de evitar disrupción, y produjo una compresión inicial de yields. Sin embargo, **no confirma Phase 2 del Plano Global**, cuyo umbral es el costo largo del Tesoro estadounidense. Tampoco constituye YCC británico: no hay techo de yield, compras netas ni compromiso de defender un precio. Refuerza la probabilidad de que otros soberanos adopten herramientas similares si el mercado exige costos incompatibles.
-
-**Implicación potencial para la cartera:** mejora tácticamente el balance técnico de gilts largos, pero no elimina inflación superior a 4%, riesgo fiscal ni posibles subas de Bank Rate. Favorece una exposición más selectiva a duration británica frente a otras curvas sin reducción de QT, evitando tratarla aún como núcleo estructural. Mantener oro y activos reales como cobertura del giro hacia administración de duration. Para Treasuries, el evento eleva la relevancia de vigilar si Fed y Tesoro replican una pausa de ventas, retención de activos o coordinación de vencimientos.
-
-**Evidencia pendiente:** efecto persistente sobre gilts 10Y/30Y y term premium; detalle por vencimiento de los £120.000 millones retenidos; decisión final sobre ventas al DMO y tratamiento de bonos adquiridos; respuesta de la oficina de deuda y composición de emisión fiscal; cumplimiento del ritmo de £20.000 millones; inflación y futuras subas de Bank Rate; y adopción de mecanismos equivalentes por Fed, ECB o BOJ.
-
-**Fuentes:**
-
-- https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026
-- https://www.reuters.com/business/finance/bank-england-sets-out-long-term-plan-unwind-qe-halts-long-dated-gilt-sales-2026-09-17/
-- https://www.reuters.com/world/uk/view-bank-england-sounds-inflation-alarm-pauses-gilt-sales-2026-09-17/
-
----
-
-### 2026-09-16 — Arabia Saudita sustituye parcialmente Yanbu y reduce el riesgo inmediato de perder 4% de la oferta mundial
-
-**Hecho confirmado:** Saudi Aramco comenzó a ofrecer a compradores asiáticos crudos Arab Light, Medium y Heavy mediante trasbordos *ship-to-ship* frente a Sohar, Omán, fuera de Hormuz. Al mismo tiempo, las cargas desde Ras Tanura y Juaymah, dentro del Golfo, se duplicaron hasta aproximadamente 4 millones de bpd y cuatro VLCC —con capacidad conjunta cercana a 8 millones de barriles— fueron observados cargando en Ras Tanura. Yanbu permanece detenido: al menos un comprador asiático recibió aviso de demora y clientes europeos fueron informados de cancelaciones de cargas de septiembre. El secretario de Energía estadounidense, Chris Wright, afirmó que el oleoducto Este–Oeste debería volver a operar en cuestión de días; esa reapertura todavía no está confirmada por Arabia Saudita.
-
-**Restricción corregida:** la entrada del 13/09 cuantificó un riesgo de perder hasta 4 millones de bpd si el ducto permanecía cerrado más allá de los cinco a siete días de inventarios de Yanbu. La restricción no desapareció, pero dejó de ser binaria entre reparar el ducto o retirar toda esa oferta: Aramco está sustituyendo parte del corredor mediante carga en puertos del Golfo, cruces de Hormuz y trasbordos frente a Omán. La estimación estadounidense de una reparación en días reduce además el extremo de seis semanas, aunque no lo invalida hasta observar flujo efectivo por el ducto.
-
-**Mecanismo:** `Yanbu detenido → más carga en Ras Tanura/Juaymah → cruce administrado de Hormuz → trasbordo frente a Sohar → entrega de crudo saudí fuera del estrecho`. La adaptación conserva barriles físicos y reduce la prima de escasez inmediata, pero agrega buques, coordinación, seguro, costo y exposición al mismo chokepoint que el ducto evitaba. Por eso el Brent cedió, mientras el diésel europeo permaneció cerca de récords y el estadounidense por encima de USD 6 por galón.
-
-**Relación con eventos anteriores:** corrige parcialmente la secuencia del 12–14/09. El ataque eliminó el bypass saudí y el buffer de Yanbu creó un horizonte de pérdida física; ahora aparece una sustitución operativa observable y una expectativa oficial de reparación rápida. Repite el patrón registrado el 02/09 para LNG: el sistema no normaliza el corredor, pero crea trasbordos extraordinarios para preservar flujos. También explica por qué el riesgo geopolítico puede seguir elevado sin traducirse linealmente en una caída equivalente de oferta mundial.
-
-**Efecto sobre Phase 1C / Phase 2:** alivia marginalmente la presión energética dentro de **Phase 1C avanzada**, pero no revierte la fase: la oferta depende de rutas militarizadas, trasbordos costosos y capacidad logística excepcional. No confirma Phase 2. No existe una intervención persistente que controle el costo largo estadounidense; la adaptación actúa sobre oferta física y puede reducir inflación futura, pero no suprime 10Y/30Y.
-
-**Implicación potencial para la cartera:** reducir el caso para perseguir petróleo apalancado basado en una pérdida automática de 4% de la oferta. Mantener exposición selectiva a energía, refinación, transporte y productores fuera del Golfo, con mayor atención a productos medios como diésel que al crudo agregado. Oro y activos reales conservan función de cobertura; duration larga sigue fuera del núcleo hasta observar una desaceleración persistente de energía e inflación o control efectivo de la curva. Para Argentina, permanece el valor estratégico de Vaca Muerta y LNG, pero la resiliencia logística saudí limita cualquier extrapolación lineal de precios extraordinarios.
-
-**Evidencia pendiente:** confirmación saudí y fecha efectiva de reinicio del oleoducto; capacidad parcial o total recuperada; flujo diario hacia Yanbu; número, volumen y frecuencia de trasbordos en Sohar; entregas completadas frente a simples ofertas; cruces y ataques en Hormuz; cancelaciones a Europa y demoras en Asia; costos de seguro y flete; evolución del diésel, Brent e inventarios; y transmisión a inflación, Fed, BOJ y yields soberanos largos.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/energy/saudi-offers-more-crude-via-oman-loading-after-pipeline-attacks-sources-say-2026-09-16/
-- https://www.reuters.com/business/energy/us-energy-chief-says-saudi-arabia-oil-pipeline-should-be-back-within-days-2026-09-15/
-- https://www.reuters.com/business/energy/oil-falls-us-crude-inventories-rise-despite-saudi-supply-concerns-2026-09-16/
-
----
-
-### 2026-09-14 — Se posterga la negociación sobre Hormuz y el shock energético vuelve a transmitirse al Treasury 10Y
-
-**Hecho confirmado:** la reunión entre los Estados del Golfo e Irán que debía celebrarse el 14 de septiembre en Omán para negociar acuerdos sobre el estrecho de Hormuz fue postergada sin nueva fecha, según el ministro de Relaciones Exteriores omaní. En paralelo, nuevos ataques contra infraestructura saudí y un mercante mantuvieron cerrado el oleoducto Este–Oeste y elevaron el Brent por encima de USD 107 por barril. El Treasury a 10 años alcanzó 4,9915%, su máximo en casi tres años, antes de retroceder levemente.
-
-**Restricción corregida:** hasta el 13/09, el principal límite cuantificable era físico: reparar el ducto antes de agotar los inventarios de Yanbu. La reunión de Omán ofrecía además una posible salida diplomática para restaurar tránsito más regular por Hormuz. Su postergación elimina ese alivio del horizonte inmediato; no prueba el fracaso definitivo de la diplomacia ni una pérdida consumada de 4% de la oferta mundial, pero prolonga la dependencia de inventarios, cruces excepcionales y rutas igualmente expuestas.
-
-**Mecanismo:** `sin negociación inmediata sobre Hormuz + ducto saudí cerrado → menor probabilidad de normalización rápida de flujos → petróleo, diésel, seguros y fletes más altos → expectativas de inflación y subas de bancos centrales → mayor term premium → Treasury 10Y cerca de 5%`. A diferencia de una reacción puramente técnica, el movimiento conecta la persistencia del shock físico con el costo soberano largo justo antes de las decisiones de la Fed y el BOJ.
-
-**Relación con eventos anteriores:** extiende la secuencia del 09–13/09: el daño se propagó desde mercantes en Hormuz hacia Perim y el bypass saudí; luego el cierre del ducto adquirió un horizonte de hasta seis semanas y un buffer de Yanbu de sólo cinco a siete días. La postergación de Omán retira la vía que podía relajar esa restricción antes de que el buffer se agote. También confirma la transmisión ya observada el 11/09: la recompra ampliada del Tesoro no pudo impedir que el 10Y volviera a aproximarse a 5%.
-
-**Efecto sobre Phase 1C / Phase 2:** profundiza **Phase 1C avanzada**: el shock de rutas ya no sólo amenaza oferta física, sino que mantiene el costo largo estadounidense en el umbral de 5%. No confirma Phase 2. La recompra sigue sin escala ni eficacia sobre la curva, y no existe todavía una intervención monetario-fiscal persistente con intención explícita y efecto comprobado de comprimir 10Y/30Y.
-
-**Implicación potencial para la cartera:** sostener coberturas en energía, oro y activos reales, y exposición selectiva a productores y corredores fuera de Hormuz, sin perseguir el salto diario del crudo. Mantener cautela con duration larga, high yield, transporte y consumidores intensivos en combustible. Para Argentina, mejora el valor estratégico relativo de Vaca Muerta, minería y futuros proyectos de LNG, pero el beneficio exige infraestructura y estabilidad contractual y no compensa automáticamente el encarecimiento global de capital e insumos.
-
-**Evidencia pendiente:** nueva fecha, participantes y condiciones de la reunión de Omán; apertura de un corredor comercial verificable por Hormuz; informe técnico y reapertura parcial o total del oleoducto saudí; nominaciones y entregas efectivas de Saudi Aramco a refinadores asiáticos; agotamiento de inventarios en Yanbu; tránsito, seguros y fletes; respuesta de OPEC+, IEA y reservas estratégicas; persistencia del Brent y del diésel; decisiones de Fed y BOJ; y permanencia del Treasury 10Y sobre 5% después de esas decisiones.
-
-**Fuentes:**
-
-- https://www.reuters.com/world/middle-east/oman-meeting-between-gulf-states-iran-postponed-omani-foreign-minister-says-2026-09-13/
-- https://www.reuters.com/business/energy/oil-prices-jump-more-than-3-after-new-strikes-saudi-strait-hormuz-2026-09-13/
-- https://www.reuters.com/markets/us/global-markets-technicals-graphic-2026-09-14/
-- https://www.reuters.com/business/energy/asian-refiners-awaiting-word-saudi-shipments-expect-tighter-supply-2026-09-14/
-
----
-
-### 2026-09-13 — El cierre del oleoducto saudí pasa de pausa precautoria a riesgo de retirar 4% de la oferta mundial
-
-**Hecho confirmado:** el oleoducto Este–Oeste saudí continuaba cerrado el 13 de septiembre después de los ataques con drones registrados el día 10. Fuentes de la industria consultadas por Reuters estimaron plazos de reparación que van desde algunos días hasta seis semanas. El ducto venía desviando alrededor de 4 millones de bpd hacia Yanbu, cerca de 4% de la oferta mundial. Compradores y operadores estimaron que los inventarios disponibles en Yanbu permiten sostener embarques normales sólo entre cinco y siete días; existen existencias adicionales limitadas en Ain Sukhna y Sidi Kerir, Egipto. Por lo tanto, todavía no se perdieron automáticamente 4 millones de bpd, pero la continuidad del cierre más allá de esa ventana obligaría a reducir de manera sustancial las exportaciones saudíes. En paralelo, UKMTO reportó un nuevo impacto de proyectil contra un buque en Hormuz que provocó incendio y evacuación de la tripulación; la autoría no fue confirmada.
-
-**Restricción corregida:** el 12/09 sólo podía afirmarse un cierre preventivo mientras se evaluaba la integridad del ducto. La nueva información acota el buffer y amplía la posible duración: almacenamiento y puertos pueden desacoplar temporalmente el flujo exportado del ducto, pero no por más de aproximadamente una semana a ritmo normal. La restricción pasa a ser temporal y medible: reparación antes del agotamiento de inventarios o recorte físico de exportaciones.
-
-**Mecanismo:** `ducto detenido → Yanbu embarca desde stocks durante 5–7 días → si la reparación excede el buffer, caen las cargas saudíes hasta por varios millones de bpd → inventarios globales y productos refinados se ajustan → energía e inflación permanecen elevadas → bancos centrales sostienen o suben tasas + term premium`. Los stocks egipcios y cruces puntuales por Hormuz amortiguan la magnitud, pero no sustituyen de forma sostenida los 4 millones de bpd transportados por el ducto. Cada nuevo ataque a mercantes reduce además la disposición privada a usar el estrecho aun dentro de ventanas de defensa aérea.
-
-**Relación con eventos anteriores:** convierte en horizonte operativo la secuencia del 10–12/09: Arabia Saudita primero recuperó cargas por Yanbu, luego los hutíes alcanzaron Perim y finalmente el ducto que alimenta el bypass fue atacado y cerrado. La estimación de hasta seis semanas eleva la probabilidad de que la caída saudí observada por OPEC e IEA persista, en lugar de revertirse rápidamente. También refuerza el vínculo ya observado entre energía, IPC estadounidense, suba del ECB y Treasury 10Y cercano a 5%.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** porque una interrupción logística adquiere escala potencial de 4% de la oferta mundial y duración superior al buffer disponible. No confirma Phase 2: ni la gestión de inventarios, ni la defensa militar, ni una eventual liberación de reservas controlan por sí mismas el costo financiero largo. El shock aumenta la presión para una respuesta, pero siguen faltando escala monetario-fiscal, persistencia, intención explícita y compresión efectiva de 10Y/30Y.
-
-**Implicación potencial para la cartera:** sostener exposición selectiva a energía y productores atlánticos, pero evitar apalancamiento direccional porque el resultado depende de una reparación binaria y puede revertirse con rapidez. La ventana de 5–7 días vuelve más valiosa la opcionalidad de oferta de Estados Unidos, Brasil, Guyana, Canadá, África occidental y Argentina; Vaca Muerta y LNG argentino siguen siendo tesis de infraestructura y ejecución, no respuesta inmediata. Mantener oro y activos reales como cobertura; cautela con duration larga, crédito frágil, transporte, fertilizantes y consumidores intensivos en combustible.
-
-**Evidencia pendiente:** informe técnico saudí y fecha de reapertura; capacidad parcial o total al reiniciar; ritmo diario de cargas desde Yanbu; agotamiento o reposición de inventarios; uso de terminales egipcias; pérdida neta de exportaciones y producción saudí; autoría y nuevos ataques; tránsito asegurado por Hormuz y Bab el-Mandeb; respuesta de OPEC+, IEA y reservas estratégicas; persistencia de diésel y Brent; y transmisión a inflación, Fed y yields largos.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/
-- https://www.reuters.com/business/energy/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-2026-09-13/
-- https://www.spa.gov.sa/en/N2674017
-
----
-
-### 2026-09-10 / 2026-09-12 — Arabia Saudita cierra el bypass de Yanbu y Estados Unidos raciona la protección aérea de Hormuz
-
-**Hecho confirmado:** el Ministerio de Energía saudí informó que el oleoducto Este–Oeste sufrió múltiples ataques en las regiones de Riad y Medina durante la mañana del 10 de septiembre y fue cerrado preventivamente mientras equipos técnicos evalúan su seguridad; hubo heridos y daños. La cancillería saudí afirmó que los drones fueron lanzados desde Irak, cuyo gobierno cerró un cruce fronterizo con Irán e inició una investigación, pero ningún grupo reivindicó el ataque y su autoría final no está establecida. El ducto de 1.200 km venía transportando entre 4 y 5 millones de bpd —4%–5% de la oferta mundial— hacia el Mar Rojo para evitar Hormuz. En paralelo, CENTCOM confirmó al *Financial Times* que la defensa aérea para buques comerciales que cruzan Hormuz se concentrará en ventanas horarias específicas en lugar de cobertura nocturna continua. La medida no cierra el estrecho, pero obliga a coordinar los cruces con la disponibilidad militar.
-
-**Restricción corregida:** el bypass saudí dejó de ser una válvula disponible pero geopolíticamente amenazada: ahora la infraestructura física está detenida. A la vez, la protección estadounidense en Hormuz no es continua ni ilimitada. La restricción total combina capacidad de oleoducto, integridad de estaciones, control hutí de Perim, seguridad de Bab el-Mandeb, disponibilidad de buques y horas efectivas de defensa aérea. Ninguna ruta individual puede analizarse como sustituto pleno de las demás.
-
-**Mecanismo:** `Hormuz restringido → desvío de 4–5 millones bpd por el oleoducto Este–Oeste → ataque a la infraestructura y cierre preventivo → menor capacidad saudí de entregar crudo fuera del Golfo`. Simultáneamente, `ataques nocturnos a mercantes + alto costo operativo de patrullaje → protección aérea concentrada en franjas → convoyes y salidas sincronizadas → colas, demoras, mayor concentración de riesgo y prima de seguro`. El resultado es una oferta global más dependiente de inventarios, almacenamiento saudí, capacidad marítima puntual y decisiones militares.
-
-**Relación con eventos anteriores:** materializa la vulnerabilidad registrada el 10/09 y el 11/09. Yanbu había recuperado embarques y ofrecía una compensación parcial a Hormuz; luego los hutíes alcanzaron Perim y ahora el propio ducto que alimenta el puerto está cerrado. También endurece el “corredor administrado” del 02/09: ya no se trata sólo de permisos, trasbordos o costos, sino de ventanas militares discretas para navegar. El sistema conserva flujos —incluidas salidas puntuales de crudo y LNG—, pero los dos corredores y su infraestructura terrestre están correlacionados.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** al transformar riesgo logístico en pérdida temporal de capacidad física equivalente a varios puntos de la oferta mundial y sostener presión sobre energía, inflación y yields. No confirma Phase 2: la protección aérea es intervención operativa sobre una ruta, no control financiero del costo largo. Tampoco basta una eventual liberación de reservas. Para Phase 2 siguen faltando escala monetario-fiscal, persistencia, intención de suprimir el costo largo y efecto verificable sobre 10Y/30Y.
-
-**Implicación potencial para la cartera:** mantener exposición selectiva a productores, infraestructura y transporte fuera de Hormuz y del Mar Rojo. La opcionalidad de Vaca Muerta y LNG argentino aumenta junto con la de Estados Unidos, Brasil, Guyana, Canadá y África occidental, sin eliminar riesgo de ejecución ni justificar sesgo doméstico. Favorecer oro y activos reales como cobertura; sostener cautela con duration larga, crédito débil, aerolíneas, transporte y consumidores intensivos en combustible. No perseguir petróleo apalancado: el cierre es preventivo y una reapertura rápida, liberación de reservas o acuerdo diplomático puede comprimir la prima.
-
-**Evidencia pendiente:** magnitud y localización exacta del daño; fecha y capacidad de reinicio del oleoducto; inventarios y capacidad de carga disponible en Yanbu; pérdida neta de exportaciones saudíes; autoría confirmada y respuesta de Irak, Arabia Saudita e Irán; nuevas ofensivas sobre Perim y Bab el-Mandeb; horarios, duración y eficacia de la cobertura aérea estadounidense; ataques durante ventanas sin protección; primas de seguro y fletes; uso de reservas estratégicas; evolución de diésel y Brent; y transmisión adicional a inflación y tasas largas.
-
-**Fuentes:**
-
-- https://www.spa.gov.sa/en/N2674017
-- https://www.spa.gov.sa/en/N2674116
-- https://www.reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12/
-- https://www.reuters.com/world/middle-east/saudi-arabia-says-drones-launched-iraq-hit-east-west-pipeline-holds-off-2026-09-11/
-- https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e
-
----
-
-### 2026-09-10 / 2026-09-11 — La primera recompra ampliada falla la prueba de eficacia mientras el 10Y roza 5%
-
-**Hecho confirmado:** el Tesoro estadounidense aceptó el 10 de septiembre USD 5.200 millones de bonos con vencimientos de 10 a 20 años en su primera recompra larga ampliada, por debajo del máximo anunciado de USD 6.000 millones, pese a recibir más de USD 10.000 millones de ofertas a valor nominal. Respetó su regla de comprar a precios de mercado. El Treasury 10Y pasó de 4,938% inmediatamente antes del resultado a 4,946% después y, tras el IPC del 11 de septiembre, alcanzó 4,9915%, casi 5%; el 30Y tocó un máximo de 19 años. El IPC de agosto aceleró a 0,4% mensual y 3,4% interanual; el núcleo subió 0,3% mensual y 2,4% interanual. La probabilidad implícita de una suba de 25 pb de la Fed la semana siguiente pasó de 67% a 85%. La subasta de USD 22.000 millones a 30 años no fue disfuncional: adjudicó a 5,308%, máximo desde agosto de 2001, con bid-to-cover de 2,61, 2,7 pb por debajo del *when-issued* y sólo 2,2% absorbido por dealers.
-
-**Restricción corregida:** la recompra mejora liquidez y permite retirar bonos *off-the-run*, pero no suprime la formación de precio cuando inflación, petróleo, déficit y oferta neta dominan. Tampoco una subasta muy demandada demuestra normalización del costo: los compradores aparecieron con fuerza después de que el soberano convalidara 5,308% a treinta años. El sistema de colocación funciona; la restricción es el precio necesario para que funcione.
-
-**Mecanismo:** `Tesoro compra bonos antiguos sin reducir la necesidad fiscal neta → mejora de liquidez local pero escaso cambio de duration agregada → IPC y energía elevan tasa esperada de la Fed + term premium → 10Y/30Y suben pese a la operación`. La subasta confirma el mecanismo de clearing: `yield alto → demanda final fuerte → colocación ordenada`, no `intervención → yield controlado`. Que el Tesoro aceptara menos del máximo refleja disciplina de precio y evita sobrepagar, pero también limita la potencia de la herramienta.
-
-**Relación con eventos anteriores:** cierra la evidencia pendiente del 04/09, cuando Waller sostuvo que los buybacks tendrían poco efecto y se definió la operación del 10/09 como prueba. Confirma también el patrón del Treasury Twist de agosto: el anuncio produce alivio limitado o nulo y el mercado vuelve a fijar un costo más alto. La aceleración del IPC conecta el shock de rutas y energía del 09–10/09 con la curva estadounidense, mientras el ECB ya respondió elevando tasas.
-
-**Efecto sobre Phase 1C / Phase 2:** es una validación fuerte de **Phase 1C avanzada** y una prueba negativa para Phase 2. Hubo instrumento, ejecución e intención declarada de sostener liquidez, pero faltaron escala relativa y efecto sobre el costo largo; el 10Y rozó 5% y el 30Y se financió al mayor yield en 25 años. No hay control de la curva. Phase 2 requeriría repetición o ampliación sustancial, coordinación con la Fed o demanda cautiva y una compresión persistente de 10Y/30Y atribuible a esas medidas.
-
-**Implicación potencial para la cartera:** mantener la duration nominal larga estadounidense fuera del núcleo mientras el mercado siga imponiendo el costo. Los yields cercanos a 5% pueden atraer rallies tácticos y demanda real, pero la subasta muestra precio de equilibrio alto, no piso garantizado. Mantener cautela con growth intensivo en capital, high yield y refinanciadores débiles; oro, Bitcoin y activos reales conservan su papel estructural, aunque una Fed más restrictiva puede generar presión táctica. Favorecer liquidez y plazos cortos hasta que aparezca control efectivo o una desaceleración verificable de inflación y energía.
-
-**Evidencia pendiente:** detalle oficial por CUSIP de la recompra; próximas operaciones de 10–20Y y 20–30Y hasta el 4/11; tamaño aceptado frente a ofertas y efecto intradiario; decisión de la Fed; persistencia del IPC y petróleo; futuras subastas y participación indirecta; composición de emisiones; evolución de term premium; cambios regulatorios de demanda; y cualquier coordinación Tesoro–Fed que produzca una baja persistente del costo largo.
-
-**Fuentes:**
-
-- https://www.reuters.com/world/europe/global-bond-selloff-pushes-10-year-us-yield-toward-5-oil-rate-hike-fears-2026-09-11/
-- https://www.reuters.com/world/china/global-markets-corrected-2026-09-11/
-- https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6
-- https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/treasury-yields-rise-further-after-buybacks-fall-short-of-6-billion-80SkvHXBE1bsv02PjDet
-- https://www.cmegroup.com/education/events/econoday/692809
-- https://apnews.com/article/c76f53f7a53def0c464ca44ac637f203
-
----
-
-### 2026-09-11 — Los hutíes alcanzan Perim y amenazan la salida saudí que compensaba Hormuz
-
-**Hecho confirmado:** fuerzas hutíes alineadas con Irán alcanzaron la isla de Perim —Mayun— y la localidad costera de Dhubab, directamente sobre Bab el-Mandeb, después de tomar el puerto de Mocha. Cuatro fuentes del gobierno yemení confirmaron a Reuters el avance y AP reportó la captura de la isla, la mayor ganancia territorial hutí en años. Perim divide los canales navegables en la boca sur del Mar Rojo y permite observar o amenazar el tránsito. El movimiento ocurre cuando Arabia Saudita depende más del oleoducto Este-Oeste y del puerto de Yanbu para evitar Hormuz. La IEA estimó que el crudo saudí efectivamente disponible cayó en agosto 2,3 millones bpd, a 6 millones bpd —mínimo en más de tres décadas—, y revisó la caída de oferta petrolera global de 2026 a 5,7 millones bpd. El tránsito por Hormuz permaneció en siete buques, aunque tres barcos ligados a QatarEnergy volvieron a moverse y uno completó la primera entrega de LNG conocida desde julio.
-
-**Restricción corregida:** el repunte de Yanbu registrado el 10/09 era una compensación operativa real, pero no una salida segura e independiente. Su crudo debe ingresar al Mar Rojo y atravesar Bab el-Mandeb para alcanzar gran parte de los mercados; el control hutí de Perim y la costa adyacente traslada la amenaza al extremo del bypass. La capacidad de tubería saudí deja de ser suficiente como métrica: también importan control territorial, defensa portuaria, seguro y libertad de navegación en el segundo estrecho.
-
-**Mecanismo:** `Hormuz restringido → Arabia Saudita desvía crudo por oleoducto a Yanbu → mayor dependencia del corredor del Mar Rojo → avance hutí sobre Mocha, Dhubab y Perim → riesgo simultáneo sobre Bab el-Mandeb → menor oferta saudí entregable + mayor costo de seguro/flete → petróleo, combustibles e inflación`. La reapertura parcial de LNG qatarí muestra que los flujos pueden adaptarse y evita declarar cierre total; la vulnerabilidad proviene de la correlación entre dos chokepoints, no de ausencia absoluta de cruces.
-
-**Relación con eventos anteriores:** materializa la principal evidencia pendiente de la entrada del 10/09: el bypass de Yanbu puede aliviar Hormuz, pero ahora desemboca en un corredor cuya geografía cambió a favor de los hutíes. Profundiza la expansión regional registrada el 09/09 y ayuda a explicar la diferencia entre capacidad saudí reportada a OPEC y los 6 millones bpd que la IEA considera disponibles para el mercado. También aumenta la persistencia probable del shock que ya obligó al ECB a subir tasas y llevó el Treasury 10Y al borde de 5%.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** porque correlaciona los dos grandes corredores energéticos, prolonga la restricción de oferta y aumenta presión inflacionaria y fiscal. No confirma Phase 2: es un shock real que puede forzar futuras respuestas, pero no contiene ninguna herramienta capaz de controlar el costo largo. Una liberación de reservas o protección naval sería amortiguación de oferta; sólo contaría para Phase 2 si se combinara con intervención monetario-fiscal de escala y efecto persistente sobre la curva.
-
-**Implicación potencial para la cartera:** elevar el valor estratégico de productores atlánticos y rutas que no dependan de Hormuz ni Bab el-Mandeb. Argentina, Brasil, Guyana, Estados Unidos, Canadá y África occidental ganan opcionalidad relativa; para Argentina siguen siendo decisivos infraestructura, contratos y tiempo de ejecución de Vaca Muerta y LNG. Mantener exposición selectiva a energía, oro y activos reales, pero no perseguir petróleo apalancado: diplomacia, reservas o una contraofensiva pueden revertir rápidamente la prima. Vigilar especialmente diésel, fertilizantes, petroquímica, transporte y alimentos.
-
-**Evidencia pendiente:** consolidación o reversión del control de Perim, Dhubab y Mocha; capacidad hutí para atacar o inspeccionar buques; contraofensiva yemení/saudí; respuesta estadounidense y de la coalición naval; seguridad de Yanbu y del oleoducto Este-Oeste; origen del humo observado por satélite en su trazado; tránsito y seguros en Bab el-Mandeb; continuidad de los cargamentos LNG; revisión oficial de oferta saudí; inventarios, reservas estratégicas y negociaciones lideradas por Omán.
-
-**Fuentes:**
-
-- https://www.reuters.com/world/middle-east/yemens-houthis-reach-strategic-island-mouth-vital-shipping-lane-2026-09-11/
-- https://www.reuters.com/world/middle-east/iran-backed-houthis-reach-yemens-dhubab-bab-el-mandeb-strait-sources-say-2026-09-11/
-- https://apnews.com/article/025d052a14d9481258d51009a76d0bd6
-- https://www.reuters.com/world/middle-east/saudi-oil-supply-hits-more-than-three-decade-low-after-houthi-attacks-iea-says-2026-09-11/
-- https://www.reuters.com/business/energy/global-2026-oil-supply-gap-deepen-delayed-return-normal-gulf-flows-iea-says-2026-09-11/
-- https://www.reuters.com/world/middle-east/hormuz-shipping-traffic-falls-single-digits-data-shows-2026-09-11/
-
----
-
-### 2026-09-10 — El ECB vuelve a subir tasas porque el shock energético ya domina la desinflación
-
-**Hecho confirmado:** el Banco Central Europeo elevó el 10 de septiembre sus tres tasas oficiales en 25 pb: depósito a 2,50%, refinanciación a 2,65% y facilidad marginal a 2,90%, con vigencia desde el 16 de septiembre. Es la segunda suba de 2026. La inflación de la eurozona superó 3% en agosto y el ECB revisó su proyección media a 3,0% para 2026, 2,5% para 2027 y 2,1% para 2028, mientras mantuvo una lectura de crecimiento resiliente y elevó marginalmente la estimación de 2026 a 0,9%. La energía vinculada a la guerra con Irán fue el principal motor de la revisión, aunque inflación subyacente y salarios mostraron moderación.
-
-**Restricción corregida:** el shock de Hormuz ya no puede tratarse sólo como una prima transitoria en petróleo o transporte que los bancos centrales mirarían a través. Con inflación nuevamente por encima del objetivo y energía todavía escalando, el ECB priorizó impedir efectos de segunda ronda aun cuando los componentes internos se desaceleran. La restricción pasa a ser un dilema explícito entre proteger expectativas de inflación y no agravar el costo de capital de economías y soberanos europeos.
-
-**Mecanismo:** `tránsito energético restringido + ataques a buques → petróleo y gas más caros → inflación observada y proyectada por encima del objetivo → suba preventiva del ECB → mayor tasa corta y condiciones financieras más estrictas → presión sobre crédito, actividad y servicio de deuda`. El endurecimiento puede contener demanda y expectativas, pero no crea barriles, LNG ni capacidad marítima; por eso el costo económico aumenta mientras la fuente de oferta permanece fuera del alcance monetario.
-
-**Relación con eventos anteriores:** es la primera respuesta monetaria de primer orden al régimen de daño comercial amplio registrado el 09/09 y confirma la transmisión anticipada desde Hormuz hacia inflación y tasas. También profundiza la fragilidad soberana sincronizada del 01/09 y el costo récord del gilt británico del 08/09: Europa enfrenta energía importada más cara al mismo tiempo que sus curvas largas ya exigían mayor prima. El movimiento contrasta con cualquier expectativa de alivio coordinado inmediato y aumenta la importancia de la reunión del BOJ del 17–18/09 y de la respuesta de la Fed.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** porque un shock real obliga a endurecer política dentro de un sistema fiscal y crediticio ya frágil. No confirma Phase 2: el ECB elevó el costo corto y no anunció YCC, QE ni compras destinadas a fijar tasas largas. La existencia de herramientas como TPI no equivale a represión financiera mientras no haya uso, escala, persistencia, intención explícita y efecto efectivo sobre el costo soberano largo.
-
-**Implicación potencial para la cartera:** mantener duration nominal europea larga fuera del núcleo y preferir plazos cortos mientras la compensación real sea insuficiente. Aumenta el riesgo para crédito europeo débil, real estate, consumo intensivo en energía y empresas con refinanciación cercana. Oro y activos reales conservan valor como cobertura estructural; el euro puede recibir apoyo táctico por diferencial de tasas, pero sufre un deterioro de términos de intercambio. Productores energéticos fuera de Hormuz ganan valor estratégico sin justificar compras indiscriminadas a precios extendidos.
-
-**Evidencia pendiente:** conferencia y actas completas del ECB; persistencia de petróleo, gas e inflación; descomposición entre energía y núcleo; expectativas y salarios; próxima decisión y número de subas adicionales; evolución de Bunds, BTP-Bund y crédito; ritmo de APP/PEPP; posible uso de TPI; respuesta fiscal a energía; y evidencia de que cualquier herramienta llegue a limitar de forma duradera los yields largos.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/ecb-raises-interest-rates-fight-off-inflation-jump-2026-09-10/
-- https://www.reuters.com/markets/us/lagarde-comments-ecb-press-conference-2026-09-10/
-- https://apnews.com/article/de62b59fba535fccaf6f75e52d037c63
-
----
-
-### 2026-08 / 2026-09-10 — El shock de rutas reduce la oferta OPEC pese al aumento programado y fuerza el desvío saudí por Yanbu
-
-**Hecho confirmado:** una encuesta de Reuters publicada el 10 de septiembre estimó que la producción de los once miembros de OPEC cayó 640.000 bpd en agosto, a 19,71 millones bpd, aunque siete integrantes de OPEC+ tenían previsto aumentarla. La pérdida se concentró en Arabia Saudita, afectada por restricciones de exportación y amenazas hutíes, y en Irán, bloqueado por Estados Unidos. Financial Times estimó que la producción saudí cayó 23% mensual a 6,2 millones bpd y sus exportaciones a 3,1 millones bpd, mínimo desde al menos 2013. La respuesta operativa comenzó a aparecer en septiembre: los embarques de crudo y condensado desde Yanbu, conectado por oleoducto y capaz de evitar Hormuz, repuntaron a 3,7 millones bpd según Vortexa y a 2,9 millones según Kpler, desde 3,2 y 1,5 millones respectivamente en agosto. Aun así, Hormuz registró sólo siete cruces de commodities el miércoles y ningún buque LNG.
-
-**Restricción corregida:** la capacidad ociosa de OPEC no equivale a oferta entregable cuando los dos corredores de salida —Hormuz y el sistema Mar Rojo/Bab el-Mandeb— están amenazados al mismo tiempo. Arabia Saudita puede producir más, pero debió recortar cuando no podía exportar el volumen con seguridad. Yanbu y el oleoducto Este-Oeste constituyen una válvula real, no ilimitada: trasladan el cuello de botella desde el estrecho hacia capacidad de tubería, terminal, buques y seguridad del Mar Rojo.
-
-**Mecanismo:** `bloqueo de exportaciones iraníes + amenaza hutí a puertos/rutas saudíes → capacidad de exportación inferior a capacidad productiva → recorte efectivo de producción OPEC pese a cuotas crecientes → menor oferta física global → petróleo por encima de USD 100`. La recuperación de Yanbu opera en sentido contrario: `oleoducto de bypass + concentración de embarques en costa occidental → restitución parcial de exportaciones`, pero también concentra riesgo en un corredor que desemboca cerca de Bab el-Mandeb y ya fue afectado por ataques.
-
-**Relación con eventos anteriores:** aporta volumen físico a la secuencia registrada entre el 02/09 y el 09/09. El problema dejó de ser sólo tránsito deprimido, seguros caros o daño a buques: en agosto ya impidió que el aumento anunciado de OPEC+ llegara al mercado. Al mismo tiempo, el rebote de Yanbu prueba que existen mecanismos de adaptación y evita interpretar la caída saudí como pérdida permanente de yacimientos. La toma del puerto yemení de Mocha por fuerzas hutíes mantiene correlacionados el bypass saudí y el riesgo del Mar Rojo.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** porque confirma escasez entregable, inflación energética y presión sobre tasas aun con capacidad nominal disponible. No confirma Phase 2: la reasignación logística amortigua oferta, pero no controla el costo largo ni constituye coordinación monetario-fiscal. El evento aumenta la presión que podría provocar intervención futura; no reemplaza la exigencia de escala, persistencia, intención y efecto sobre la curva.
-
-**Implicación potencial para la cartera:** sostener exposición selectiva a productores y exportadores atlánticos, infraestructura de oleoductos, terminales y transporte fuera de los dos chokepoints. Argentina gana opcionalidad estructural mediante Vaca Muerta y LNG futuro, junto con Estados Unidos, Brasil, Guyana, Canadá y otros proveedores; la ejecución, costos y plazos siguen importando más que la narrativa doméstica. Evitar perseguir petróleo apalancado por encima de USD 100 porque Yanbu, inventarios o una desescalada pueden producir correcciones violentas. Vigilar fertilizantes, petroquímica, transporte y alimentos por transmisión de costos.
-
-**Evidencia pendiente:** datos oficiales y revisión de producción saudí; exportaciones de septiembre; utilización y capacidad sostenible del oleoducto Este-Oeste y Yanbu; daños por ataques hutíes; seguridad de Bab el-Mandeb y Mocha; flujos LNG por Hormuz; inventarios y reservas estratégicas; respuesta de OPEC+; producción compensatoria fuera del Golfo; duración de Brent por encima de USD 100; y proyectos capaces de convertir la ventaja argentina en oferta exportable real.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/energy/opec-oil-output-falls-august-reuters-survey-shows-2026-09-10/
-- https://www.ft.com/content/683a6973-ad54-42e1-8b53-f0e294d15022
-- https://www.reuters.com/world/middle-east/hormuz-shipping-traffic-single-digits-data-shows-2026-09-10/
-- https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/
-
----
-
-### 2026-09-08 / 2026-09-09 — Hormuz pasa de guerra contra la flota iraní a daño amplio sobre navegación comercial
-
-**Hecho confirmado:** CENTCOM informó que el 8 de septiembre inutilizó cinco petroleros de crudo iraníes —cuatro en el golfo de Omán y uno cerca de la isla de Kharg— después de ordenar la evacuación de sus tripulaciones. Se suman a los tres destruidos el 5 de septiembre. El 9 de septiembre, UKMTO confirmó que varios mercantes en el norte del Golfo y el golfo de Omán fueron alcanzados por fuego incapacitante, aunque todavía no pudo establecer víctimas ni daño ambiental. El *New Andros*, con cerca de 2 millones de barriles de fuel oil iraquí, se incendió tras ser alcanzado por un dron en aguas iraquíes; sus 22 tripulantes resultaron ilesos. También se reportaron daños en un buque LNG frente a Khor Fakkan y un barco escorado cerca de Port Rashid. Irán afirmó haber atacado diez barcos, pero esa cifra y la autoría de cada incidente no están verificadas de forma independiente. Datos preliminares de Kpler contabilizaron sólo seis buques de commodities atravesando Hormuz el martes —cinco de entrada y uno de salida— frente a un promedio de diez días de doce y unos 125 grandes buques comerciales diarios antes de la guerra.
-
-**Restricción corregida:** el episodio anterior podía leerse como una campaña estadounidense limitada a eliminar la capacidad exportadora iraní y forzar una negociación. La represalia ya alcanzó físicamente a navegación comercial y cargamentos de terceros, incluso en aguas iraquíes y puertos de Emiratos. Por lo tanto, la restricción relevante dejó de ser sólo el volumen iraní bloqueado: ahora incluye disponibilidad de buques, seguros, tripulaciones, puertos y disposición de operadores privados a circular por todo el sistema del Golfo. No equivale todavía a un cierre uniforme, porque persisten cruces puntuales.
-
-**Mecanismo:** `ataques iraníes contra buques de guerra estadounidenses → destrucción de cinco petroleros iraníes → represalia sobre mercantes y expansión hacia puertos/rutas regionales → mayor riesgo físico y prima de guerra → retiro o autoaseguro de navieras + tránsito deprimido → energía, fletes y seguros más caros → inflación y presión sobre tasas largas`. Brent superó USD 100 y el diésel minorista estadounidense alcanzó un récord de USD 5,94 por galón. Un ejecutivo de ENOC estimó que atravesar Hormuz cuesta ahora entre USD 10 y 20 millones por buque y señaló que petroleras nacionales están tomando control directo del transporte, evidencia de adaptación operativa pero también de expulsión parcial del capital privado.
-
-**Relación con eventos anteriores:** profundiza y cambia cualitativamente el evento del 06/09: la destrucción de la flota ligada al IRGC generó represalias amplias en vez de una coerción rápida y limpia. También reduce la vigencia del régimen de “corredor administrado” registrado el 02/09: pueden organizarse cruces y trasbordos extraordinarios, pero ya con daño físico distribuido y costos de tránsito de ocho cifras. La extensión simultánea hacia amenazas a puertos de Kuwait y Bahréin, ataques hutíes contra Arabia Saudita y un ataque declarado contra una base estadounidense en Jordania aumenta el riesgo de que Hormuz y Bab el-Mandeb dejen de ser shocks separables.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** mediante energía más cara, volatilidad de rutas y una nueva fuente de inflación que complica la respuesta monetaria mientras el crédito débil ya se deteriora. No confirma Phase 2: no existe todavía coordinación de escala, persistente y explícita destinada a controlar el costo largo, ni evidencia de que buybacks, QE, YCC o regulación hayan neutralizado el shock. Al contrario, si petróleo y diésel permanecen en estos niveles, el canal inicial es mayor prima inflacionaria y presión sobre yields largos.
-
-**Implicación potencial para la cartera:** mantener exposición selectiva a productores de energía y logística fuera de Hormuz, evaluando a Argentina como uno entre varios proveedores atlánticos y no por sesgo doméstico. El shock mejora el valor estratégico de Vaca Muerta y LNG futuro, pero también eleva costos globales y riesgo macro. Con Brent por encima de USD 100, evitar perseguir petróleo con apalancamiento; preservar oro y activos reales como cobertura, mantener cautela con duration nominal larga, high yield y empresas intensivas en energía o dependientes de refinanciación. Fertilizantes, petroquímica y alimentos requieren vigilancia por transmisión de costos.
-
-**Evidencia pendiente:** verificación independiente del número, identidad y daño de los mercantes atacados; situación de tripulaciones, derrames y cargamentos; evolución diaria de cruces con y sin transpondedor; primas de seguro, fletes y número de buques que operan sin cobertura; persistencia de Brent y diésel; flujos de LNG; daño efectivo a infraestructura saudí; actividad en Bab el-Mandeb; respuesta militar o diplomática de Estados Unidos y aliados; uso de reservas estratégicas; y cualquier reacción fiscal o monetaria que llegue a controlar de forma efectiva el costo largo.
-
-**Fuentes:**
-
-- https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4593050/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship/
-- https://www.reuters.com/world/middle-east/iran-attacks-us-base-jordan-ships-near-hormuz-after-tankers-sunk-2026-09-09/
-- https://www.reuters.com/world/europe/several-merchant-vessels-hit-by-disabling-fire-gulf-gulf-oman-2026-09-09/
-- https://www.reuters.com/world/middle-east/shipping-traffic-via-strait-hormuz-stays-below-10-day-average-data-shows-2026-09-09/
-- https://www.reuters.com/world/middle-east/oil-vessel-transit-costs-through-hormuz-escalated-after-iran-war-enoc-exec-says-2026-09-09/
-
----
-
-### 2026-09-08 — Reino Unido fija un costo récord a 30 años y reduce estructuralmente la emisión larga
-
-**Hecho confirmado:** Reino Unido colocó mediante sindicación £4.250 millones del nuevo gilt 5,375% con vencimiento en 2056 a un yield de 5,8168%, el mayor costo registrado en una subasta o sindicación desde la creación de la Debt Management Office en 1998. La demanda fue fuerte: las órdenes superaron £85.000 millones y el bono se fijó en el extremo ajustado de la guía, apenas 0,75 pb sobre el gilt 2055. Al mismo tiempo, la emisión convencional larga representará menos de 10% de los £246.000 millones previstos para el ejercicio. El plan oficial había establecido una participación de 9,1%, 4,3 puntos porcentuales menos que el año anterior, citando menor demanda de fondos de pensión y peor costo relativo frente a plazos cortos.
-
-**Restricción corregida:** la presión británica no se manifestó como una subasta fallida: existe demanda abundante cuando el precio compensa el riesgo. La restricción real es que el soberano debe convalidar casi 6% para fijar deuda a 30 años y ya adapta la composición de emisiones para no cristalizar ese costo sobre grandes volúmenes. Esto corrige una lectura centrada únicamente en disfunción de mercado y muestra dominancia del costo aun con buena cobertura.
-
-**Mecanismo:** `menor demanda estructural de pensiones + inflación energética + term premium global → yield largo récord → menor conveniencia de emitir duration → desplazamiento hacia bonos cortos y medios`. Reducir oferta larga puede aliviar marginalmente ese segmento, pero traslada riesgo al futuro mediante vencimientos más frecuentes y mayor sensibilidad del presupuesto a las tasas vigentes al refinanciar. Funcionalmente se parece a un *twist* de emisión, aunque no persigue un objetivo explícito de yield ni involucra compras del banco central.
-
-**Relación con eventos anteriores:** convierte en decisión de financiación la fragilidad soberana sincronizada registrada el 01/09, cuando el gilt 10Y alcanzó 5,25%. También complementa dos cambios recientes de ambos lados del mercado: Waller sostuvo que desapareció parte de la prima de seguridad soberana y Norges Bank recomendó reducir el peso de bonos públicos. Ahora un emisor avanzado responde al costo y a la retirada de compradores tradicionales acortando su oferta. El shock de Hormuz y el petróleo cercano a USD 100 intensifican inflación y costo nominal, pero no explican por sí solos el cambio estructural de demanda de pensiones.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** porque el precio de mercado ya modifica la estrategia de deuda de un soberano del G7. No confirma Phase 2: el gilt se colocó al yield exigido libremente, no hubo YCC ni compra destinada a fijarlo y la demanda privada continuó funcionando. La reducción de emisión larga puede comprimir yields por menor oferta, pero sólo sería represión financiera si se combinara con intención, escala, persistencia y control efectivo del costo.
-
-**Implicación potencial para la cartera:** mantener cautela con gilts largos y duration soberana europea; la escasez relativa de nueva emisión puede generar rallies tácticos, pero no elimina inflación ni deterioro fiscal. El desplazamiento hacia plazos menores aumenta riesgo de rollover soberano y favorece instrumentos cortos frente a promesas nominales muy largas. Mantener activos reales y coberturas monetarias como núcleo estructural, sin confundir una sindicación muy demandada con restauración de la función defensiva del bono largo.
-
-**Evidencia pendiente:** ejecución completa del mix anual de emisiones; siguientes subastas largas y cobertura fuera de sindicaciones; composición de compradores finales; demanda de fondos de pensión y cambios regulatorios de LDI; presupuesto del 28/10; costo efectivo de intereses; trayectoria de petróleo e inflación; ritmo de ventas de gilts del Banco de Inglaterra; posible reducción de QT; y cualquier herramienta que limite de manera persistente los yields largos.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/uk-sells-30-year-debt-record-yield-showing-pressure-public-finances-2026-09-08/
-- https://www.gov.uk/government/publications/debt-management-report-2026-27/debt-management-report-2026-27
-- https://www.ft.com/content/b23151c3-b4c1-4f96-a801-f3507d907cc7
-
----
-
-### 2026-08-26 / 2026-09-07 — FIMA queda como backstop no utilizado y la defensa del yen consume reservas
-
-**Hecho confirmado:** el Ministerio de Finanzas de Japón informó que las reservas oficiales cayeron USD 79.575 millones —6,18%, la mayor baja mensual registrada— hasta USD 1,2075 billones al cierre de agosto. Las reservas en moneda extranjera quedaron en USD 994.976 millones y los valores negociables en USD 839.559 millones; Reuters atribuyó la mayor parte de la caída a valores externos, compuestos principalmente por Treasuries, después de la intervención récord de ¥15,4 billones. Al 2 de septiembre, el balance H.4.1 de la Reserva Federal mostraba **cero repos con autoridades monetarias extranjeras**, por lo que FIMA no había financiado visiblemente el episodio. La valuación a mercado también afecta el saldo de valores: todavía no puede equipararse toda la caída con ventas definitivas de Treasuries.
-
-**Restricción corregida:** el evento del 27/08 describía FIMA como la arquitectura capaz de defender el yen sin liquidar Treasuries. Los datos posteriores corrigen su grado de implementación: la facilidad existía y ambos gobiernos anunciaron que Japón podría utilizarla, pero la protección no se activó durante la intervención registrada. El costo recayó sobre el stock de reservas y volvió observable el límite de sostener compras de yenes mediante activos externos.
-
-**Mecanismo:** `yen débil → venta o vencimiento de valores externos y utilización de depósitos → obtención de dólares → compra de yenes → caída de reservas`. Si los valores vendidos son Treasuries, la defensa cambiaria agrega oferta al mercado soberano estadounidense y puede elevar yields; FIMA habría sustituido esa venta por liquidez temporal contra colateral, pero su saldo en cero muestra que ese amortiguador permaneció inactivo. La recuperación posterior del yen hacia 154–156, apoyada también por expectativas de suba del BOJ, reduce la necesidad inmediata de otra intervención, aunque eleva el riesgo de cierre del carry trade.
-
-**Relación con eventos anteriores:** cuantifica y corrige la secuencia intervención conjunta → propuesta de ampliar FIMA → expectativa de proteger Treasuries. También se conecta con la señal del BOJ del 02/09: cuanto más actúe la política monetaria sobre el diferencial de tasas, menos reservas necesita vender Japón, pero mayor puede ser la repatriación de capital y la reducción de demanda japonesa por bonos extranjeros. El yen alcanzó el 07/09 su nivel más fuerte en seis meses, cerca de ¥154, mientras el endeudamiento transfronterizo en yenes ronda ¥360 billones; la combinación desplaza el riesgo desde depreciación lineal hacia unwind del carry.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** porque demuestra interacción efectiva entre fragilidad cambiaria, reservas oficiales y oferta potencial de Treasuries. No confirma Phase 2: FIMA no se utilizó, no fue ampliada y no produjo control del 10Y/30Y. Incluso si se activara, un repo temporal sólo cumpliría el criterio de transición con escala, repetición, intención de suprimir el costo largo y efecto persistente sobre la curva.
-
-**Implicación potencial para la cartera:** mantener el yen como cobertura táctica frente al cierre del carry, evitando financiar posiciones de riesgo con una moneda sujeta a intervención y subas del BOJ. Conservar cautela sobre duration larga estadounidense: la defensa cambiaria japonesa puede generar ventas directas o menor reinversión aun cuando FIMA limite episodios futuros. Oro y Bitcoin preservan utilidad estructural frente a la administración conjunta de monedas y reservas, pero un unwind rápido puede producir liquidaciones transitorias en activos de riesgo.
-
-**Evidencia pendiente:** datos TIC de agosto y tenencias japonesas por custodio; desglose diario y por moneda de la intervención previsto para comienzos de noviembre; separación entre ventas, vencimientos y pérdidas de valuación; utilización semanal de FIMA después del 02/09; decisión del FOMC sobre una ampliación; reunión del BOJ del 17–18/09; persistencia de USDJPY; flujos japoneses hacia bonos extranjeros; y efecto verificable sobre subastas, 10Y, 30Y y term premium estadounidenses.
-
-**Fuentes:**
-
-- https://www.mof.go.jp/english/policy/international_policy/reference/official_reserve_assets/e0808.html
-- https://www.reuters.com/world/asia-pacific/japans-august-foreign-reserves-post-largest-ever-drop-after-record-intervention-2026-09-07/
-- https://www.federalreserve.gov/releases/h41/current/
-- https://fred.stlouisfed.org/series/H41RESPPALGTRFNWW
-- https://www.ft.com/content/d86643d2-c98c-4e19-b066-c97b50819b7e
-
----
-
-### 2026-09-05 / 2026-09-06 — Estados Unidos pasa del bloqueo a destruir capacidad exportadora iraní
-
-**Hecho confirmado:** CENTCOM informó que, después de ataques iraníes fallidos con misiles balísticos contra dos buques de guerra estadounidenses, fuerzas de Estados Unidos inutilizaron permanentemente los petroleros M/T Downy frente a Kharg y M/T Stark 1 cerca de Jask, y destruyeron el petrolero sin carga M/T Kylo —también denominado Noxen— en el golfo de Omán. Las tripulaciones recibieron orden de abandonar los buques y no hubo bajas estadounidenses. Washington atribuye las tres naves a la red petrolera clandestina de la Guardia Revolucionaria. Irán anunció represalias adicionales, pero Estados Unidos negó su afirmación de haber alcanzado un buque estadounidense el 06/09.
-
-**Restricción corregida:** la entrada del 02/09 mostraba un corredor intermitente capaz de evacuar cargas puntuales pese al riesgo militar. Faltaba establecer si Estados Unidos se limitaría a escoltar tránsito y aplicar sanciones o atacaría directamente los medios físicos con los que Irán financia y sostiene su posición. La destrucción de tres petroleros confirma el segundo régimen: la flota exportadora iraní pasa a ser objetivo militar explícito.
-
-**Mecanismo:** `ataques iraníes a fuerzas estadounidenses → represalia sobre petroleros vinculados al IRGC → pérdida de capacidad y mayor riesgo para la flota clandestina → menores ingresos y divisas iraníes → presión para negociar el tránsito de Hormuz`. El canal puede producir dos efectos opuestos: debilitar el incentivo y la capacidad de Teherán para restringir el estrecho, o provocar represalias contra buques comerciales que eleven seguros, fletes, demoras y precio de energía antes de cualquier acuerdo.
-
-**Relación con eventos anteriores:** profundiza la secuencia `corredor protegido → sanciones y bloqueo → desgaste económico → ataque directo a capacidad exportadora`. Reuters reporta que el bloqueo ya redujo ingresos petroleros, acceso a divisas e importaciones esenciales, aunque el liderazgo iraní todavía no muestra intención de ceder. La posible negociación sobre cargos de navegación continúa abierta. La decisión de OPEC+ del 06/09 de mantener sin cambios su política de producción no compensa por sí sola la restricción: varios miembros siguen por debajo de sus objetivos y el problema dominante es tránsito y capacidad efectiva, no una cuota nominal adicional.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** por el riesgo de que la guerra económica y marítima mantenga energía, inflación y term premium elevados. No confirma Phase 2: no hay una nueva herramienta que suprima el costo largo ni evidencia de coordinación monetaria-fiscal con escala, persistencia y efecto sobre 10Y/30Y. La escalada puede, en cambio, aumentar la presión que una intervención futura debería absorber.
-
-**Implicación potencial para la cartera:** conservar exposición selectiva a productores de bajo costo y proveedores fuera de Hormuz, incluida Argentina sólo dentro del universo global de alternativas; evitar perseguir petróleo apalancado antes de observar el tránsito y la reapertura del mercado. Mantener oro como cobertura geopolítica y cautela con duration nominal larga y crédito frágil: un shock energético persistente empeora inflación, refinanciación y primas soberanas simultáneamente.
-
-**Evidencia pendiente:** carga y tonelaje efectivo de los tres buques; daño ambiental; reacción del Brent, LNG, diésel, fletes y seguros cuando reabran los mercados; número y volumen de tránsitos por Hormuz; capacidad restante de la flota clandestina; represalias verificadas contra navegación comercial; postura de China e India como compradores; duración del bloqueo; negociación sobre cargos de tránsito; y capacidad real de OPEC+ de elevar oferta exportable.
-
-**Fuentes:**
-
-- https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4591744/centcom-destroys-3-irgc-oil-tankers-after-iran-targets-2-us-navy-warships/
-- https://www.reuters.com/business/energy/irans-hormuz-leverage-wanes-us-economic-squeeze-bites-2026-09-06/
-- https://apnews.com/article/a52beec77dc90af3d040d0553837ad20
-- https://www.reuters.com/business/energy/opec-set-keep-oil-output-policy-unchanged-sunday-sources-say-2026-09-06/
-
----
-
-### 2026-09-03 / 2026-09-05 — El shock de Treasuries alcanza al extremo más débil del crédito corporativo
-
-**Hecho confirmado:** el yield del Treasury a 10 años llegó a 4,82% durante la semana, máximo desde 2023, y el spread ajustado por opciones del índice ICE BofA de bonos estadounidenses CCC o inferiores cerró en 10,51 puntos porcentuales el 03/09, frente a 8,06 puntos un año antes. Financial Times reportó además que las acciones de default corporativo aumentaron 9% en 2026, hasta USD 40.100 millones, y que la recuperación promedio cayó a 29%, frente a 40% en los últimos 25 años. El deterioro permanece concentrado: los emisores de mayor calidad conservan acceso y la tasa de default especulativo agregada de Moody’s fue 4,0% en julio, levemente inferior al 4,2% de un año antes.
-
-**Restricción corregida:** el plano había identificado estrés soberano y mantenía el crédito privado bajo observación porque los spreads agregados todavía no confirmaban transmisión. La nueva evidencia muestra que el mayor costo libre de riesgo ya está restringiendo refinanciación y elevando pérdidas en la cola más apalancada. Corrige la ausencia de contagio, pero no prueba todavía una ruptura general de crédito.
-
-**Mecanismo:** `Treasury 10Y más alto + prima soberana/fiscal persistente → costo base de refinanciación mayor → emisores CCC sin flujo suficiente enfrentan cupones prohibitivos o reestructuración → defaults y recuperaciones más bajas → endurecimiento adicional de spreads y acceso`. La bifurcación importa: balances sólidos absorben el shock, mientras empresas construidas sobre dinero barato se convierten en el primer canal de pérdida efectiva.
-
-**Relación con eventos anteriores:** es la transmisión corporativa del diagnóstico institucional registrado el 04/09: Waller sostuvo que desapareció la prima de seguridad de los Treasuries y que los buybacks cortos no corregirán el problema fundamental. También valida el riesgo señalado en el corte del 23/07, cuando el diagnóstico era Stage 2B porque bonos y tasas reales mostraban estrés pero crédito y volatilidad aún no confirmaban ruptura. La señal actual aparece primero en CCC, no en todo high yield.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada**: el costo largo determinado por el mercado ya produce daño verificable fuera del soberano. No confirma Phase 2 porque no existe intervención coordinada con escala, persistencia, intención y efecto efectivo sobre el 10Y/30Y. Tampoco confirma colapso sistémico: el deterioro está segmentado y el default agregado no se acelera de forma uniforme.
-
-**Implicación potencial para la cartera:** mantener high yield y empresas dependientes de refinanciación fuera del núcleo; evitar interpretar un spread CCC superior a 1.000 pb como carry ordinario, porque default, liquidez y recovery dominan el retorno. Elevar el hurdle rate para small caps, private credit y modelos intensivos en deuda. No extender duration larga sólo como cobertura: hasta que exista control efectivo de curva, la misma suba de tasas que abarata bonos puede seguir deteriorando crédito.
-
-**Evidencia pendiente:** OAS agregado de high yield e investment grade; nuevas emisiones y refinanciaciones CCC; tasa de default a 12 meses y defaults privados no capturados; recuperaciones por sector; préstamos apalancados y private credit; estándares bancarios; fondos con rescates o descalces de liquidez; reacción del crédito a la recompra ampliada del Tesoro del 10/09; y cualquier intervención que reduzca de manera persistente el costo largo.
-
-**Fuentes:**
-
-- https://fred.stlouisfed.org/series/BAMLH0A3HYC
-- https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639
-- https://www.moodys.com/web/en/us/insights/data-stories/us-corporate-default-risk-outlook-for-2026-2027.html
-
----
-
-### 2026-09-03 / 2026-09-04 — La Fed reconoce la desaparición de la prima de seguridad de los Treasuries
-
-**Hecho confirmado:** Christopher Waller, gobernador de la Reserva Federal, afirmó que la prima que los inversores pagaban por la seguridad y liquidez de la deuda estadounidense prácticamente desapareció. Atribuyó la suba de yields a la preocupación fiscal y a la competencia por capital de la infraestructura de inteligencia artificial, y explicó que esta erosión eleva su estimación de la tasa neutral. También sostuvo que un déficit estructural cercano a 6% del PIB no puede resolverse sólo con crecimiento, que incluso 3% de déficit seguiría siendo insostenible y que no espera que los buybacks de corto plazo del Tesoro produzcan un efecto importante.
-
-**Restricción corregida:** hasta ahora el plano infería, a partir de precios y flujos, que la deuda soberana larga había perdido parte de su demanda estructural y que el mercado exigía una prima creciente. La declaración de un miembro de la Junta de la Fed convierte esa inferencia en diagnóstico institucional explícito: el problema no es sólo un episodio de iliquidez que las recompras puedan reparar, sino un cambio en la valuación de seguridad, oferta fiscal y costo de oportunidad del capital.
-
-**Mecanismo:** `déficit persistente + mayor oferta de deuda + competencia de inversión privada → menor disposición a pagar por seguridad/liquidez → term premium y tasa neutral más altas → política monetaria menos restrictiva de lo estimado para una misma tasa nominal`. Por este canal, incluso una Fed estable puede dejar tasas largas elevadas. Los buybacks pueden mejorar liquidez o composición, pero no restauran por sí solos la prima perdida si no cambian oferta neta, demanda estructural o riesgo fiscal.
-
-**Relación con eventos anteriores:** refuerza la prueba negativa posterior al anuncio del Treasury Twist: el 30Y recuperó casi toda la baja inicial y el 10Y llegó a 4,818%. También explicita la divergencia Bessent–Fed ya registrada: el Tesoro intenta comprimir el tramo largo mientras Waller rechaza que una intervención corta corrija el mecanismo fundamental. La primera operación ampliada del 10/09 será una prueba de liquidez, no todavía una solución al deterioro de la prima soberana.
-
-**Efecto sobre Phase 1C / Phase 2:** es evidencia fuerte de **Phase 1C avanzada** porque la fragilidad soberana ya modifica la tasa neutral percibida por la autoridad monetaria. No confirma Phase 2. Al contrario, Waller describe un mercado que continúa elevando libremente el costo largo y una Fed que no se compromete a suprimirlo. Para cambiar de fase todavía se requieren escala, persistencia, intención coordinada y efecto observable sobre 10Y/30Y.
-
-**Implicación potencial para la cartera:** mantener fuera del núcleo la duration nominal larga sin respaldo institucional efectivo. Elevar el hurdle rate de activos dependientes de refinanciación y revisar valuaciones de growth intensivo en capital: la inversión en AI compite con el Estado por ahorro. Oro, Bitcoin y activos reales conservan su función estructural, pero tasas neutrales más altas pueden generar presión táctica y volatilidad antes de cualquier represión financiera.
-
-**Evidencia pendiente:** reacción del FOMC y de Warsh al diagnóstico; estimaciones formales de r-star y term premium; subastas y demanda indirecta; ejecución del buyback del 10/09; evolución del 10Y y 30Y después de cada operación; déficit fiscal efectivo; composición de emisiones; regulaciones que creen demanda cautiva; y cualquier coordinación Fed–Tesoro que vaya más allá de opiniones divergentes.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/feds-waller-says-safety-premium-treasuries-is-gone-pushing-neutral-rate-higher-2026-09-03/
-- https://www.reuters.com/business/finance/whats-behind-selloff-world-bond-markets-2026-09-01/
-
----
-
-### 2026-09-01 / 2026-09-04 — El mayor fondo soberano propone retirar demanda estructural de deuda pública
-
-**Hecho confirmado:** Norges Bank recomendó al Ministerio de Finanzas noruego reducir de 70% a 50% el peso de bonos gubernamentales dentro del benchmark de renta fija del Government Pension Fund Global, valorado en torno a USD 2,3 billones. La propuesta sustituiría parte de los soberanos por crédito y valores respaldados por hipotecas de agencias estadounidenses. Según la estimación publicada por Financial Times, la modificación podría reducir las tenencias de Treasuries en cerca de USD 80.000 millones. Es una recomendación oficial; la decisión corresponde al gobierno y se espera durante 2027.
-
-**Restricción corregida:** el plano identificaba presión por oferta, inflación y menor atractivo de duration, pero faltaba una decisión institucional de escala que mostrara a un gran propietario público dispuesto a reducir deuda soberana como clase de activo. La recomendación no abandona el dólar ni ejecuta aún ventas, pero demuestra que incluso un inversor soberano de muy largo plazo evalúa que el benchmark tradicional concentra demasiado riesgo y retorno insuficiente.
-
-**Mecanismo:** `deuda pública creciente + volatilidad y menor prima de seguridad → revisión del benchmark → menor peso estructural de soberanos → mayor asignación a crédito y MBS de agencias`. Si se aprueba, la venta o menor reinversión reduce demanda marginal de Treasuries y eleva la necesidad de otros compradores. La moneda dólar permanecería casi sin cambios, por lo que el mecanismo es rotación desde riesgo soberano estadounidense hacia otros activos denominados en dólares, no desdolarización simple.
-
-**Relación con eventos anteriores:** aporta evidencia de flujo al diagnóstico de Waller y a la venta sincronizada de bonos globales. Contrasta con compras recientes de Treasuries por bancos comerciales chinos financiadas con depósitos en dólares: ese flujo responde al spread frente a yields domésticos, pero Reuters no pudo determinar su escala y las tenencias chinas registradas continúan en mínimos desde 2008. La cuestión central pasa a ser qué demanda reemplaza a los grandes tenedores estructurales y a qué rendimiento.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** y aumenta la presión potencial que podría forzar una respuesta futura. No confirma Phase 2 porque la propuesta reduce demanda libre en lugar de crear demanda cautiva, todavía no fue aprobada y no produjo control alguno sobre la curva estadounidense.
-
-**Implicación potencial para la cartera:** mantener cautela con Treasuries largos aun cuando los yields parezcan atractivos; la prima puede seguir ajustándose si otros fondos replican el cambio. Crédito de alta calidad y MBS de agencias podrían recibir flujos relativos, pero agregan spread, convexidad y riesgo de prepago: no sustituyen automáticamente la función defensiva de soberanos cortos. La señal favorece diversificación real frente a concentración en promesas fiscales largas.
-
-**Evidencia pendiente:** decisión del Ministerio de Finanzas en 2027; cronograma y método de transición; cifra exacta de Treasuries afectados; duración que se reduce; respuesta de otros fondos soberanos y reservas oficiales; datos TIC y custodios; escala real de las compras bancarias chinas; subastas estadounidenses; y aparición de regulación o intervención que compense la demanda retirada.
-
-**Fuentes:**
-
-- https://www.norges-bank.no/en/news-events/news/Submissions/2026/26-09-01-investment-strategy-bonds/
-- https://www.ft.com/content/ecc15aa6-6e7b-409d-8753-2fb6aadd0592
-- https://www.reuters.com/world/asia-pacific/china-banks-buy-treasuries-boost-dollar-deposits-sources-say-2026-09-04/
-
----
-
-### 2026-09-02 / 2026-09-03 — La defensa del yen empieza a transmitirse desde FX hacia política monetaria
-
-**Hecho confirmado:** Hajime Takata, miembro del Policy Board del BOJ, sostuvo el 2 de septiembre que 2026 inicia una nueva fase en la que las subas de tasas no deberían seguir un ritmo fijo, sino ejecutarse de manera ágil. Recordó que propuso elevar la tasa desde 1% hasta 1,25% en la reunión de julio y señaló riesgos de segunda ronda: PPI de julio en 7,2%, salarios firmes, mayor traslado a precios, expectativas inflacionarias más altas, yen débil y shock de Medio Oriente. El yen avanzó más de 2% en dos sesiones y USDJPY cayó hasta la zona de 156; el mercado pasó a descontar casi completamente una suba en septiembre sin evidencia de una nueva intervención directa.
-
-**Restricción corregida:** desde la intervención coordinada del 31/07, la principal limitación era que comprar yenes no corregía el diferencial de tasas ni los fundamentos fiscales. Por primera vez desde entonces, una señal interna del BOJ produjo una apreciación amplia y relativamente ordenada mediante expectativas de normalización más rápida. Todavía es la posición de un miembro, no una decisión del Board, pero abre el canal fundamental que faltaba.
-
-**Mecanismo:** `shock energético + salarios + pass-through → inflación japonesa más persistente → expectativa de BOJ más restrictivo → menor diferencial esperado con Estados Unidos → cierre parcial de carry trades y demanda de yen`. Al mismo tiempo, `tasas japonesas más altas → JGB relativamente más atractivo → riesgo de repatriación o menor compra japonesa de bonos extranjeros`. El mismo mecanismo que fortalece al yen puede mantener presión sobre Treasuries y curvas globales si produce reasignación de ahorro japonés.
-
-**Relación con eventos anteriores:** desarrolla la secuencia intervención récord → coordinación Estados Unidos–Japón → llamado de Bessent a corregir fundamentos → presión del JGB a 10 años sobre 3%. El movimiento actual no demuestra que la coordinación haya causado la postura de Takata, pero sí muestra que mercado cambiario, inflación importada y política monetaria ya están interactuando. La subasta de JGB a 30 años con demanda razonable dio alivio táctico, no reversión estructural de la presión soberana.
-
-**Efecto sobre Phase 1C / Phase 2:** refuerza **Phase 1C avanzada** por la combinación de inflación, carry unwind y competencia global por ahorro. No confirma Phase 2: el BOJ está evaluando endurecer y dejó de controlar la curva mediante YCC; los yields japoneses siguen siendo formados por el mercado. Tampoco confirma aún un cambio sostenible del yen: requiere decisión colectiva, persistencia y efecto posterior a la reunión del 17–18/09.
-
-**Implicación potencial para la cartera:** el yen mejora como cobertura táctica frente al unwind del carry, pero todavía no como reserva estructural. Evitar financiar posiciones de riesgo con yen sin contemplar saltos discontinuos. Mantener cautela con duration global: una normalización más rápida del BOJ puede fortalecer la moneda y, simultáneamente, retirar demanda marginal de Treasuries y bonos europeos.
-
-**Evidencia pendiente:** voto y comunicado del BOJ del 17–18/09; tamaño de una eventual suba; adhesión de Ueda y otros miembros; evolución de USDJPY sin intervención; datos diarios de flujos japoneses hacia bonos extranjeros; comportamiento del JGB a 10 y 30 años; nuevas subastas; estabilidad fiscal; y capacidad de la Fed de ampliar o reducir nuevamente el diferencial.
-
-**Fuentes:**
-
-- https://www.boj.or.jp/en/about/press/koen_2026/ko260902a.htm
-- https://www.boj.or.jp/en/about/press/koen_2026/data/ko260902a1.pdf
-- https://www.reuters.com/world/asia-pacific/yen-spotlight-after-sudden-jump-2026-09-03/
-- https://www.reuters.com/world/asia-pacific/japan-fx-chief-mimura-says-alert-over-yen-moves-not-reassured-2026-09-03/
-- https://www.reuters.com/world/china/global-markets-view-europe-2026-09-03/
-
----
-
-### 2026-09-02 / 2026-09-03 — Países Bajos mueve 86 toneladas de oro para mejorar su disponibilidad en crisis
-
-**Hecho confirmado:** De Nederlandsche Bank trasladó entre marzo y agosto 86 toneladas de oro desde Nueva York y Ottawa hacia Londres, equivalentes a aproximadamente 14% de sus 612,4 toneladas totales y a más de una cuarta parte del stock previamente custodiado en Norteamérica. Londres pasó de alojar 18,1% a 32,1% de las reservas; Nueva York y Ottawa bajaron a 18,5% cada una. DNB justificó la decisión por mayor inestabilidad geopolítica y porque el oro depositado en el Banco de Inglaterra es más líquido y puede desplegarse con mayor rapidez durante una crisis.
-
-**Restricción corregida:** el evento estructural registrado el 20/08 demostraba acumulación oficial de oro, pero faltaban señales recientes de que bancos centrales occidentales estuvieran ajustando activamente jurisdicción, liquidez y disponibilidad operativa. Esta operación muestra que la función del oro no se limita a valuación o diversificación contable: también se gestiona como reserva movilizable ante escenarios de crisis.
-
-**Mecanismo:** `fragmentación geopolítica + riesgo de acceso/custodia → redistribución entre bóvedas y centros jurídicos → mayor disponibilidad inmediata en el principal mercado físico → mayor utilidad del oro como activo de contingencia`. La mayor parte fue una relocalización neutral para el stock: 59 toneladas se vendieron en Norteamérica y se recompraron en Londres, mientras unos 27 toneladas se movieron físicamente mediante una operación compensada con la bóveda de Zeist. Por eso no debe interpretarse como 86 toneladas de nueva demanda neta.
-
-**Relación con eventos anteriores:** fortalece la tesis de remonetización gradual del oro y agrega la dimensión de custodia al aumento de compras oficiales desde 2022. No constituye una retirada total del sistema estadounidense ni una desdolarización lineal: DNB conserva 18,5% en Nueva York y el Bundesbank continúa defendiendo su custodia estadounidense. La señal relevante es diversificación operacional, no abandono del dólar.
-
-**Efecto sobre Phase 1C / Phase 2:** consistente con **Phase 1C avanzada**, porque una autoridad monetaria prepara activos sin pasivo de contraparte para posibles dislocaciones geopolíticas o financieras. No tiene relación suficiente para confirmar Phase 2 y no altera directamente la formación de tasas largas.
-
-**Implicación potencial para la cartera:** refuerza al oro físico asignado y a la diversificación de custodios y jurisdicciones dentro del núcleo estructural. La lección no es perseguir el precio —el oro ya se acerca a USD 4.440— sino tratar accesibilidad, titularidad y capacidad de liquidación como parte del activo. ETFs, metal asignado y mineras no cumplen la misma función de contingencia.
-
-**Evidencia pendiente:** publicación completa y permanente de DNB; movimientos equivalentes de otros bancos centrales europeos; decisiones de Francia y Alemania; cambios de custodia en toneladas y no sólo en valor; repatriaciones adicionales; costos y marco jurídico de acceso; compras oficiales netas de H2 2026; y si la relocalización se convierte en una tendencia multilateral.
-
-**Fuentes:**
-
-- https://apnews.com/article/92eab7ed68b960e029e5a69093e20996
-- https://www.reuters.com/world/china/global-markets-global-markets-2026-09-03/
-- https://www.reuters.com/world/india/gold-hits-over-3-week-low-mideast-tensions-fan-rate-hike-fears-2026-09-02/
-
----
-
-### 2026-09-02 — Hormuz pasa de bloqueo uniforme a corredor intermitente y logísticamente administrado
-
-**Hecho confirmado:** el secretario de Energía de Estados Unidos informó que 17 millones de barriles de crudo atravesaron Hormuz el 31 de agosto, el mayor volumen diario desde que la guerra redujo los flujos. Al día siguiente, sin embargo, sólo cruzaron cuatro buques de commodities, frente a diez el lunes y un promedio de aproximadamente trece durante los diez días previos. En paralelo, datos de Kpler y Vortexa identificaron tres trasbordos *ship-to-ship* de LNG cargado en Qatar y Emiratos Árabes Unidos fuera del estrecho durante agosto, una práctica inusual para LNG, con entregas dirigidas a India y Japón.
-
-**Restricción corregida:** la evidencia del 01/09 confirmaba una restricción física severa, pero podía inducir a modelar Hormuz como un bloqueo continuo. Los 17 millones de barriles prueban que todavía pueden organizarse salidas de escala; el colapso del número de cruces un día después y el recurso a trasbordos extraordinarios muestran que eso no equivale a normalización. La restricción relevante pasa a ser la falta de tránsito regular, asegurable y previsible.
-
-**Mecanismo:** la secuencia observable es `ventanas o convoyes de salida → descarga puntual de inventarios atrapados → alivio transitorio del petróleo`, combinada con `riesgo militar persistente → pocos cruces ordinarios + transponders apagados + trasbordos fuera del estrecho → fletes, seguros y gas más caros`. La logística adaptativa evita una pérdida total de oferta, pero transfiere el shock desde cantidad pura hacia costo, demora y volatilidad. El LNG spot asiático alcanzó USD 23,20 por mmBtu, más del doble del nivel previo al conflicto.
-
-**Relación con eventos anteriores:** corrige y precisa el evento del 01/09 sin invalidarlo. Los ataques a cargamentos y la caída de exportaciones iraníes siguen vigentes, pero el corredor omaní no está simplemente cerrado: funciona de forma episódica y selectiva. También explica por qué Brent pudo retroceder desde un máximo intradiario superior a USD 97 aun cuando el tráfico del martes y Bab el-Mandeb permanecieron por debajo de sus promedios recientes.
-
-**Efecto sobre Phase 1C / Phase 2:** mantiene **Phase 1C avanzada**. Reduce el riesgo inmediato de una interrupción absoluta, pero conserva el impulso inflacionario por energía y la presión sobre curvas soberanas. No aporta evidencia de Phase 2: no existe aquí una intervención monetaria destinada a controlar tasas largas y el mercado continúa formando libremente esos rendimientos.
-
-**Implicación potencial para la cartera:** conservar exposición selectiva a energía y activos reales, pero evitar tratar cada cierre parcial como escasez total o perseguir petróleo por encima de USD 95 sin datos de flujo. El gas y la infraestructura de LNG ganan relevancia relativa porque el costo de la adaptación ya está apareciendo en precios. Para Argentina, sostiene el valor estratégico del LNG y de la oferta exportable alternativa, aunque la ventaja requiere infraestructura y contratos capaces de capturarla.
-
-**Evidencia pendiente:** frecuencia y tamaño de nuevas ventanas de tránsito; quién las coordina y protege; volumen semanal neto frente a niveles anteriores a la guerra; disponibilidad y precio de seguros; repetición de trasbordos de LNG; duración del LNG asiático por encima de USD 20; exportaciones efectivas de Qatar y EAU; tráfico por Bab el-Mandeb; y si el alivio puntual de crudo logra desacoplar energía de las tasas largas.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/energy/us-energy-secretary-says-17-million-barrels-oil-transited-strait-hormuz-monday-2026-09-02/
-- https://www.reuters.com/business/energy/shipping-traffic-via-strait-hormuz-stays-below-10-day-average-data-shows-2026-09-02/
-- https://www.reuters.com/business/energy/qatari-uae-lng-cargoes-transferred-via-ship-to-ship-outside-strait-hormuz-2026-09-02/
-- https://www.reuters.com/business/energy/oil-up-nearly-1-us-iran-trade-fresh-strikes-2026-09-02/
-
----
-
-### 2026-09-02 — Estados Unidos empieza a reconstruir oferta petrolera hemisférica mediante Venezuela
-
-**Hecho confirmado:** Chevron anunció una inversión superior a USD 7.000 millones para más que duplicar su producción venezolana desde aproximadamente 290.000 hasta 600.000 barriles diarios en cinco años. La expansión sigue a una reforma energética, incorpora nuevas áreas del cinturón del Orinoco y mejora términos fiscales, comerciales y legales. El costo previsto permanece por debajo de USD 20 por barril. El programa forma parte de una iniciativa estadounidense más amplia que busca dirigir USD 100.000 millones hacia la reconstrucción energética venezolana.
-
-**Restricción corregida:** la escasez energética del régimen no implica que toda nueva oferta relevante deba venir de Norteamérica, Medio Oriente o Vaca Muerta. El cambio político y contractual vuelve invertible una parte de las mayores reservas del mundo y habilita capital occidental de escala donde antes sanciones, expropiación, deterioro operativo e inseguridad jurídica bloqueaban la oferta.
-
-**Mecanismo:** `cambio político + reforma contractual + respaldo estadounidense → menor riesgo jurídico y fiscal → capital y tecnología de una major → recuperación de producción de bajo costo → más crudo pesado hacia refinerías estadounidenses`. A corto plazo no compensa Hormuz; a varios años crea una vía de sustitución hemisférica, reduce dependencia marginal de rutas asiáticas y convierte política exterior en política de seguridad energética.
-
-**Relación con eventos anteriores:** complementa la inversión de USD 4.000 millones de Continental Resources en Vaca Muerta registrada el 20/08. Ambos movimientos confirman la búsqueda de oferta fuera de los chokepoints de Medio Oriente, pero también introducen competencia: Venezuela ofrece reservas enormes y costos declarados bajos; Argentina ofrece shale escalable, gas y un marco geopolítico distinto. La comparación debe hacerse por ejecución, evacuación, calidad del crudo, contratos y riesgo soberano, no por narrativa doméstica.
-
-**Efecto sobre Phase 1C / Phase 2:** no modifica directamente la fase monetaria. Refuerza la dimensión de **reordenamiento estatal del capital productivo dentro de Phase 1C**, porque Washington usa acceso, contratos y alineamiento político para reconstruir capacidad energética estratégica. Si el programa alcanza escala, podría moderar parte de la inflación energética futura, pero el horizonte de cinco años impide atribuirle alivio inmediato sobre las tasas largas.
-
-**Implicación potencial para la cartera:** ampliar el universo energético latinoamericano y revisar la tesis argentina en términos relativos. Vaca Muerta sigue validada, pero ya no es el único receptor regional de capital grande; proyectos con infraestructura, costos bajos, contratos exportadores y protección jurídica ganan prioridad. La nueva oferta venezolana es potencialmente bajista para el precio marginal del crudo a largo plazo y favorable para refinadores estadounidenses adaptados a crudos pesados.
-
-**Evidencia pendiente:** desembolsos anuales efectivos; cierre y estabilidad legal de los contratos; cumplimiento del objetivo de 600.000 bpd; recuperación de infraestructura y diluyentes; adhesión de Eni, ONGC y otros operadores; materialización del plan estadounidense de USD 100.000 millones; continuidad política; destino de exportaciones; y comparación de retorno sobre capital con Vaca Muerta y otras cuencas hemisféricas.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/energy/chevron-expands-venezuela-position-plans-7-billion-investment-2026-09-02/
-
----
-
-### 2026-09-01 — Hormuz transmite el shock a las curvas soberanas y el JGB a 10 años toca 3%
-
-**Hecho confirmado:** dos supertankers que transportaban crudo saudí fueron alcanzados por proyectiles con pocos minutos de diferencia mientras salían por el corredor omaní de Hormuz. Cada buque había cargado dos millones de barriles en Juaymah; las tripulaciones fueron reportadas a salvo. En paralelo, el bloqueo naval estadounidense dejó a Irán unas siete semanas sin exportaciones significativas de crudo por Hormuz: las cargas de petróleo y condensado cayeron desde aproximadamente 2 millones de barriles diarios en marzo a 220.000–255.000 en agosto, mientras 29 tankers con 36,11 millones de barriles permanecían dentro del estrecho.
-
-**Restricción corregida:** hasta el 31/08 estaba confirmada la reanudación militar y el bajo tránsito, pero faltaba demostrar daño a cargamentos de escala y una transmisión persistente fuera del petróleo. Los ataques coordinados sobre VLCC cargados, la caída cuantificada de exportaciones iraníes y la reacción simultánea de las curvas soberanas muestran que la restricción energética ya no es sólo riesgo potencial: está reduciendo flujos físicos, ingresos externos y el ancla global de renta fija.
-
-**Mecanismo:** la secuencia es `bloqueo + ataques a cargamentos → menor oferta disponible y mayor costo de tránsito/seguro → Brent por encima de USD 92 y gas europeo más alto → inflación esperada y necesidad de endurecimiento → venta global de bonos`. La presión se amplifica mediante `JGB yields más altos → activos japoneses relativamente más atractivos → menor demanda japonesa de bonos extranjeros → yields globales más altos`, al mismo tiempo que gobiernos y grandes empresas tecnológicas compiten por capital mediante más emisión.
-
-**Relación con eventos anteriores:** confirma la corrección del 30–31/08 al acuerdo Irán–Omán y convierte el frente militar en un shock observable sobre tasas. También prueba la fragilidad de la respuesta del Tesoro: el Treasury a 30 años volvió a 5,27%, recuperando aproximadamente dos tercios de la baja posterior al anuncio de recompras y quedando apenas 6 pb debajo del nivel previo a la intervención. La señal hawkish de Warsh había aplanado la curva, pero la reanudación del conflicto reintrodujo inflación y presión bajista sobre el tramo largo.
-
-**Efecto observado:** el JGB a 10 años alcanzó **3% por primera vez desde 1996**, con un máximo intradiario de 3,005% y cierre en 2,996%; el JGB a cinco años marcó un récord de 2,26%. El Treasury estadounidense a 10 años subió hacia 4,79% —máximo desde enero de 2025— y el 30 años a 5,27%. Alemania 10Y llegó a 3,35%, Francia 10Y a 4,21% y el gilt británico 10Y a 5,25%, todos en máximos de muchos años. Brent operó por encima de USD 92.
-
-**Impacto sobre el plano:** refuerza **Phase 1C avanzada** y acerca el sistema al umbral que podría forzar intervenciones de mayor escala. Sin embargo, **no confirma Phase 2**: por ahora el mercado continúa elevando libremente el costo largo y está neutralizando gran parte del efecto inicial del Treasury Twist. En realidad, es evidencia de que la herramienta anunciada todavía no controla la curva. La prueba del 10/09 gana importancia: deberá mostrar escala, absorción neta y efecto persistente para cambiar esta lectura.
-
-**Implicación potencial para la cartera:** mantiene desfavorable la duration larga global antes de ejecución y evidencia del Twist. Mejora relativamente a productores energéticos alternativos y de bajo costo, incluida Argentina, pero desaconseja perseguir petróleo después del salto sin verificar volúmenes y asegurabilidad. Oro gana utilidad como cobertura frente a inflación geopolítica y fragilidad soberana. Bitcoin conserva la tesis monetaria de largo plazo, aunque queda expuesto tácticamente a mayores tasas reales, dólar fuerte y desapalancamiento.
-
-**Evidencia pendiente:** daños y continuidad operativa de Sidr y Senegal Prosperity; autoría de los ataques; evolución de seguros y fletes; cruces y exportaciones físicas durante varias semanas; salida de los 36,11 millones de barriles atrapados; persistencia de Brent sobre USD 90; flujos japoneses hacia activos domésticos; subastas de JGB y Treasuries; decisión del BOJ del 17–18/09; ejecución del Treasury buyback del 10/09; y capacidad efectiva de recompras, composición de emisión o coordinación monetaria para impedir nuevos máximos en 10Y y 30Y.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/energy/two-tankers-carrying-saudi-oil-attacked-strait-hormuz-2026-09-01/
-- https://www.reuters.com/business/energy/blockade-succeeds-where-sanctions-failed-iran-oil-exports-stall-2026-09-01/
-- https://www.reuters.com/world/asia-pacific/global-bond-rout-deepens-japan-yield-hits-key-threshold-2026-09-01/
-- https://www.marketwatch.com/investing/bond/tmbmkjp-10y?countrycode=bx
-- https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm
-
----
-
-### 2026-08-30 / 2026-08-31 — Estados Unidos e Irán reanudan ataques en Hormuz y debilitan el corredor de Omán
-
-**Hecho confirmado:** fuerzas estadounidenses atacaron dos lanzadores en la isla iraní de Larak, dentro del estrecho de Hormuz, en la primera acción estadounidense reconocida contra territorio iraní desde fines de julio. CENTCOM sostuvo que las fuerzas iraníes preparaban cohetes con minas marinas. Irán respondió con misiles contra instalaciones estadounidenses en Jordania; Jordania informó haber interceptado ocho proyectiles. Emiratos Árabes Unidos interceptó además un dron iraní sobre sus aguas y calificó el episodio como una escalada peligrosa. En paralelo, UKMTO informó que un tanker fue alcanzado por un proyectil mientras ingresaba al estrecho.
-
-**Restricción corregida:** el marco Irán–Omán del 25–26/08 había reducido la probabilidad inmediata de una interrupción energética creciente, pero todavía no había producido reapertura física. Los nuevos ataques corrigen esa lectura: el riesgo vuelve a concentrarse directamente sobre las fuerzas de minado, los buques y las aguas del estrecho, mientras las negociaciones permanecen estancadas.
-
-**Mecanismo:** `ataques sobre Larak y represalia regional → mayor riesgo de minas, proyectiles y error de cálculo → seguros y operadores restringen tránsito → menor disponibilidad de crudo y LNG → petróleo e inflación esperada más altos → presión sobre tasas largas y crecimiento importador`. El tránsito visible de buques de commodities cayó a unos cinco por día durante el fin de semana. Brent subió 2,67% hasta USD 90,45 y llegó a USD 91,52 intradiario, máximo desde el 25/08; parte de la amplitud pudo estar magnificada por bajo volumen durante el feriado británico.
-
-**Relación con eventos anteriores:** debilita —sin eliminar formalmente— la contraseñal del corredor temporal y desminado acordado por Irán y Omán. La secuencia vuelve de `solución diplomática y física en negociación` a `negociación limitada + acción militar sobre el cuello de botella`. También refuerza la causalidad reconocida por Bessent: el shock energético eleva inflación y yields largos, aumentando la presión política para que el Tesoro intervenga, aunque el costo largo todavía sigue determinado por el mercado.
-
-**Impacto sobre el plano:** refuerza **Phase 1C avanzada** porque restaura un shock de oferta capaz de tensionar simultáneamente inflación, crecimiento y sostenibilidad soberana. Puede aumentar la urgencia del Treasury Twist, pero **no confirma Phase 2**: no agrega escala ni ejecución a las recompras, no modifica la doctrina de la Fed y no demuestra supresión persistente del costo largo.
-
-**Implicación potencial para la cartera:** vuelve a elevar la prima de riesgo de energía y mejora relativamente la posición de productores de bajo costo y proveedores alternativos —incluida Argentina en energía—, pero un movimiento inicial de 2%–3% no justifica perseguir petróleo sin evidencia de caída adicional de volúmenes. Es negativo para duration larga si la inflación energética persiste. Oro conserva utilidad frente a escalada geopolítica y dominancia fiscal; Bitcoin mantiene la tesis monetaria, aunque puede sufrir inicialmente si el shock fortalece dólar y tasas reales.
-
-**Evidencia pendiente:** continuidad o cese de los ataques; daños verificables y capacidad restante en Larak; número sostenido de cruces, volúmenes físicos de crudo y LNG y costo de seguros; colocación o remoción de nuevas minas; evolución del tanker alcanzado; implementación o abandono del corredor Irán–Omán; persistencia de Brent sobre USD 90; reacción de 10Y/30Y; y cualquier interrupción efectiva en terminales de exportación. Las afirmaciones sobre Kharg Island no se incorporan porque no existe evidencia de ataque y fueron negadas por Irán.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/energy/oil-jumps-more-than-2-after-us-attack-irans-larak-island-2026-08-30/
-- https://apnews.com/article/iran-us-war-uea-august-31-2026-9f34873bad9a928574c36ee984c3f96b
-- https://www.reuters.com/world/asia-pacific/oil-hold-above-80-barrel-middle-east-supply-risks-persist-2026-08-31/
-
----
-
-### 2026-08-29 / 2026-08-30 — El Tesoro explicita su objetivo sobre las tasas largas y revela el canal ESF–yen
-
-**Hecho confirmado:** un alto funcionario del Tesoro declaró antes de la reunión del G20 que los rendimientos de los bonos largos habían subido por encima de lo que el departamento considera “valor justo” y que el Tesoro está comprometido a bajarlos. La formulación va más allá de la justificación pública de liquidez utilizada para las recompras y confirma intención sobre el precio del financiamiento largo, aunque otro funcionario insistió en que las operaciones no son política monetaria ni un techo formal de tasas. En una carta fechada el 27/08 y publicada el 28/08, Scott Bessent confirmó además que Estados Unidos financió su parte de la intervención sobre el yen intercambiando por yenes activos en moneda extranjera del Exchange Stabilization Fund (ESF).
-
-**Restricción corregida:** el Treasury Twist seguía sujeto a dos incertidumbres centrales: si el objetivo era únicamente mejorar liquidez o reducir deliberadamente el costo largo, y qué activos había movilizado Estados Unidos para defender el yen sin vender Treasuries. Las nuevas declaraciones corrigen ambas: existe una intención explícita de bajar yields largos y el tramo estadounidense de la intervención cambiaria utilizó activos del ESF —incluidos euros—, evitando una liquidación de Treasuries.
-
-**Mecanismo:** la secuencia integrada es `Tesoro juzga excesivo el costo largo → amplía recompras de duration → intenta reducir yields sin QE`, conectada con `yen desordenado → riesgo de forced unwinds y ventas cruzadas → ESF vende activos en divisas y compra yenes → menor contagio hacia JGB y Treasuries`. Bessent justificó la intervención porque una liquidación forzada podía elevar finalmente los costos de endeudamiento de hogares y empresas estadounidenses. El Tesoro está administrando así dos fuentes de presión sobre la curva —oferta de duration y desapalancamiento del carry— con herramientas fiscales y cambiarias propias.
-
-**Relación con eventos anteriores:** eleva la arquitectura del Treasury Twist registrada el 24–25/08 desde una herramienta potencial hacia una intención oficial más clara, y completa el evento FIMA y la intervención récord japonesa al identificar el ESF como fuente del tramo estadounidense. También profundiza la divergencia con la doctrina de Warsh del 28/08: el Tesoro busca corregir precios largos que considera desviados, mientras la Fed declara preferir señales de mercado poco filtradas y reserva las herramientas no convencionales para crisis genuinas.
-
-**Restricción institucional:** la coordinación internacional no es plena. Funcionarios de bancos centrales europeos dijeron que no recibieron el aviso habitual antes de que el Tesoro vendiera euros para comprar yenes y expresaron preocupación tanto por futuras intervenciones unilaterales como por la posibilidad —todavía puramente hipotética— de presión política sobre las líneas swap de la Fed. No existe evidencia de que esas líneas estén en riesgo: son decididas por el FOMC y los propios funcionarios esperan que permanezcan intactas. La fricción importa porque Phase 2 exigiría arquitectura persistente y creíble, no sólo discrecionalidad del Tesoro.
-
-**Impacto sobre el plano:** mantiene **Phase 1C avanzada** y eleva la probabilidad de **Phase 2A por el canal Tesoro**, porque ya hay herramienta, capacidad potencial e intención explícita de reducir el costo largo. **Phase 2 no queda confirmada:** las recompras ampliadas aún no se ejecutaron, su escala anunciada es pequeña frente al mercado, el Tesoro mantiene la emisión larga regular y todavía no existe un techo efectivo o persistente sobre los rendimientos. La primera prueba operativa sigue siendo el 10/09.
-
-**Implicación potencial para la cartera:** aumenta el riesgo de estar estructuralmente corto de duration en torno a intervenciones del Tesoro, pero no justifica convertir la deuda larga en posición estratégica antes de observar absorción neta y persistencia. Refuerza el monitoreo conjunto de 30Y, curva 2s30s, buybacks, composición de emisión, ESF, USDJPY y utilización de FIMA. La fricción Fed–Tesoro–Europa sostiene la preferencia estructural por oro y Bitcoin como coberturas monetarias, aunque tasas cortas más altas pueden generar volatilidad táctica.
-
-**Evidencia pendiente:** tamaño aceptado y financiación de las recompras del 10/09; efecto durante varias semanas sobre 10Y y 30Y; cambio en la emisión neta de duration; utilización del TGA; nuevas operaciones del ESF; desglose estadounidense y japonés de la intervención; uso efectivo de FIMA; respuesta del FOMC; continuidad de las líneas swap; y cualquier acuerdo G20 que transforme acciones discretas en coordinación duradera.
-
-**Fuentes:**
-
-- https://www.reuters.com/business/finance/bessent-says-disorderly-yen-moves-can-destabilize-global-markets-2026-08-29/
-- https://www.reuters.com/business/finance/europes-central-bankers-fear-more-turbulence-testy-us-relations-2026-08-30/
-- https://www.reuters.com/world/china/us-treasurys-bessent-faces-g20-diplomacy-test-amid-tariffs-iran-war-bond-turmoil-2026-08-30/
-
----
-
-### 2026-08-28 — Warsh confirma una Fed de tasas cortas y precios de mercado, sin respaldo explícito al Treasury Twist
-
-**Hecho confirmado:** en Jackson Hole, Kevin Warsh estableció que el objetivo de inflación PCE de 2% es “firme y fijo”, que las tasas de corto plazo serán la herramienta predominante y que las políticas no convencionales deberían utilizarse con moderación —o no utilizarse— fuera de crisis genuinas. También sostuvo que la Fed necesita señales de mercado lo menos filtradas posible, incluyendo precios y volúmenes de Treasuries, y redujo deliberadamente el uso de forward guidance. Con inflación PCE de 3,7%, empleo consistente con pleno empleo y condiciones financieras que no considera restrictivas, afirmó que la Fed tendrá trabajo por hacer si la inflación subyacente no converge con claridad y velocidad suficiente.
-
-**Restricción corregida:** después de las recompras largas del Tesoro y la propuesta de ampliar FIMA, permanecía abierta la posibilidad de que la Fed acompañara la administración del costo largo mediante balance, comunicación o coordinación explícita. El discurso restringe ese camino: Warsh ubica la acción monetaria ordinaria en el tramo corto y preserva la formación de precios del mercado como fuente de información. Además, omitió respaldar o siquiera integrar las recompras del Tesoro en su marco.
-
-**Mecanismo:** si la inflación persiste, la Fed endurecería principalmente el frente corto mediante la tasa de política, mientras deja que el mercado determine el tramo largo. La secuencia pasa a ser `inflación persistente → posible suba de Fed funds → mayor credibilidad antiinflacionaria → presión fuerte sobre yields cortos y efecto indirecto sobre el largo`, en paralelo a `Tesoro compra duration larga sin QE de la Fed`. Esto puede aplanar la curva y contener parcialmente el term premium por credibilidad, pero no constituye control administrativo de las tasas largas.
-
-**Relación con eventos anteriores:** confirma la divergencia Bessent–Warsh registrada el 27/08. El Treasury Twist y FIMA permanecen como herramientas del Tesoro y de liquidez defensiva; la Fed no las incorporó a una estrategia coordinada. También valida la observación conceptual del 23/07: la represión financiera no debe equipararse automáticamente con QE, y en esta etapa el canal más probable sigue siendo Tesoro, regulación o demanda cautiva antes que compras permanentes de la Fed.
-
-**Efecto observado:** la probabilidad implícita de una suba en septiembre pasó aproximadamente de 35% a 60%. En la reacción inicial, el Treasury a 2 años subió 11 pb hasta 4,34%, el 10 años 5 pb hasta 4,72% y el 30 años 1,6 pb hasta 5,206%, un movimiento de aplanamiento relativo compatible con endurecimiento corto y cierta recuperación de credibilidad inflacionaria.
-
-**Impacto sobre el plano:** mantiene **Phase 1C avanzada** y reduce, por ahora, la probabilidad de una Phase 2A liderada por la Fed. No invalida una transición impulsada por el Tesoro, FIMA, regulación o deterioro futuro del mercado, pero eleva el umbral: para declarar Phase 2 habrá que observar una crisis que fuerce a Warsh a abandonar esta doctrina, o evidencia persistente de que otras herramientas consiguen suprimir el costo largo sin la Fed.
-
-**Implicación potencial para la cartera:** refuerza la cautela con duration larga, pero abre la posibilidad táctica de aplanamiento si las subas cortas restauran credibilidad y el Tesoro continúa recomprando el tramo largo. Es desfavorable para activos sensibles a tasas reales y liquidez en el corto plazo; oro y Bitcoin conservan su tesis estructural, aunque pueden enfrentar volatilidad si suben las tasas cortas y el dólar. Conviene separar exposición a duración de la cobertura monetaria y no anticipar QE.
-
-**Evidencia pendiente:** decisión del FOMC del 15–16/09; trayectoria de inflación y empleo; ritmo efectivo del balance; reacción de Warsh ante las recompras del Tesoro; ejecución del 10/09; persistencia del aplanamiento; coordinación o conflicto operativo Fed–Tesoro; y umbral de disfunción que Warsh consideraría una “crisis genuina” habilitante de herramientas no convencionales.
-
-**Fuentes:**
-
-- https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm
-- https://www.reuters.com/business/view-rate-hike-expectations-rise-warsh-speech-jackson-hole-2026-08-28/
-
----
-
-### 2026-08-28 — Japón confirma una intervención récord de ¥15,4 billones y revela el límite del soporte cambiario aislado
-
-**Hecho confirmado:** el Ministerio de Finanzas de Japón informó que las operaciones de intervención cambiaria realizadas entre el 30/07 y el 26/08 sumaron **¥15,3993 billones** —aproximadamente USD 96.500 millones al tipo de cambio citado por Reuters—, el mayor monto mensual registrado. La intervención se concentró en la compra de yenes del 30 y 31 de julio e incluyó la actuación conjunta con Estados Unidos y la coordinación temporal con Corea del Sur. El desglose diario oficial recién se publicaría con los datos trimestrales, probablemente a comienzos de noviembre.
-
-**Restricción corregida:** hasta ahora estaba confirmada la coordinación, pero no su escala. El dato elimina esa incertidumbre: la defensa del yen no fue una señal simbólica sino una utilización extraordinaria de reservas para interrumpir una depreciación que amenazaba con elevar la inflación importada, desordenar el carry trade y transmitir ventas hacia JGB y Treasuries.
-
-**Mecanismo:** compra oficial de yenes contra divisas de reserva. La operación produjo una apreciación inicial desde aproximadamente 163 por dólar hasta 155,20, pero el yen volvió a estabilizarse cerca de 159,50. La secuencia observada es `intervención récord → reversión inicial fuerte → recuperación parcial del USDJPY mientras persiste el diferencial de tasas`. Esto muestra que la intervención puede modificar la trayectoria y castigar posiciones unidireccionales, pero todavía no sustituye un cambio persistente en los fundamentos monetarios.
-
-**Relación con eventos anteriores:** cuantifica el episodio Estados Unidos–Japón del 31/07 y refuerza la lógica del evento FIMA del 03/08–27/08. Cuanto mayor sea la necesidad de dólares para nuevas compras de yenes, mayor es el incentivo a obtener liquidez contra Treasuries mediante FIMA en vez de venderlos. También vuelve más relevante la decisión del BOJ de septiembre: sin reducción del diferencial de tasas, nuevas intervenciones requerirían escala creciente o una coordinación más profunda.
-
-**Impacto sobre el plano:** confirma **Phase 1C avanzada**: los gobiernos ya administran con montos récord una moneda de financiación central para el carry global y procuran impedir que su defensa desestabilice las curvas soberanas. Eleva la probabilidad de nuevas herramientas coordinadas, pero **no confirma Phase 2**: la operación actuó sobre USDJPY, no fijó el costo largo estadounidense, y todavía no hay utilización demostrada de FIMA ni supresión persistente de yields. La limitada permanencia de la apreciación del yen es además una contraseñal frente a la eficacia duradera de una herramienta aislada.
-
-**Implicación potencial para la cartera:** tratar USDJPY y la exposición financiada en yenes como posiciones sujetas a saltos oficiales de gran magnitud, evitando asumir una depreciación lineal del yen. La escala reduce la seguridad del carry, pero la reversión parcial desaconseja anticipar una apreciación estructural sin acompañamiento del BOJ. Mantener vigilancia sobre JGB, FIMA y tenencias japonesas de Treasuries; la duration larga estadounidense continúa táctica. Oro y Bitcoin conservan su función ante una arquitectura que reemplaza ajuste libre por liquidez e intervención oficial.
-
-**Evidencia pendiente:** desglose diario y por pares de monedas; contribución exacta de Estados Unidos; fuente de financiación de cada tramo; utilización efectiva o ampliación de FIMA; monto remanente de reservas líquidas; nuevas intervenciones; decisión del BOJ en septiembre; persistencia de USDJPY y efecto comprobable sobre JGB, ventas japonesas de Treasuries y term premium estadounidense.
-
-**Fuentes:**
-
-- https://www.mof.go.jp/english/policy/international_policy/reference/feio/monthly/20260828e.html
-- https://www.reuters.com/world/asia-pacific/japan-spent-record-965-billion-support-yen-over-past-month-ministry-data-shows-2026-08-28/
-
----
-
-### 2026-08-28 — Japón conecta expansión fiscal, reservas cambiarias y presión creciente sobre los JGB
-
-**Hecho confirmado:** la primera ministra Sanae Takaichi declaró que el gobierno pretende limitar la nueva emisión de bonos del presupuesto fiscal 2027 a aproximadamente **¥40 billones**, frente a ¥32,7 billones previstos para 2026, mientras los pedidos presupuestarios de ministerios y agencias superarían ¥130 billones y podrían alcanzar ¥140 billones, un cuarto récord anual consecutivo. También planteó utilizar parte de los aproximadamente USD 1,3 billones de reservas cambiarias para financiar una reducción del impuesto al consumo sobre alimentos, cuyo faltante de ingresos se estima en ¥5 billones anuales. En paralelo, el Ministerio de Finanzas solicitará un récord de **¥36,64 billones** para servicio y amortización de deuda, ¥5,36 billones más que el año anterior, utilizando una tasa supuesta de 3,8%, la mayor en 29 años.
-
-**Restricción corregida:** Japón necesita financiar alivio fiscal y mayores gastos sin permitir que la emisión de JGB se expanda libremente cuando la suba de yields ya está elevando el costo presupuestario. El supuesto “límite” de ¥40 billones no representa austeridad: supera en 22% la emisión prevista para 2026 y desplaza parte de la presión financiera hacia reservas acumuladas para estabilizar el yen.
-
-**Mecanismo:** combinación de mayor emisión neta, utilización potencial de activos de reserva y aumento endógeno del gasto por intereses. La secuencia es `yields de JGB más altos → mayor servicio de deuda → menos espacio fiscal → emisión y/o uso de reservas → menor capacidad para defender el yen o riesgo de liquidar activos externos`. Si las reservas se convirtieran mediante ventas de Treasuries, la política fiscal japonesa podría trasladar presión a la curva estadounidense; ese canal todavía no está confirmado. FIMA puede proveer dólares contra Treasuries para intervenciones cambiarias temporales, pero no resuelve una utilización fiscal permanente de las reservas.
-
-**Relación con eventos anteriores:** crea una tensión directa con la intervención récord de ¥15,4 billones confirmada el mismo día y con la arquitectura FIMA. El mismo stock de reservas es presentado simultáneamente como respaldo para nuevas defensas del yen y como fuente de financiación doméstica. Esto estrecha el triángulo `yen débil ↔ fragilidad de JGB ↔ tenencias japonesas de Treasuries` y aumenta la importancia de la composición de activos que se utilice.
-
-**Impacto sobre el plano:** refuerza **Phase 1C avanzada** al mostrar dominancia fiscal incipiente fuera de Estados Unidos: las tasas de mercado ya elevan materialmente el presupuesto de intereses y empujan al gobierno a buscar financiación fuera de la emisión convencional. No confirma Phase 2; por ahora no existe YCC nuevo, represión regulatoria ni supresión persistente de yields. En sentido contrario, el aumento del supuesto presupuestario a 3,8% reconoce que el mercado continúa imponiendo un costo mayor.
-
-**Implicación potencial para la cartera:** mantiene poco atractiva la duration larga japonesa y eleva el riesgo de volatilidad conjunta en yen, JGB y Treasuries. No asumir que el stock bruto de reservas está completamente disponible para intervención cambiaria. Vigilar la madurez de la emisión FY2027, subastas de JGB, ventas o repos de Treasuries y reacción del BOJ. Oro y Bitcoin conservan utilidad frente a la conversión potencial de reservas monetarias en financiación fiscal, aunque la propuesta todavía no equivale a ejecución.
-
-**Evidencia pendiente:** presupuesto formal FY2027; mecanismo legal y contable para usar reservas; confirmación de si se utilizará capital, ingresos por inversiones o ganancias cambiarias; monto y calendario; composición de activos vendidos o dados en repo; mezcla de vencimientos de los nuevos JGB; demanda en subastas; decisión del BOJ; impacto efectivo sobre USDJPY, JGB y tenencias japonesas de Treasuries.
-
-**Fuente:**
-
-- https://www.reuters.com/world/asia-pacific/japan-aims-cap-fy27-new-bond-issuance-40-trillion-yen-pm-says-yomiuri-interview-2026-08-28/
-
----
-
-### 2026-08-03 / 2026-08-27 — FIMA conecta la defensa del yen con la protección del mercado de Treasuries
-
-**Hecho confirmado:** después de la intervención conjunta Estados Unidos–Japón del 31/07, Scott Bessent alentó a Japón a obtener dólares mediante la facilidad FIMA de la Reserva Federal —y pidió considerar una ampliación de esa facilidad— en lugar de vender directamente sus tenencias de Treasuries para financiar nuevas compras de yenes. Japón era el mayor tenedor extranjero de deuda estadounidense, con aproximadamente USD 1,14 billones a fines de mayo, luego de haber reducido sus posiciones en cerca de USD 67.000 millones durante ese mes. La intervención estadounidense se financió vendiendo euros para comprar yenes; por eso no exigió desprenderse de Treasuries.
-
-**Restricción corregida:** defender el yen mediante ventas de reservas puede fortalecer la moneda japonesa pero, si obliga a liquidar Treasuries, agrava simultáneamente la suba de los rendimientos largos estadounidenses. FIMA busca evitar que la solución cambiaria amplifique el problema soberano que el Tesoro intenta contener.
-
-**Mecanismo:** una autoridad extranjera entrega Treasuries temporalmente a la Fed a cambio de dólares mediante un repo; usa esos dólares para comprar su propia moneda y luego recompra los títulos. Esto convierte la cartera de Treasuries en fuente de liquidez sin venta definitiva, preserva demanda estructural en la curva estadounidense y reduce el riesgo de una liquidación forzada. No es QE: la operación es temporal, con colateral, y no implica por sí misma compras permanentes ni fijación de yields.
-
-**Relación con eventos anteriores:** completa la causalidad de la intervención del 31/07. La secuencia deja de ser solamente `comprar yenes → frenar el carry trade` y pasa a ser `proveer dólares contra Treasuries → comprar yenes sin vender reservas estadounidenses → limitar presión adicional sobre los yields largos`. Es consistente con los buybacks anunciados el 19/08: distintas herramientas actúan sobre fuentes conectadas de oferta y demanda de Treasuries, aunque todavía no hay evidencia de que formen un programa formal coordinado Tesoro–Fed.
-
-**Restricción institucional:** la coordinación sigue incompleta. La actuación fue liderada por los ministerios de Finanzas, sin declaración conjunta del G7 ni participación comunicacional equivalente de los bancos centrales. El 27/08 Reuters documentó además una divergencia conceptual: Bessent defiende herramientas activas para contener costos largos, mientras Warsh prefiere que el mercado tenga un papel mayor y reserva las compras de activos para disfunciones genuinas. Esto reduce, por ahora, la probabilidad de un Twist coordinado con la Fed.
-
-**Impacto sobre el plano:** refuerza **Phase 1C avanzada** porque muestra que las autoridades ya administran la interacción entre divisas, reservas oficiales y demanda de deuda estadounidense. Eleva la relevancia de Phase 2A, pero no la confirma: faltan escala, uso repetido de FIMA, ampliación efectiva de la facilidad, persistencia y evidencia de que estas medidas suprimen el costo largo en lugar de evitar únicamente una venta puntual.
-
-**Implicación potencial para la cartera:** disminuye el riesgo inmediato de ventas japonesas desordenadas de Treasuries, pero no vuelve estructuralmente atractiva la duration larga mientras inflación, emisión y prima fiscal continúen elevadas. Refuerza el monitoreo conjunto de USDJPY, utilización de FIMA, tenencias japonesas de Treasuries, JGB y diferencial de tasas. Oro y Bitcoin conservan valor como coberturas ante una arquitectura que sustituye liquidación de reservas por provisión oficial de liquidez.
-
-**Pendiente:** datos de utilización de FIMA, monto y frecuencia de nuevas operaciones, decisión formal de ampliar la facilidad, evolución de las tenencias japonesas, nuevas intervenciones, respuesta de USDJPY y evidencia de que el mecanismo evita ventas netas y reduce efectivamente el term premium estadounidense. También queda pendiente saber si el BOJ acompaña con subas de tasas: el 27/08 Himino mantuvo abierta una suba en septiembre, pero no la confirmó.
-
-**Fuentes:**
-
-- https://www.reuters.com/world/asia-pacific/bessent-ready-repeat-joint-yen-intervention-urges-bigger-fed-backstop-2026-08-03/
-- https://www.reuters.com/business/us-treasurys-bessent-reasonable-fed-consider-upsizing-fima-2026-08-04/
-- https://www.reuters.com/business/bessents-call-upsize-fed-foreign-lending-facility-may-not-be-risk-free-2026-08-04/
-- https://www.reuters.com/world/asia-pacific/japans-yen-rescue-has-echoes-asian-financial-crisis-ex-fx-diplomat-says-2026-08-27/
-- https://www.reuters.com/business/finance/bessent-warsh-diverge-who-should-set-price-money-2026-08-27/
-
----
-
-### 2026-08-25 / 2026-08-26 — Irán y Omán acuerdan un marco para reabrir gradualmente Hormuz
-
-**Hecho confirmado:** los ministros de Exteriores de Irán y Omán publicaron un comunicado conjunto que propone un marco por etapas para restablecer la navegación segura por el estrecho de Hormuz. Incluye un corredor temporal conjunto, un proyecto bilateral de desminado y negociaciones técnicas sobre una ruta permanente y la futura administración del estrecho. Irán informó además un acuerdo sobre control e ingresos, pero sostuvo que la reapertura plena depende de que Estados Unidos acepte las condiciones y cese su interferencia.
-
-**Restricción corregida:** bloqueo parcial de una ruta que antes de la guerra transportaba aproximadamente una quinta parte del petróleo y gas comercializados globalmente, con impacto directo sobre oferta energética, inflación y tasas largas.
-
-**Mecanismo:** coordinación diplomática entre los dos Estados ribereños, creación de un canal navegable temporal y remoción física de minas. Si se implementa, reduce riesgo de tránsito y primas de seguro antes de una normalización política completa.
-
-**Relación con eventos anteriores:** complementa y potencialmente reemplaza la respuesta estadounidense y del Golfo del 19/08, que buscaba sostener físicamente parte del flujo. La secuencia pasa de contención militar y logística a una posible solución diplomática de la restricción. También muestra que el alivio de tasas largas puede provenir de corregir el shock energético, no solamente de recompras del Tesoro.
-
-**Efecto observado:** Brent cayó más de 2% hasta aproximadamente USD 86,35 el 25/08 y rondó USD 85,95 el 26/08. Los rendimientos soberanos estadounidenses y europeos bajaron entre cinco y ocho puntos básicos durante el movimiento, consistente con menor prima de inflación energética. Sin embargo, el tránsito seguía extremadamente reducido —cinco buques de commodities el martes frente a un promedio cercano a quince— y persistían ataques, sanciones y bloqueos rivales.
-
-**Impacto sobre el plano:** retrasa marginalmente la presión de Phase 1C al aliviar una de sus restricciones de oferta y puede reducir la urgencia inmediata del Treasury Twist. No revierte la fragilidad soberana ni modifica la clasificación estructural. Es una contraseñal importante frente a un escenario de shock energético persistentemente creciente.
+**Mecanismo:** `ataques a puertos y buques → cierre de navegación + desvío h…37773 tokens truncated…etrasa marginalmente la presión de Phase 1C al aliviar una de sus restricciones de oferta y puede reducir la urgencia inmediata del Treasury Twist. No revierte la fragilidad soberana ni modifica la clasificación estructural. Es una contraseñal importante frente a un escenario de shock energético persistentemente creciente.
 
 **Implicación potencial para la cartera:** reduce la conveniencia de perseguir energía después de primas geopolíticas elevadas y favorece mantener exposición mediante productores de bajo costo antes que trades apalancados sobre escasez inmediata. No altera la preferencia estructural por oro y Bitcoin: la respuesta positiva de ambos mientras cayó el petróleo sugiere que el riesgo fiscal y monetario continúa separado del shock energético.
 
