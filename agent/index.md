@@ -1,12 +1,12 @@
 # Plano Global
 
-> Actualizado: 2026-08-27
+> Actualizado: 2026-10-05
 
 Plano Global documenta una hipótesis macroeconómica de largo plazo, la contrasta con eventos observables y traduce el resultado a posicionamiento por clases de activos.
 
 ## Estado actual
 
-Phase 1C — Fragilidad soberana avanzada y sincronizada. Stage táctico 2B. Phase 2A está en observación, pero no confirmada: FIMA conecta la defensa del yen con el mercado de Treasuries y el marco Irán–Omán alivia marginalmente la presión energética, aunque todavía faltan escala ejecutada, coordinación e impacto persistente.
+Phase 1C — Fragilidad soberana avanzada. Stage táctico 3 temprano por intervención repetida pero fragmentada. Phase 2A no está confirmada: el Treasury 10Y alcanzó 5,34% mientras las recompras operaban por debajo de su tope y la Fed no actuó sobre duration.
 
 ## Lectura recomendada
 

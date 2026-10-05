@@ -21,12 +21,24 @@ Este documento responde cuatro preguntas:
 
 No asigna pesos ni reemplaza el análisis de valuación, liquidez, custodia o punto de entrada. Primero define la exposición económica deseada; luego se selecciona el vehículo.
 
-## Estado vigente — 2026-08-20
+## Estado vigente — 2026-10-05
 
 - **Fase estructural:** Phase 1C — Sovereign Fragility.
-- **Stage táctico:** Stage 2B — fragilidad avanzada / divergencia liderada por tasas.
+- **Stage táctico:** Stage 3 temprano — intervención fragmentada.
 - **Phase 2:** en observación, todavía no confirmada.
-- **Lectura dominante:** deuda soberana y tasas largas bajo presión; intervenciones estatales defensivas en yen, Hormuz y tramo largo; inflación de oferta persistente; primeras señales de dirección regulatoria hacia cripto; activos reales y escasos favorecidos.
+- **Lectura dominante:** la intervención oficial ya es repetida, pero todavía específica por mercado e ineficaz sobre el Treasury largo; energía y refinados mantienen presión inflacionaria; activos reales, balances autofinanciados y liquidez corta siguen favorecidos.
+
+### Delta mensual
+
+**Suben en convicción sin cambiar de categoría:** oro; productores de energía de bajo costo; infraestructura de energía, refinación y logística; minerales estratégicos con producción o FID financiable; instrumentos soberanos muy cortos; proveedores argentinos capaces de convertir recursos en exportaciones reales.
+
+**Bajan en convicción:** duration nominal larga sin respaldo institucional; high yield; empresas apalancadas o dependientes de refinanciación; apuestas que persiguen petróleo o diésel después de movimientos verticales.
+
+**Permanecen neutrales o condicionales:** yen, bonos ligados a inflación, emergentes amplios, plata/mineras de oro, infraestructura cripto y agroindustria. La evidencia mensual mejoró algunos mecanismos, pero no alcanzó para convertirlos en núcleo.
+
+**Sin cambios de categoría:** ningún activo cruza este mes entre preferido, neutral y evitar. El cambio relevante es de régimen táctico y de grado de convicción, no de arquitectura del playbook.
+
+**Lecturas tácticas invalidadas:** prohibición inmediata de exportaciones estadounidenses de diésel; cierre uniforme de Ormuz; control efectivo del Treasury largo por el solo aumento de buybacks.
 
 ---
 
@@ -42,6 +54,8 @@ Son exposiciones coherentes con Phase 1C y con la transición probable hacia rep
 
 **Confirmación estructural:** compras netas oficiales sostenidas y aumento del stock en toneladas, no solo incremento de su peso en reservas causado por la suba del precio. Observar conjuntamente reservas oficiales, COFER ajustado por FX, tasas reales, DXY y demanda privada.
 
+**Actualización mensual:** el traslado neerlandés de 86 toneladas hacia custodia doméstica refuerza la función estratégica y operativa del metal, pero todavía falta el corte agregado de compras oficiales de H2 2026.
+
 **Riesgo principal:** correcciones por suba de tasas reales o apreciación transitoria del dólar.
 
 ### Bitcoin
@@ -51,6 +65,8 @@ Son exposiciones coherentes con Phase 1C y con la transición probable hacia rep
 **Preferencia:** BTC directo con custodia controlada o vehículo spot regulado. No extender automáticamente la tesis monetaria de Bitcoin al resto de cripto.
 
 **Riesgo principal:** volatilidad, correlación táctica con liquidez global y riesgo de custodia o contraparte.
+
+**Actualización mensual:** la regulación de stablecoins y T-bills mejora la integración de infraestructura cripto con el sistema financiero, pero no constituye demanda automática por Bitcoin ni reduce su sensibilidad táctica a tasas reales y liquidez.
 
 ### Productores de energía de bajo costo
 
@@ -62,6 +78,8 @@ Son exposiciones coherentes con Phase 1C y con la transición probable hacia rep
 
 **Riesgo principal:** comprar beneficios extraordinarios como si fueran permanentes o perseguir el crudo después de un shock vertical.
 
+**Actualización mensual:** la recuperación de casi 80% de las exportaciones de crudo de Oriente Medio reduce el caso para perseguir el barril, mientras la escasez de diésel mantiene preferencia por operadores de bajo costo, refinación y logística efectivamente disponibles.
+
 ### Cobre, uranio y minerales estratégicos
 
 **Función:** exposición a electrificación, redes, centros de datos, defensa, seguridad energética y reconstrucción de cadenas de suministro.
@@ -69,6 +87,8 @@ Son exposiciones coherentes con Phase 1C y con la transición probable hacia rep
 **Preferencia:** productores con activos de larga vida, costos competitivos, permisos viables y jurisdicciones razonablemente estables. Separar mineras en producción de proyectos puramente exploratorios.
 
 **Riesgo principal:** ciclos de capex, ejecución, nacionalismo de recursos y valuaciones impulsadas por narrativa.
+
+**Actualización mensual:** la expansión de Eramet agregaría 11.000 toneladas anuales de LCE en Argentina, pero sigue sujeta a FID, financiamiento y recuperación del balance. Los proyectos anunciados permanecen por debajo de activos en producción dentro de la selección.
 
 ### Infraestructura energética y de recursos
 
@@ -114,7 +134,7 @@ No deben integrar el núcleo por defecto. Se habilitan cuando aparece una señal
 
 **Uso:** trade de compresión de yields durante la transición. No asumir que se transforman en reserva de valor real.
 
-**Estado actual:** no habilitados como posición estructural. Los buybacks anunciados no impidieron que el 30Y volviera a aproximadamente 5,27%.
+**Estado actual:** no habilitados como posición estructural. El 10Y tocó 5,34% mientras el Tesoro aceptaba cerca de la mitad de las ofertas y recompraba menos que el tope de USD 6.000 millones. El instrumento conserva valor táctico sólo después de observar control efectivo, no por nivel de yield aislado.
 
 ### Bonos ligados a inflación
 
@@ -128,7 +148,7 @@ No deben integrar el núcleo por defecto. Se habilitan cuando aparece una señal
 
 **Uso:** cobertura táctica frente a unwind del carry trade.
 
-**Estado actual:** intervención confirmada, cambio fundamental incompleto.
+**Estado actual:** la intervención récord de agosto no produjo estabilización persistente; Japón no intervino entre el 27/08 y el 28/09, el BOJ subió a 1,25% y redujo compras de JGB. Sigue siendo cobertura táctica, no activo preferido.
 
 ### Mercados emergentes no estadounidenses
 
@@ -148,11 +168,15 @@ No deben integrar el núcleo por defecto. Se habilitan cuando aparece una señal
 
 **Uso:** exposición empresarial o tecnológica. No confundir con la función monetaria de BTC.
 
+**Estado actual:** la propuesta de la Fed para respaldo integral con T-bills/HQLA favorece custodia y emisores regulados, pero todavía faltan regla final, crecimiento, adicionalidad de reservas y captura de valor. No mejora por sí sola la tesis de altcoins.
+
 ### Agricultura y agroindustria
 
 **Se habilitan cuando:** clima, inventarios, rutas comerciales y precios permiten capturar el shock sin pagar una valuación extrema.
 
 **Preferencia:** infraestructura, insumos, procesamiento y exportadores eficientes antes que futuros apalancados mantenidos sin una tesis temporal definida.
+
+**Estado actual:** el daño físico alcanza aproximadamente 20% de la capacidad cerealera rusa del Mar Negro/Azov, pero el 80% restante puede reabrir si mejora la seguridad. La oportunidad para proveedores alternativos sigue compensada por diésel, fertilizantes y riesgo de corrección diplomática.
 
 ---
 
@@ -214,25 +238,25 @@ Las posiciones directas contra el dólar quedan como operaciones tácticas hasta
 | Categoría | Estado | Rol |
 |---|---|---|
 | Oro | Preferido | Protección monetaria y fiscal |
-| Bitcoin | Preferido | Escasez monetaria digital |
-| Energía de bajo costo | Preferido | Inflación de oferta y seguridad energética |
-| Cobre, uranio y minerales estratégicos | Preferido | Oferta escasa y demanda estructural |
+| Bitcoin | Preferido | Escasez monetaria digital; beta de liquidez en el corto plazo |
+| Energía de bajo costo | Preferido selectivo | Inflación de oferta y seguridad energética sin perseguir el spot |
+| Cobre, uranio y minerales estratégicos | Preferido selectivo | Oferta escasa y demanda estructural; exigir ejecución |
 | Infraestructura energética/de recursos | Preferido | Flujos reales y capacidad escasa |
 | Equities globales de calidad | Preferido | Activos productivos y pricing power |
 | Soberanos muy cortos | Preferido temporal | Liquidez y opcionalidad |
 | Proveedores argentinos de recursos | Preferido selectivo | Nueva oferta exportable |
-| Treasuries largos | Condicional | Trade ante control efectivo de curva |
-| Bonos ligados a inflación | Condicional | Protección contractual según valuación |
-| Yen | Táctico | Unwind del carry con respaldo de política |
-| Emergentes amplios | Condicional | Beneficio por USD débil y funding estable |
-| Plata/mineras de oro | Táctico | Beta de metales monetarios |
-| Infraestructura cripto | Táctico | Captura de valor regulada y verificable |
-| Agroindustria | Condicional | Shock de oferta y capacidad exportadora |
-| High yield | Excluir del núcleo | Riesgo de refinanciación asimétrico |
-| Empresas dependientes de dinero barato | Excluir del núcleo | Sensibilidad excesiva al costo de capital |
-| Altcoins como reserva monetaria | Excluir del núcleo | Tesis monetaria no demostrada |
-| Stablecoins como reserva estructural | Excluir del núcleo | Riesgo de emisor y contraparte |
-| Commodities apalancados permanentes | Excluir del núcleo | Roll, leverage y timing |
+| Treasuries largos | Neutral / condicional | Trade ante control efectivo de curva |
+| Bonos ligados a inflación | Neutral / condicional | Protección contractual según valuación |
+| Yen | Neutral / táctico | Unwind del carry con respaldo de política |
+| Emergentes amplios | Neutral / condicional | Beneficio por USD débil y funding estable |
+| Plata/mineras de oro | Neutral / táctico | Beta de metales monetarios |
+| Infraestructura cripto | Neutral / táctico | Captura de valor regulada y verificable |
+| Agroindustria | Neutral / condicional | Shock de oferta y capacidad exportadora |
+| High yield | Evitar como núcleo | Riesgo de refinanciación asimétrico |
+| Empresas dependientes de dinero barato | Evitar como núcleo | Sensibilidad excesiva al costo de capital |
+| Altcoins como reserva monetaria | Evitar como núcleo | Tesis monetaria no demostrada |
+| Stablecoins como reserva estructural | Evitar como núcleo | Riesgo de emisor y contraparte |
+| Commodities apalancados permanentes | Evitar como núcleo | Roll, leverage y timing |
 
 ---
 
@@ -275,4 +299,4 @@ El Asset Playbook define **qué queremos poseer**. Una decisión de compra requi
 
 ## Conclusión vigente
 
-El posicionamiento coherente con el plano no consiste en adivinar qué moneda reemplazará al dólar. Consiste en reducir dependencia de promesas nominales de largo plazo y aumentar exposición a escasez monetaria, recursos estratégicos, infraestructura y activos productivos capaces de sobrevivir a inflación, tasas intervenidas y fragmentación geopolítica.
+El paso a Stage 3 temprano no habilita todavía duration larga: confirma que las autoridades ya intervienen, pero también que sus herramientas no administran el Treasury 10Y/30Y. El posicionamiento coherente sigue reduciendo dependencia de promesas nominales largas y favoreciendo escasez monetaria, recursos estratégicos, infraestructura, liquidez corta y activos productivos capaces de atravesar inflación, intervención fragmentada y fragmentación geopolítica.

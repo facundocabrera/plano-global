@@ -1,12 +1,12 @@
 # Track Global
 
-Updated: 2026-08-20
+Updated: 2026-10-05
 
 ## Current coordinates
 
 - Structural: Phase 1C — advanced sovereign fragility.
-- Tactical: Stage 2B — advanced fragility / rates-led divergence.
-- Transition: first defensive interventions; Stage 3 and structural Phase 2A remain under observation.
+- Tactical: early Stage 3 — fragmented intervention.
+- Transition: repeated official responses activate tactical Stage 3; structural Phase 2A remains unconfirmed.
 
 ## Coordinate model
 
@@ -17,10 +17,10 @@ Updated: 2026-08-20
 | Stage 1 | Stress and repricing | Stress reaches sovereigns, credit or funding. |
 | Stage 2A | Early fragility | Long-end pressure persists and spreads. |
 | Stage 2B | Advanced fragility / rates-led divergence | Bond dysfunction, credit break or repeated intervention. |
-| Stage 3 | Intervention | Scale, persistence and an administered long financing cost. |
+| Stage 3 | Repeated intervention across prices, duration, funding or demand | Scale, persistence and an administered long financing cost. |
 | Stage 4 | Expansion after stabilization | Intervention becomes normalized or reignites inflation/excess. |
 
-Tactical Stage 3 does not by itself confirm structural Phase 2A. A one-off operation may be interventionist without removing long-rate price discovery persistently.
+Tactical Stage 3 does not by itself confirm structural Phase 2A. Even repeated but fragmented operations may be interventionist without removing US long-rate price discovery persistently.
 
 ## Monthly dashboard
 
@@ -56,6 +56,23 @@ Tactical Stage 2: fragility, not collapse. Rates firm, volatility higher, Japan 
 Tactical Stage 2B was formally identified. Snapshot: UST 10Y 4.63%; UST 30Y 5.13%; 10Y real yield 2.37%; 10Y term premium approximately 0.78%; 2s10s +36 bp; 10Y breakeven 2.28%; HY OAS 2.68%; IG OAS 0.78%; VIX 16.64 at the July 22 close.
 
 These are historical values, not live market data.
+
+### 2026-10-05
+
+The tactical diagnosis advances to **early Stage 3 — fragmented intervention**.
+
+Confirmed facts:
+
+- the UST 10Y reached 5.34% on October 1 while Treasury buybacks were active but below their USD 6 billion cap;
+- the Fed raised the short rate to 3.75%–4.00% without acting on long duration;
+- the Bank of England halted long-gilt sales, reduced QT and retained GBP 120 billion of long gilts;
+- the BOJ raised its policy rate to 1.25%, reduced ordinary JGB purchases to JPY 2.3 trillion per month and Japan reported no FX intervention from August 27 through September 28;
+- the G7 coordinated a 100 million barrel release rather than imposing diesel export bans;
+- Middle East crude exports recovered to 16.328 million bpd, still below the prewar 19.513 million bpd.
+
+Inference: policy action is now repeated across duration, FX, issuance, regulation and physical energy, satisfying the tactical transition out of Stage 2B. Phase 2A remains unconfirmed because the US long rate is still market-determined and the buyback tool has not shown scale, intent or effective yield suppression.
+
+Pending evidence: comparable monthly MOVE, HY/IG OAS, breakeven, real-yield and term-premium data; 10Y/30Y auction quality; post-November buyback renewal; FIMA use and Japanese Treasury holdings; execution of G7 energy releases; official gold purchases and FX-adjusted COFER.
 
 ## Update rule
 

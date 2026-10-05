@@ -2,7 +2,7 @@
 layout: default
 title: Seguimiento
 description: Dashboard de validación y coordenadas tácticas del Plano Global.
-eyebrow: Track Global · 20 de agosto de 2026
+eyebrow: Track Global · 5 de octubre de 2026
 agent_url: /agent/tracking.md
 permalink: /tracking/
 ---
@@ -14,8 +14,8 @@ permalink: /tracking/
 <div class="status">
 <strong>Coordenadas actuales</strong><br>
 Estructural: Phase 1C — Fragilidad soberana avanzada.<br>
-Táctica: Stage 2B — Fragilidad avanzada y divergencia liderada por tasas.<br>
-Transición: primeras intervenciones defensivas; Stage 3 / Phase 2A todavía en observación.
+Táctica: Stage 3 temprano — Intervención fragmentada, todavía ineficaz sobre el Treasury largo.<br>
+Transición: Stage 3 activado por repetición de respuestas oficiales; Phase 2A todavía no confirmada.
 </div>
 
 ## Dos coordenadas, dos escalas
@@ -25,7 +25,7 @@ Los documentos originales usaban “phase” tanto para el horizonte de décadas
 | Coordenada | Pregunta | Horizonte | Estado actual |
 |---|---|---|---|
 | **Phase estructural** | ¿Qué régimen macroeconómico organiza el sistema? | Años / décadas | Phase 1C |
-| **Stage táctico** | ¿Cómo está expresándose hoy la tensión? | Semanas / meses | Stage 2B |
+| **Stage táctico** | ¿Cómo está expresándose hoy la tensión? | Semanas / meses | Stage 3 temprano |
 
 ## Mapa táctico
 
@@ -34,10 +34,10 @@ Los documentos originales usaban “phase” tanto para el horizonte de décadas
 | **1 · Stress & repricing** | Tasas y energía reprician; la volatilidad aumenta, pero el sistema absorbe el shock. | La tensión se desplaza al soberano, crédito o funding. |
 | **2A · Fragilidad temprana** | El tramo largo se endurece, aparecen divergencias y la liquidez empeora. | El estrés persiste y alcanza subastas, crédito o nodos globales. |
 | **2B · Fragilidad avanzada** | Bonos descuentan dinero caro e inflación persistente mientras equities, crédito y volatilidad aún parecen manejables. | Disfunción, ruptura de crédito o intervención repetida. |
-| **3 · Intervención** | Autoridades actúan sobre precios financieros, duration, funding o demanda de deuda. | Escala, persistencia y un costo largo efectivamente administrado. |
+| **3 · Intervención** | Autoridades actúan repetidamente sobre precios financieros, duration, funding o demanda de deuda. | Escala, persistencia y un costo largo efectivamente administrado. |
 | **4 · Expansión** | La intervención estabiliza nominalmente el sistema y redirige liquidez. | Normalización de la represión o reaparición de inflación y exceso. |
 
-Stage 3 no equivale automáticamente a Phase 2A. Una operación aislada puede ser tácticamente intervencionista sin demostrar que el mercado perdió de forma persistente la capacidad de fijar la tasa larga.
+Stage 3 no equivale automáticamente a Phase 2A. Incluso varias operaciones fragmentadas pueden ser tácticamente intervencionistas sin demostrar que el mercado perdió de forma persistente la capacidad de fijar la tasa larga estadounidense.
 
 ## Dashboard mensual
 
@@ -104,6 +104,47 @@ El diagnóstico avanzó formalmente a **Stage 2B**. La divergencia central era q
 | VIX | 16,64 al cierre del 22 jul |
 
 Estos valores son un corte histórico, no cotizaciones en tiempo real. El diagnóstico también registró petróleo cerca de USD 100, presión sobre el yen y JGB, y un mercado laboral con pocos despidos pero contratación débil.
+
+### 5 oct 2026
+
+El diagnóstico táctico avanza a **Stage 3 temprano — intervención fragmentada**. Desde el corte anterior, las autoridades actuaron de forma repetida sobre mercados y restricciones conectadas: recompras del Tesoro estadounidense, cambios de emisión y duration en Reino Unido, intervención cambiaria y endurecimiento monetario en Japón, regulación de reservas de stablecoins y liberación coordinada de inventarios energéticos. La respuesta ya no es un episodio aislado, pero todavía no administra el costo largo estadounidense.
+
+| Métrica o política | Último dato incorporado al Ledger | Lectura |
+|---|---:|---|
+| UST 10Y | 5,34% intradiario el 1 oct | Máximo desde 2002; price discovery todavía domina. |
+| Buybacks Treasury | Tope de USD 6.000 millones; aceptación cercana a la mitad de lo ofrecido en operaciones recientes | Soporte de liquidez selectivo, no supresión de yields. |
+| Fed funds | 3,75%–4,00% desde el 16 sep | La Fed endurece la tasa corta sin intervenir la curva larga. |
+| BOJ | Tasa 1,25%; compras ordinarias de JGB de ¥2,3 billones mensuales en Q4 | Endurecimiento y taper, no YCC. |
+| USDJPY | Aproximadamente 156,9 el 30 sep | La intervención récord de agosto no estabilizó permanentemente el yen. |
+| JGB 10Y | 3,115% el 25 sep | Máximo desde 1996 antes de una corrección parcial. |
+| Gilt 30Y | Más de 6% el 1 oct | Presión fiscal aun después de administrar oferta y QT. |
+| Brent | Más de USD 100 el 4 oct | La intervención sobre reservas alivió precios, no normalizó energía. |
+| Exportaciones de crudo de Oriente Medio | 16,328 millones de bpd en sep frente a 19,513 millones antes de la guerra | Recuperación parcial; Ormuz y refinados siguen restringidos. |
+| Reservas G7/IEA | 100 millones de barriles en cuatro meses, con diésel adelantado | Intervención física de escala, pero transitoria. |
+
+#### Hechos
+
+- el Tesoro ejecutó recompras ampliadas, pero compró menos que el máximo y el 10Y siguió subiendo;
+- el Banco de Inglaterra pausó ventas largas, redujo QT y decidió retener gilts largos, mientras el Tesoro británico redujo estructuralmente la emisión de duration;
+- Japón subió la tasa, redujo compras ordinarias de JGB y no intervino nuevamente entre el 27/08 y el 28/09;
+- el G7 coordinó reservas en lugar de restringir exportaciones de diésel;
+- el flujo de crudo del Golfo se recuperó parcialmente, pero Ormuz no reabrió de manera normal y la escasez de diésel persistió.
+
+#### Inferencias
+
+- la secuencia confirma que el sistema entró en una etapa de **intervención repetida, específica por mercado y todavía no coordinada como régimen único**;
+- Reino Unido ofrece el análogo más claro de gestión de duration, pero no prueba que Estados Unidos vaya a replicarlo;
+- el fracaso de las recompras para impedir un 10Y en 5,34% es evidencia contraria a Phase 2A, no un fracaso de la tesis de fragilidad soberana;
+- la recuperación parcial de energía reduce los escenarios extremos, pero el faltante de refinados mantiene abierto el canal energía → inflación → tasas largas.
+
+#### Evidencia pendiente
+
+- MOVE, HY OAS, IG OAS, breakevens, tasa real y term premium con corte mensual comparable;
+- resultados y *tails* de subastas de 10Y/30Y y participación de compradores oficiales;
+- ejecución acumulada y renovación de buybacks después del 4 de noviembre;
+- desglose efectivo de los 100 millones de barriles y reacción de inventarios de destilados;
+- uso de FIMA, tenencias japonesas de Treasuries y evidencia de repatriación;
+- compras oficiales de oro de H2 2026 y COFER ajustado por movimientos cambiarios.
 
 ## Regla de actualización
 
