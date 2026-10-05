@@ -23,7 +23,7 @@
       <a href="{{ '/posicionamiento/' | relative_url }}">Posicionamiento</a>
     </nav>
   </header>
-  <main class="page">
+  <main class="page{% if page.page_class %} {{ page.page_class }}{% endif %}">
     {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
     {{ content }}
   </main>
