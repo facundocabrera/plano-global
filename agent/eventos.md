@@ -53,6 +53,195 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 
 ## Eventos consolidados
 
+### 2026-10-16 — El Tesoro consulta sobre eficacia de buybacks y demanda estructural antes del refinanciamiento
+
+**Hecho confirmado:** el Tesoro publicó el 16/10 la agenda de reuniones con dealers del 29–30/10 y solicitó respuestas para el 26/10. Pregunta cómo afectaron las recompras largas a liquidez, intermediación y participación de clientes, y qué cambios mejorarían el programa. También consulta sobre demanda estructural y futuros tamaños de subastas de cupones nominales y FRN. El anuncio trimestral de política sigue previsto para el 04/11.
+
+**Restricción corregida:** es un cuestionario, no decisión de aumentar recompras, recortar emisión larga, crear demanda cautiva o usar el TGA. Consultar eficacia no constituye una conclusión oficial sobre éxito o fracaso.
+
+**Mecanismo:** la información de intermediarios podría alimentar ajustes de oferta y liquidez. Para evaluar un eventual Twist fiscal habrá que medir composición y duration neta, no sólo encontrar preguntas compatibles con esa hipótesis.
+
+**Relación con eventos anteriores:** abre la evaluación formal posterior a las operaciones ampliadas de septiembre y cupos completos de octubre. Permite confrontar ejecución repetida con demanda del cliente final, antes del vencimiento de la ventana conocida hasta el 04/11.
+
+**Impacto sobre el plano:** eleva relevancia del próximo hito, sin mover Phase 1C / Stage 3 temprano. No confirma Phase 2 ni intención de fijar un yield objetivo.
+
+**Implicación potencial para la cartera:** preservar opcionalidad en duration y activos monetarios; no anticipar una rotación por un documento preparatorio.
+
+**Evidencia pendiente:** respuestas de dealers, decisión del 04/11, frecuencia y cupos por segmento, cambio neto de oferta larga, demanda estructural identificable y efecto persistente sobre 10Y/30Y.
+
+**Fuentes:**
+
+- https://home.treasury.gov/policy-issues/financing-the-government/quarterly-refunding/most-recent-quarterly-refunding-documents/ — acredita publicación del 16/10 y calendario.
+- https://home.treasury.gov/system/files/221/Dealer-Agenda-November-2026.pdf — preguntas 3 y 4, página 3; cuestionario, no política adoptada.
+
+---
+
+### 2026-10-16 — Los Treasuries recuperan cobertura durante la venta tecnológica sin prueba de control estatal
+
+**Hecho confirmado:** durante la venta tecnológica del 15/10 hubo demanda de bonos soberanos. El 16/10 Reuters registró el Treasury 10Y alrededor de 5,085%, por debajo de la semana anterior, mientras Brent cerró en USD 109,86. Bonos y petróleo no se movieron como una única apuesta inflacionaria. El artículo de investigadores de la Fed publicado el 16/10 explica que la cobertura de bonos depende del shock y de la inflación; es análisis del staff, no decisión del FOMC.
+
+**Restricción corregida:** caída de yields no identifica causalidad. Coincidir con buybacks no demuestra que el Estado pasó a fijar el costo largo; tampoco una semana restaura permanentemente el comportamiento de una cartera 60/40.
+
+**Mecanismo:** inferencia del Plano: riesgo de financiación de IA y menor apetito por acciones pueden atraer demanda privada por Treasuries, compensando presión energética. Una baja de tasa por aversión al riesgo o expectativa de menor actividad no equivale a represión financiera.
+
+**Relación con eventos anteriores:** contraseñal a una pérdida irreversible de la función refugio y a extrapolar los máximos del 01–08/10. La secuencia semanal combina cupos oficiales completos con cambio de demanda privada; no permite asignar todo el retorno a una sola causa.
+
+**Impacto sobre el plano:** mantiene Phase 1C / Stage 3 temprano. La eficacia exigida para Phase 2 debe ser persistente y atribuible a intervención de escala e intención verificables, no sólo una observación favorable del yield.
+
+**Implicación potencial para la cartera:** duration puede cubrir ciertos shocks de crecimiento aunque falle ante shocks de oferta. Mantenerla condicional y analizar sensibilidad conjunta con oro, energía y activos de riesgo; sin cambio de categorías.
+
+**Evidencia pendiente:** persistencia de correlaciones, tasas reales, breakevens, prima por plazo, flujos y crédito de IA. Vigilar USDJPY sin atribuir su movimiento a intervención no confirmada.
+
+**Fuentes:**
+
+- https://www.reuters.com/world/china/global-markets-global-markets-2026-10-16/ — observaciones de mercado del 15–16/10.
+- https://www.federalreserve.gov/econres/notes/feds-notes/government-bonds-safe-haven-property-and-inflationary-pressures-20261016.html — marco analítico del staff, no política.
+- https://www.reuters.com/commentary/breakingviews/bonds-once-again-have-license-hedge-2026-10-16/ — interpretación editorial, distinguida de hechos.
+
+---
+
+### 2026-10-16 — Estados Unidos suspende nuevas sanciones y aranceles del Graham Act sin levantar el régimen previo
+
+**Hecho confirmado:** una orden ejecutiva del 16/10 dispensa la aplicación de nuevos aranceles y varias sanciones del Graham Act, incluidos gravámenes sobre compradores de petróleo y gas rusos. El texto preserva expresamente las medidas previas bajo otras órdenes. Las dispensas continúan hasta que el presidente o las autoridades delegadas determinen otra acción; no se registra un vencimiento fijo de 60 días en la orden.
+
+**Restricción corregida:** no es levantamiento general de sanciones contra Rusia o Irán ni autorización universal de operaciones. Una dispensa legal tampoco prueba que se hayan entregado nuevos barriles, reparado refinerías o reconstruido inventarios.
+
+**Mecanismo:** evitar nuevas barreras puede preservar comercio y limitar presión adicional de costos, condicionado a capacidad física, pagos, seguros y sanciones aún vigentes. La magnitud de oferta efectivamente liberada debe medirse, no deducirse del titular.
+
+**Relación con eventos anteriores:** complementa las liberaciones de reservas y el compromiso G7 de mantener comercio energético. La respuesta gubernamental combina stocks, propuestas de inversión y flexibilización selectiva de restricciones; no demuestra un programa macroeconómico único.
+
+**Impacto sobre el plano:** intervención comercial compatible con Stage 3 temprano dentro de Phase 1C. Puede aliviar energía, pero no acredita administración del costo largo estadounidense ni Phase 2.
+
+**Implicación potencial para la cartera:** contraseñal a una renta extraordinaria permanente de todos los proveedores alternativos. Para Argentina, seleccionar proyectos competitivos aun si mejora la disponibilidad de otras fuentes; gasoil más accesible podría beneficiar agro y minería.
+
+**Evidencia pendiente:** instrucciones operativas, alcance por contraparte y producto, flujos realmente exportados, precios, reacción legislativa y eventual revocación. Separar inventario liberado, suministro nuevo y reposición ejecutada.
+
+**Fuentes:**
+
+- https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/ — orden del 16/10, especialmente sección 4.
+- https://apnews.com/article/3cc9740c39e9e9eb713b1c553b5709e6 — reacción legislativa del 17/10; no altera la fecha de la medida.
+
+---
+
+### 2026-10-15 — La IEA concreta planes para acelerar más de 20 millones de barriles de diésel
+
+**Hecho confirmado:** el Consejo de la IEA acordó acelerar volúmenes pendientes, con planes que incluyen más de 20 millones de barriles de diésel. Reportó aproximadamente 330 millones liberados y cerca de 100 millones pendientes. Algunos miembros ya excedieron sus compromisos de marzo y otros prevén hacerlo, llevando el total por encima de los 400 millones iniciales. También instó a aumentar producción y refinación y preservar comercio energético.
+
+**Restricción corregida:** hay planes específicos de entrega, no constancia de que todo el diésel anunciado ya llegó al mercado. Los 20 millones no se suman íntegramente como adicionales a los 100 millones. El exceso agregado sobre marzo no tiene aquí desglose completo por país, producto y calendario; las cifras aproximadas no forman una identidad contable exacta.
+
+**Mecanismo:** acelerar disponibilidad de refinados puede aliviar precios presentes, pero no crea capacidad estructural y puede postergar reconstrucción del colchón. La oferta exportable y la respuesta de demanda determinan el efecto neto.
+
+**Relación con eventos anteriores:** resuelve parcialmente la evidencia pendiente del 07/10 y 11/10: se pasa de evaluar adicionalidad a planes de diésel, aunque el componente verdaderamente suplementario sigue sin cuantificar plenamente.
+
+**Impacto sobre el plano:** persiste intervención energética coordinada de Phase 1C / Stage 3 temprano. No demuestra control persistente del costo largo ni Phase 2.
+
+**Implicación potencial para la cartera:** reduce la certeza de una suba lineal del diésel; mantener selectividad en productores, refinación y logística. Para agro y minería argentinos, importa el costo entregado de combustible, no sólo Brent.
+
+**Evidencia pendiente:** entregas por miembro, adicionalidad neta, stocks posteriores, refinación y exportaciones. Vigilar reposición efectiva separada de liberaciones; el anuncio no confirma los escenarios de compras de Aramco.
+
+**Fuentes:**
+
+- https://www.iea.org/news/iea-governing-board-statement-on-energy-markets-and-security — 15/10.
+- https://www.reuters.com/business/energy/iea-speed-up-oil-stocks-release-including-over-20-million-barrels-diesel-2026-10-15/ — contraste de adicionalidad y ejecución.
+
+---
+
+### 2026-10-15 — La EIA registra nuevas caídas de crudo y destilados, sin reposición neta de la SPR
+
+**Hecho confirmado:** el informe del 15/10 para la semana terminada el 09/10 registró crudo comercial en 415,6 millones de barriles, caída de 8,6 millones; destilados en 102,611 millones, frente a 105,138 millones la semana anterior. La utilización de refinerías subió a 93,5%, mientras la producción de destilados bajó a 5,2 millones bpd. La SPR permaneció en 283 millones de barriles. La producción de crudo cayó 300.000 bpd durante disrupciones meteorológicas, según el reporte de WSJ sobre los datos EIA.
+
+**Restricción corregida:** más utilización total no garantiza más diésel ni reconstrucción de inventarios. SPR sin cambio neto tampoco prueba ausencia de movimientos brutos. El período observado termina antes del intercambio autorizado por DOE el 10/10: no mide su ejecución.
+
+**Mecanismo:** oferta de crudo perturbada y absorción de productos pueden reducir stocks aun con refinerías más activas. La lectura debe separar un shock meteorológico transitorio de una restricción persistente.
+
+**Relación con eventos anteriores:** empeora la fotografía del 07/10, cuando los destilados estaban prácticamente estables, y conserva pendiente verificar la devolución futura de los préstamos SPR del 10/10.
+
+**Impacto sobre el plano:** sostiene presión energética de Phase 1C. No acredita reposición global ni intervención eficaz sobre tasas largas.
+
+**Implicación potencial para la cartera:** balances y capacidad operativa importan más que exposición genérica al crudo. Una recuperación rápida de producción sería contraseñal al shock; no cambiar categorías por una sola semana.
+
+**Evidencia pendiente:** normalización tras el huracán, stocks por región, producción de destilados, exportaciones, devoluciones SPR y compras comerciales. Comparar precios y spreads con cantidades, sin confundir stock disponible y capacidad nominal.
+
+**Fuentes:**
+
+- https://ir.eia.gov/wpsr/summary.txt — publicación del 15/10, semana al 09/10; enlace móvil al último informe.
+- https://www.eia.gov/dnav/pet/PET_STOC_WSTK_A_EPD0_SAE_MBBL_W.htm — serie oficial de destilados.
+- https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-large-weekly-drop-0a988c08 — publicación 15/10, stock SPR y producción.
+
+---
+
+### 2026-10-15 — El Tesoro vuelve a completar el cupo largo y la Fed mantiene compras sólo de reinversión
+
+**Hecho confirmado:** el resultado oficial del 15/10 muestra USD 6.000 millones nominales aceptados en 10–20 años, igual al máximo, frente a USD 40.836 millones ofrecidos; se aceptaron tres de 42 emisiones. El calendario de la Fed de Nueva York para 15/10–13/11 prevé USD 14.600 millones de reinversión y ninguna compra de gestión de reservas. El período operativo es verificable; no se atribuye una fecha de anuncio distinta no acreditada.
+
+**Restricción corregida:** completar el cupo es ejecución, no demostración de control del benchmark. Monto nominal no es gasto efectivo ni duration neta retirada. Reinversión no equivale a expansión neta del balance, y la ausencia de compras de gestión de reservas no significa ausencia de todas las compras.
+
+**Mecanismo:** la recompra puede facilitar intermediación en bonos viejos, mientras la financiación y nuevas emisiones determinan la oferta neta de riesgo de tasa. La reinversión de la Fed debe evaluarse por composición y vencimientos, sin etiquetarla automáticamente como QE o Twist.
+
+**Relación con eventos anteriores:** repite cupos completos del 01/10 y 08/10 y precisa el seguimiento de actas del 07/10. Aumenta la persistencia operativa de la herramienta; no prueba escalamiento adicional.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano, sin Phase 2. Falta intención verificable de administrar yields, escala neta suficiente y eficacia sostenida atribuible al programa.
+
+**Implicación potencial para la cartera:** duration permanece condicional; un cupo lleno no elimina riesgo de inflación o refinanciación. No inferir liquidez incremental automática para Bitcoin.
+
+**Evidencia pendiente:** composición de emisiones, tasas reales y prima por plazo, liquidez de bonos intervenidos, duration neta y decisiones del refinanciamiento del 04/11.
+
+**Fuentes:**
+
+- https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/BBR_20261015174000.xml — resultado primario consultado.
+- https://500metrics.com/treasury/buybacks/results — contraste de la operación del 15/10.
+- https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details — calendario 15/10–13/11.
+
+---
+
+### 2026-10-14 — La IEA separa recuperación de oferta, erosión de stocks terrestres y caída prevista de demanda
+
+**Hecho confirmado:** el informe de octubre estima que la oferta mundial aumentó 2,5 millones bpd en septiembre. Los stocks observados cayeron 10 millones de barriles: una baja terrestre de 113 millones fue compensada en gran parte por 103 millones más sobre el agua. El stock global quedó 509 millones bajo fines de febrero. La IEA proyecta demanda media de 2026 inferior en 2,6 millones bpd a 2025; es pronóstico, no consumo anual ya medido. Las cifras físicas son estimaciones de septiembre publicadas el 14/10.
+
+**Restricción corregida:** petróleo en tránsito no equivale a inventario terrestre disponible. Recuperar rutas no reconstruye automáticamente stocks. La recuperación de oferta y la reducción prevista del consumo son contraseñales a una escasez permanentemente creciente, no una normalización ya lograda.
+
+**Mecanismo:** inferencia del Plano: más flujo puede coexistir con menor protección ante shocks si el consumo y el transporte absorben el incremento. La demanda de almacenamiento compite con consumo corriente, pero precios altos y menor actividad también pueden limitar ambas.
+
+**Relación con eventos anteriores:** desarrolla la secuencia 28/09 → 05/10 → 08/10: recuperación parcial de exportaciones, advertencia de Nasser y fragilidad de rutas. Se verificaron nuevamente sus estimaciones de hasta dos años y dos millones bpd durante 18 meses: siguen siendo escenarios de Aramco, no compras ejecutadas ni validación independiente de la IEA.
+
+**Impacto sobre el plano:** Phase 1C avanzada, con intervención fragmentada y riesgos en ambas direcciones. No confirma Phase 2: faltan escala, persistencia, intención y efecto de una intervención sobre el costo largo estadounidense.
+
+**Implicación potencial para la cartera:** priorizar ejecución y acceso exportador sobre una apuesta indiscriminada a precios altos. Para energía argentina hay oportunidad relativa, mientras gasoil caro perjudica agro y minería. No se cambian categorías del playbook.
+
+**Evidencia pendiente:** compras efectivas de reposición, stocks terrestres frente a flotantes, producción, refinerías, flujo real Ormuz/Yanbu, demanda y transmisión a breakevens y tasas reales. Las magnitudes de inventarios de Aramco e IEA no se homologan sin conciliar cobertura y metodología.
+
+**Fuentes:**
+
+- https://www.iea.org/reports/oil-market-report-october-2026 — publicación 14/10, datos de septiembre y proyecciones.
+- https://apnews.com/article/811b5e2f17b74f81de9e5f9f6128497c — 14/10, contraste de oferta y demanda prevista.
+- https://www.aramco.com/en/news-media/speeches/2026/remarks-by-amin-h-nasser-at-energy-intelligence-2026 — escenario del productor del 05/10, no evento nuevo.
+- https://finance.yahoo.com/energy/articles/replenishing-crude-fuel-stocks-could-105010522.html — Reuters, 05/10, atribución de dos millones bpd durante 18 meses.
+
+---
+
+### 2026-10-14 — Estados Unidos pide abrir financiación multilateral a hidrocarburos y minerales
+
+**Hecho confirmado:** Bessent solicitó que el Banco Mundial retire la prohibición de financiar upstream de gas y petróleo. Respaldó financiación, infraestructura y reducción de riesgos para minerales críticos, incluido asesoramiento en minería submarina. Anunció una contribución inicial estadounidense al Nuclear Energy Assistance Trust Fund, sin monto en el comunicado. El documento está fechado el 14/10; Reuters lo publicó el 15/10.
+
+**Restricción corregida:** la posición de un accionista no es una modificación aprobada del mandato del Banco Mundial ni crédito desembolsado. Tampoco supone acceso automático para proyectos argentinos. La contribución anunciada no acredita ejecución ni tamaño.
+
+**Mecanismo:** si se adopta, ampliar elegibilidad y garantías podría dirigir capital hacia oferta energética y minera, reduciendo riesgo financiero de proyectos. Es un canal de inversión productiva, no demanda cautiva por Treasuries ni compra inmediata de commodities.
+
+**Relación con eventos anteriores:** complementa la respuesta de corto plazo vía inventarios del 02–11/10 con una propuesta sobre capacidad futura. Continúa la lógica de proveedores alternativos de energía y minerales sin probar coordinación monetaria con la Fed.
+
+**Impacto sobre el plano:** señal política material de dirección del capital hacia activos reales en Phase 1C. No confirma Phase 2 ni resuelve el costo de financiamiento largo de Estados Unidos.
+
+**Implicación potencial para la cartera:** vigilar infraestructura energética, nuclear y minerales por proyecto, costo y financiación. Argentina compite con otros proveedores; los recursos geológicos no sustituyen permisos, infraestructura o cierre financiero.
+
+**Evidencia pendiente:** decisiones formales del Banco Mundial, elegibilidad, presupuestos, proyectos adjudicados, contratos y desembolsos. Contraseñal: falta de respaldo de otros accionistas o demoras que impidan nueva capacidad.
+
+**Fuentes:**
+
+- https://home.treasury.gov/news/press-releases/sb0659/ — fuente primaria, 14/10.
+- https://www.reuters.com/world/china/bessent-calls-world-bank-reforms-including-upstream-oil-gas-financing-2026-10-15/ — publicación 15/10, declaración emitida el día anterior.
+
+---
+
 ### 2026-10-11 — La IEA pide identificar liberaciones adicionales de diésel antes de decidir nueva escala
 
 **Hecho confirmado:** Birol pidió a miembros acelerar compromisos pendientes y evaluar si hacen falta liberaciones adicionales de diésel, indicando su escala, calendario y carácter suplementario. La IEA programó evaluación para el 15/10 y señaló nuevos ataques a infraestructura saudita.
