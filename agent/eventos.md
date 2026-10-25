@@ -53,6 +53,302 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 
 ## Eventos consolidados
 
+### 2026-10-23 — DOE autoriza otro préstamo SPR para sostener una refinería, con devolución futura
+
+**Hecho confirmado:** DOE autorizó hasta 400.000 barriles desde West Hackberry para Phillips 66 Lake Charles, por una interrupción de abastecimiento de crudo. La autorización es para entrega inmediata y exige devolución con barriles adicionales. El comunicado no informa devolución ya realizada, calendario preciso de retorno ni prima cuantificada.
+
+**Restricción corregida:** Autorización no acredita retiro ejecutado. El préstamo aporta crudo presente con obligación futura, no compras actuales para rellenar SPR. No se le asignan las condiciones temporales de otros intercambios.
+
+**Mecanismo:** Inferencia: la reserva pública sostiene operación privada ante un cuello logístico; puede evitar pérdida de producto refinado y trasladar oferta en el tiempo.
+
+**Relación con eventos anteriores:** Continúa los intercambios del 10/10 y la respuesta industrial del 22/10. La secuencia no demuestra por sí sola que Estados Unidos esté reconstruyendo reservas netas.
+
+**Impacto sobre el plano:** Intervención física fragmentada de Phase 1C, sin prueba de administración del costo largo estadounidense.
+
+**Implicación potencial para la cartera:** Evaluar refinación por operación y acceso a insumos. El apoyo reduce ciertos riesgos transitorios, sin garantizar márgenes ni crear una señal de compra indiscriminada de petróleo.
+
+**Evidencia pendiente:** Retiro real, producción sostenida, devolución y stock SPR neto. Vigilar compras de reposición estratégicas y comerciales por separado. Contraseñal: normalización logística sin necesidad de nuevos préstamos.
+
+**Fuentes:**
+
+- https://www.energy.gov/articles/energy-department-authorizes-strategic-petroleum-reserve-exchange-support-fuel-supply
+
+---
+
+### 2026-10-23 — Taca Taca prepara solicitud RIGI para inversión de cobre todavía no ejecutada
+
+**Hecho confirmado:** Quirno declaró el 23/10 que First Quantum planea solicitar RIGI antes de fin de año para Taca Taca. Citó inversión inicial de USD 4.200 millones, potencialmente hasta USD 5.250 millones. Es una declaración ministerial sobre planes de la empresa, no aceptación RIGI ni desembolso confirmado.
+
+**Restricción corregida:** Intención de postular, aprobación de incentivos, decisión final de inversión y producción son hitos distintos. No sumar el total potencial a capital efectivamente ingresado.
+
+**Mecanismo:** Inferencia: estabilidad fiscal y cambiaria podría mejorar viabilidad y financiación de oferta futura de cobre. El acceso al régimen no elimina costo de capital, permisos o riesgo de ejecución.
+
+**Relación con eventos anteriores:** Complementa Eramet del 01/10 y la propuesta estadounidense de dirigir financiación a minerales del 14/10. No hay evidencia de que ese canal financie este proyecto concreto.
+
+**Impacto sobre el plano:** Señal selectiva de Argentina como proveedor de recursos dentro de Phase 1C. No cambia Phase monetaria ni acredita un superciclo uniforme de minerales.
+
+**Implicación potencial para la cartera:** Ampliar vigilancia de proyectos exportables, infraestructura y proveedores por competitividad y balance. No incorporar exposición sólo por origen argentino ni por monto anunciado.
+
+**Evidencia pendiente:** Solicitud presentada, aprobación, permisos, financiación, FID, desembolsos y cronograma operativo. Contraseñales: sobrecostos, retrasos o menor demanda/precio del cobre.
+
+**Fuentes:**
+
+- https://www.reuters.com/world/americas/first-quantum-readies-argentina-tax-break-plans-53-billion-taca-taca-copper-2026-10-23/
+
+---
+
+### 2026-10-23 — Francia conserva rating tras tensión de spreads mientras Treasuries recuperan refugio
+
+**Hecho confirmado:** El 22/10 el Treasury 10Y registró una caída diaria de unos 19,3 pb, mientras la prima francesa frente a Alemania rondó 178 pb. El 23/10 Francia terminó cerca de 5,04% y Treasury 10Y cerca de 4,99%, según fuentes de mercado. Moody’s mantuvo Aa3 con perspectiva negativa el 23/10. Brent cerró ese día en USD 116,72 pese al alivio relativo del Treasury. Se preservan fechas y momentos de observación: no son cotizaciones simultáneas.
+
+**Restricción corregida:** No hubo downgrade confirmado ni anuncio de activación del TPI en estas fuentes. La baja estadounidense con energía cara no demuestra represión financiera: la búsqueda privada de refugio puede producirla.
+
+**Mecanismo:** Inferencia del Plano: riesgo fiscal específico y aversión a tecnología pueden redistribuir demanda entre soberanos. El mercado puede penalizar una jurisdicción y premiar otra sin que desaparezca el shock energético.
+
+**Relación con eventos anteriores:** Extiende la divergencia observada el 16/10 y los límites al apoyo francés registrados el 08/10. A la vez, el petróleo muestra que liberaciones y nuevos flujos no han eliminado la prima de riesgo.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano sin Phase 2. Menor yield no basta: faltan atribución a intervención, escala, persistencia e intención de controlar el costo largo.
+
+**Implicación potencial para la cartera:** Mantener duration y yen condicionales y diferenciar soberanos. No asumir que un refugio funciona ante todo shock ni que el rating sin cambio resuelve la trayectoria fiscal.
+
+**Evidencia pendiente:** Presupuesto francés, spreads y subastas, criterios TPI, curvas reales y breakevens, flujos privados y refinanciamiento estadounidense del 04/11. La decisión de bancos centrales de la semana siguiente todavía no ocurrió.
+
+**Fuentes:**
+
+- https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-up-bond-market-focus-to-stay-on-france-8b28a326
+- https://www.reuters.com/world/europe/unrest-hit-france-poised-moodys-ratings-verdict-2026-10-23/
+- https://www.reuters.com/world/china/global-markets-global-markets-2026-10-23/
+- https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/
+
+---
+
+### 2026-10-22 — Japón publica una quinta semana de ventas de bonos extranjeros mientras mejora el atractivo doméstico
+
+**Hecho confirmado:** Datos del Ministerio de Finanzas publicados el 22/10 muestran ventas netas japonesas de bonos extranjeros largos de ¥161.600 millones en la semana al 17/10, quinta consecutiva. Reuters calcula ¥3,43 billones vendidos durante las cinco semanas y señala que el ritmo se moderó. La categoría es deuda extranjera agregada, no exclusivamente Treasuries.
+
+**Restricción corregida:** No atribuir todo el flujo a ventas oficiales de reservas, defensa del yen o cierre del carry. Son transacciones de inversores y no una intervención cambiaria confirmada.
+
+**Mecanismo:** Inferencia: mayores rendimientos domésticos y costos de cobertura pueden reducir demanda marginal de bonos externos. La repatriación no es mecánica: valuación, pasivos y necesidades de cada inversor importan.
+
+**Relación con eventos anteriores:** Aporta flujos a la vigilancia de JGB/yen iniciada en agosto y a la menor compra ordinaria del BOJ del 30/09. Que el Treasury mejore mientras Japón vende muestra que otros compradores pueden compensar.
+
+**Impacto sobre el plano:** Refuerza fragilidad y competencia internacional por capital en Phase 1C. No confirma desorden del carry ni Phase 2.
+
+**Implicación potencial para la cartera:** Mantener yen y duration japonesa como condicionales; vigilar pérdida de demanda extranjera sin extrapolarla a salida general del dólar.
+
+**Evidencia pendiente:** Desglose geográfico y por inversor, cobertura FX, planes de aseguradoras y estadísticas posteriores. Contraseñal: moderación de ventas o compras privadas externas compensatorias.
+
+**Fuentes:**
+
+- https://www.reuters.com/world/asia-pacific/japanese-investors-sell-foreign-bonds-fifth-straight-week-eye-home-market-2026-10-22/
+
+---
+
+### 2026-10-22 — Estados Unidos propone financiar capacidad de refinación con Defense Production Act
+
+**Hecho confirmado:** DOE anunció planes de hasta USD 150 millones de DPA Title III para producción, almacenamiento y logística en refinerías. Proyecta más oferta de combustibles, pero declaró que la selección de proyectos continúa. El comunicado no identifica todavía adjudicaciones ni capacidad adicional operativa.
+
+**Restricción corregida:** Financiación prevista no es desembolso, refinería reiniciada ni barriles producidos. El título sobre reinicio no permite atribuir reapertura concreta a una instalación no identificada.
+
+**Mecanismo:** Inferencia: mejorar capacidad y logística intenta atacar el cuello físico que los inventarios sólo amortiguan. Puede dirigir capital productivo, con plazos de ejecución distintos de las liberaciones de reservas.
+
+**Relación con eventos anteriores:** Complementa las reservas IEA del 15–20/10 y la propuesta de financiación multilateral de Bessent del 14/10. La respuesta pasa de redistribuir stocks a intentar expandir oferta.
+
+**Impacto sobre el plano:** Intervención industrial de Stage 3 temprano dentro de Phase 1C. No constituye QE ni soporte directo al costo largo.
+
+**Implicación potencial para la cartera:** Seguir proyectos, proveedores y capacidad eficiente; más oferta futura es contraseñal a márgenes extraordinarios permanentes. Para Argentina importa competitividad global, no sólo disponibilidad de recursos.
+
+**Evidencia pendiente:** Selección, contratos, fondos ejecutados, cronograma, producción adicional exportable y costos. Confirmar efectos sobre destilados y stocks antes de extrapolar a inflación y tasas.
+
+**Fuentes:**
+
+- https://www.energy.gov/articles/energy-department-use-defense-production-act-funding-restart-american-refinery-and-expand
+
+---
+
+### 2026-10-22 — Un cargamento ruso de diésel sale hacia Nueva York sin constituir todavía una entrega
+
+**Hecho confirmado:** LSEG registró carga de 40.000 toneladas de diésel en Primorsk el 22/10, con destino indicado Nueva York y arribo previsto el 07/11. Reuters lo publicó el 23/10 y recogió confirmación del Kremlin de una salida, sin destino especificado por ese vocero. Comprador y vendedor no estaban identificados.
+
+**Restricción corregida:** Buque cargado y destino declarado no son importación consumada, descarga verificada ni reposición de reservas. No debe confundirse el cargamento con todos los volúmenes prometidos en el acuerdo político.
+
+**Mecanismo:** Inferencia: recuperación de comercio de producto terminado puede aliviar un faltante sin esperar nueva refinación. Su efecto depende de volumen, continuidad, condiciones legales, flete y sustitución de otros destinos.
+
+**Relación con eventos anteriores:** Avanza desde la dispensa selectiva del Graham Act del 16/10 hacia evidencia física de un envío. No permite inferir levantamiento general del régimen previo de sanciones ni la licencia exacta aplicable.
+
+**Impacto sobre el plano:** Intervención comercial y mayor oferta potencial compatibles con Phase 1C / Stage 3 temprano. No prueba control de tasas largas ni normalización de stocks.
+
+**Implicación potencial para la cartera:** Contraseñal a una escasez de diésel sin respuesta y a rentas extraordinarias permanentes. Agro y minería pueden beneficiarse si el alivio llega al precio entregado.
+
+**Evidencia pendiente:** Arribo y descarga, importador, autorizaciones aplicables, volúmenes siguientes y adicionalidad global. Seguir precios y existencias, no sólo itinerarios.
+
+**Fuentes:**
+
+- https://www.reuters.com/business/energy/tanker-carrying-40000-t-russian-diesel-heads-new-york-after-putin-trump-deal-2026-10-23/ — carga del 22/10, publicación 23/10.
+
+---
+
+### 2026-10-22 — El Tesoro propone ampliar controles de inversión exterior en tecnologías estratégicas
+
+**Hecho confirmado:** Treasury publicó una propuesta COINS para ampliar notificaciones y prohibiciones de ciertas inversiones estadounidenses en tecnologías estratégicas, incluida biotecnología. El comunicado prevé reglas finales posteriores que establecerán vigencia. Reuters informó que la propuesta no incluye a Venezuela como país de preocupación bajo la definición ligada al régimen anterior, sin excluir todo posible caso con entidades venezolanas.
+
+**Restricción corregida:** Es propuesta, no una nueva prohibición íntegramente vigente el 22/10. La exclusión venezolana de esa categoría no es una autorización general ni un levantamiento de otros regímenes de sanciones.
+
+**Mecanismo:** Inferencia: límites por tecnología, contraparte y jurisdicción pueden reorientar capital y conocimiento hacia destinos permitidos. No implica que los recursos se dirijan automáticamente a oro, Bitcoin o deuda pública.
+
+**Relación con eventos anteriores:** Complementa la promoción de activos productivos del 14/10 y la apertura regulada de stablecoins del 21/10: el Estado también determina dónde y en qué puede invertirse.
+
+**Impacto sobre el plano:** Dirección política del capital compatible con Stage 3 temprano en Phase 1C. No prueba represión financiera del Treasury largo.
+
+**Implicación potencial para la cartera:** Revisar riesgo geográfico y tecnológico sin asumir una prima universal para emergentes alternativos. Proveedores argentinos requieren competitividad propia y acceso efectivo a financiación.
+
+**Evidencia pendiente:** Regla final, alcance técnico, excepciones, entrada en vigor e inversiones efectivamente redirigidas; mantener separados requisitos existentes y cambios propuestos.
+
+**Fuentes:**
+
+- https://home.treasury.gov/news/press-releases/sb0667
+- https://www.reuters.com/world/us-treasury-drops-venezuela-countries-facing-outbound-us-investment-restrictions-2026-10-22/
+
+---
+
+### 2026-10-22 — El Tesoro propone reglas que reorientan capital institucional dentro de vivienda
+
+**Hecho confirmado:** Treasury propuso implementar la restricción legal a compras de viviendas unifamiliares por grandes inversores institucionales, con excepciones y safe harbors para construcción, rehabilitación y acceso a propiedad. El comunicado fija el 07/01/2027 como inicio general de la prohibición legal y describe el umbral por control de al menos 350 viviendas, entre otros criterios.
+
+**Restricción corregida:** La propuesta de implementación no es regla final ni venta forzosa inmediata de carteras existentes. La prohibición legal futura y las excepciones propuestas deben distinguirse.
+
+**Mecanismo:** Inferencia: limitar compras de stock existente mientras se permiten ciertos programas productivos puede desplazar capital inmobiliario hacia nueva oferta, rehabilitación u otros activos. No se conoce todavía cuánto ni a qué destino alternativo.
+
+**Relación con eventos anteriores:** Añade una restricción doméstica al acceso institucional a activos reales, junto con promoción de infraestructura y controles de inversión exterior. Confirma que la dirección regulatoria no beneficia por igual a todos los activos escasos.
+
+**Impacto sobre el plano:** Intervención sobre asignación de capital de Phase 1C / Stage 3 temprano; no crea demanda cautiva demostrada de Treasuries ni Phase 2.
+
+**Implicación potencial para la cartera:** Diferenciar propietarios de stock residencial, constructores y rehabilitación. Evitar la categoría genérica de activo real como garantía de protección frente a regulación.
+
+**Evidencia pendiente:** Texto final, aplicación de excepciones, cambios de flujos, oferta de viviendas y efecto en rentas y precios. No se modifica el playbook por adelantado.
+
+**Fuentes:**
+
+- https://home.treasury.gov/news/press-releases/sb0665
+
+---
+
+### 2026-10-21 — La OCC adopta una regla final de stablecoins con vigencia futura, sin control del tramo largo
+
+**Hecho confirmado:** La OCC emitió la regla final de implementación del GENIUS Act para emisores bajo su jurisdicción, con vigencia el 18/01/2027. Incluye reservas, rescate, capital, custodia y supervisión. Las reglas BSA, AML y sanciones OFAC quedan para otra regulación. La apertura de solicitudes se anunciará por separado; los formularios revisados aún tienen comentario y aprobación OMB pendientes.
+
+**Restricción corregida:** Regla final no equivale a vigencia inmediata, licencias concedidas ni flujos ya invertidos. Tampoco es la propuesta de la Fed del 24/09: son autoridades y alcances distintos.
+
+**Mecanismo:** Inferencia del Plano: más certidumbre y supervisión pueden ampliar intermediación digital y canalizar demanda hacia activos de reserva elegibles si crece la emisión. La magnitud depende de circulación y composición efectiva de reservas, no del anuncio.
+
+**Relación con eventos anteriores:** Avanza la institucionalización del canal de stablecoins observado en agosto y septiembre. No implica que todos los emisores deban comprar exclusivamente T-bills ni que exista demanda cautiva nueva por notas y bonos largos.
+
+**Impacto sobre el plano:** Dirección regulatoria del capital compatible con Phase 1C y Stage 3 temprano. No confirma Phase 2: no prueba escala, persistencia, intención y eficacia sobre 10Y/30Y.
+
+**Implicación potencial para la cartera:** Seguir infraestructura regulada y activos cortos de reserva. No trasladar automáticamente la señal a precio de Bitcoin, rentabilidad de emisores o sustitución general de depósitos.
+
+**Evidencia pendiente:** Licencias, entradas netas, reservas auditadas, composición por vencimiento, aplicación efectiva y normativa pendiente. No se cambian categorías del Asset Playbook.
+
+**Fuentes:**
+
+- https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html
+- https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-50.html
+- https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-52.html
+
+---
+
+### 2026-10-21 — Los destilados estadounidenses recuperan stock mientras crudo y gasolina vuelven a caer
+
+**Hecho confirmado:** La publicación EIA del 21/10, referida a la semana terminada el 16/10, muestra destilados en 104,286 millones de barriles frente a 102,611 millones: suba de 1,675 millones. El crudo comercial cayó unos 3,1 millones a 412,5 millones y la gasolina unos tres millones. La refinación procesó 16,6 millones bpd; utilización de 93,4%. Los destilados seguían aproximadamente 9% bajo el promedio de cinco años, según la reproducción de OGJ.
+
+**Restricción corregida:** Es una reconstrucción semanal parcial de stock comercial estadounidense, no reposición global completa ni compra estratégica identificada. La mejora agregada tampoco es uniforme: PADD 1 bajó de 21,513 a 21,016 millones de barriles.
+
+**Mecanismo:** Inferencia: producción, comercio y consumo pueden permitir acumulación de un producto mientras otros stocks se reducen. Un aumento de inventario no identifica por sí solo una campaña deliberada de compras.
+
+**Relación con eventos anteriores:** Contraseñal concreta al deterioro de destilados registrado el 15/10. El producto suministrado de destilados, promedio de cuatro semanas, bajó 2,4% interanual según OGJ: señal compatible con menor absorción, sin probar destrucción mundial de demanda.
+
+**Impacto sobre el plano:** Phase 1C con mitigantes observados; no acredita normalización de energía ni Phase 2.
+
+**Implicación potencial para la cartera:** Evitar tesis de escasez uniforme por producto o región; comparar márgenes, costos y capacidad operativa. El alivio de gasoil podría beneficiar agro y minería si llega al precio entregado.
+
+**Evidencia pendiente:** Persistencia de acumulación, stocks regionales, exportaciones y producción; distinguir devolución SPR, compras y movimientos comerciales. Seguir Brent/diésel y expectativas de inflación junto con cantidades.
+
+**Fuentes:**
+
+- https://www.eia.gov/dnav/pet/PET_STOC_WSTK_A_EPD0_SAE_MBBL_W.htm — datos al 16/10, publicación 21/10.
+- https://www.ogj.com/general-interest/economics-markets/news/55413538/eia-us-crude-oil-inventories-down-31-million-bbl
+
+---
+
+### 2026-10-21 — La subasta estadounidense a 20 años exige una concesión aun con buena cobertura
+
+**Hecho confirmado:** La reapertura a 20 años colocó USD 13.000 millones al 5,469%, frente a 5,420% en la subasta previa. Bid-to-cover de 2,73, superior a 2,57 anterior; el rendimiento superó en un punto básico el when-issued de 5,459%. Los no dealers absorbieron alrededor de 89%, según CME/Econoday.
+
+**Restricción corregida:** Una cobertura alta no elimina la concesión de precio; un tail pequeño no equivale a subasta fallida ni disfunción sistémica. No hay decisión confirmada de eliminar emisiones a 20 años.
+
+**Mecanismo:** El mercado absorbió nueva duration con remuneración elevada. La demanda existe a determinado precio; distinguir cantidad de órdenes, asignación y costo marginal evita confundir colocación con administración de yields.
+
+**Relación con eventos anteriores:** Contrasta con la subasta sólida a 30 años del 08/10 y se inserta en la consulta sobre recompras y demanda estructural publicada el 16/10. Las hipótesis mediáticas sobre el 20Y permanecen pendientes del refinanciamiento del 04/11.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano, sin Phase 2: persiste formación de precio y no hay nueva regla oficial de control del costo largo.
+
+**Implicación potencial para la cartera:** Duration continúa condicional; el carry nominal debe compararse con inflación, prima por plazo y riesgo de refinanciación. No modificar exposición por un único indicador de demanda.
+
+**Evidencia pendiente:** Subastas siguientes, demanda de cliente final, cambios oficiales por vencimiento y duration neta retirada por buybacks. Distinguir propuestas de analistas y decisiones del Tesoro.
+
+**Fuentes:**
+
+- https://www.cmegroup.com/education/events/econoday/692950 — resultados y comparación when-issued del 21/10.
+- https://thevaultreport.com/treasury-auctions — reproducción de resultados TreasuryDirect.
+- https://www.reuters.com/commentary/reuters-open-interest/will-us-treasury-scrap-20-year-bond-sales-mcgeever-2026-10-22/ — pregunta editorial, no anuncio.
+
+---
+
+### 2026-10-21 — El Tesoro sanciona facilitadores de la flota iraní mientras coordina investigación financiera
+
+**Hecho confirmado:** Treasury anunció designaciones bajo E.O. 13902 contra facilitadores legales y marítimos de comercio iraní, incluidos agentes en Singapur y Emiratos y una empresa operadora de cargueros. FinCEN informó coordinación con socios europeos e investigación de posibles vínculos bancarios. Son medidas anunciadas el 21/10, no una cuantificación de exportaciones retiradas.
+
+**Restricción corregida:** Las acusaciones del comunicado se atribuyen a Treasury. Sancionar intermediarios no demuestra desaparición automática de todos los flujos ni confirma las afirmaciones oficiales sobre eficacia general de la campaña.
+
+**Mecanismo:** Inferencia: restringir servicios, pagos y arquitectura societaria puede encarecer o dificultar comercio físico y desplazarlo a canales alternativos. El efecto sobre oferta mundial requiere cantidades y sustitución.
+
+**Relación con eventos anteriores:** Contrapeso a la flexibilización selectiva del Graham Act del 16/10 y al cargamento ruso del 22/10. Las autoridades alivian ciertos canales y endurecen otros; no hay liberalización energética uniforme.
+
+**Impacto sobre el plano:** Intervención comercial y financiera de Phase 1C / Stage 3 temprano, sin control del costo largo estadounidense.
+
+**Implicación potencial para la cartera:** Incorporar riesgo de contraparte y logística en energía, sin asumir una escasez física equivalente al alcance jurídico de las designaciones.
+
+**Evidencia pendiente:** Cumplimiento, flujos cargados y descargados, costos de seguro y transporte y sustitución de proveedores. Separar sanciones anunciadas, restricciones efectivas y barriles perdidos.
+
+**Fuentes:**
+
+- https://home.treasury.gov/news/press-releases/sb0664/
+
+---
+
+### 2026-10-20 — La IEA deja el calendario del diésel a decisiones nacionales y condiciones de invierno
+
+**Hecho confirmado:** Birol precisó el 20/10 que cantidades y fechas de las entregas de diésel dependerán de cada país y de las condiciones del mercado invernal. La declaración se refiere a los planes de más de 20 millones de barriles anunciados el 15/10, vinculados a compromisos de marzo.
+
+**Restricción corregida:** No hay calendario común garantizado ni prueba de que todo el volumen anunciado ya llegó al mercado. No corresponde volver a sumar esos barriles como un programa nuevo.
+
+**Mecanismo:** Inferencia: una entrega escalonada puede suavizar el impacto spot y reservar margen para necesidades posteriores; también puede demorar el alivio si el faltante se intensifica antes de las entregas.
+
+**Relación con eventos anteriores:** Completa la secuencia 07/10 → 11/10 → 15/10: aceleración, evaluación de adicionalidad y planes concretos, ahora sujetos a ejecución nacional. Las estimaciones de Nasser del 05/10 siguen atribuidas a Aramco; no son compras de reposición.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano: coordinación con ejecución fragmentada. No confirma Phase 2 ni eficacia sobre tasas largas estadounidenses.
+
+**Implicación potencial para la cartera:** Mantener sensibilidad a refinados y logística sin descontar un alivio uniforme e inmediato. Para proveedores argentinos, contrastar renta exportadora con costo entregado del gasoil.
+
+**Evidencia pendiente:** Volúmenes por país, fechas efectivas, adicionalidad neta y stocks posteriores; compras de reposición separadas de liberaciones. Contraseñales: más refinación, exportaciones disponibles o menor consumo.
+
+**Fuentes:**
+
+- https://www.reuters.com/business/energy/iea-oil-stocks-release-timing-is-up-individual-members-chief-says-2026-10-20/
+- https://www.iea.org/news/iea-governing-board-statement-on-energy-markets-and-security — compromiso previo del 15/10.
+
+---
+
 ### 2026-10-16 — El Tesoro consulta sobre eficacia de buybacks y demanda estructural antes del refinanciamiento
 
 **Hecho confirmado:** el Tesoro publicó el 16/10 la agenda de reuniones con dealers del 29–30/10 y solicitó respuestas para el 26/10. Pregunta cómo afectaron las recompras largas a liquidez, intermediación y participación de clientes, y qué cambios mejorarían el programa. También consulta sobre demanda estructural y futuros tamaños de subastas de cupones nominales y FRN. El anuncio trimestral de política sigue previsto para el 04/11.
