@@ -136,3 +136,8 @@ code { font-size: .85em; }
   .reading-grid a, .reading-grid a:nth-child(odd), .reading-grid a:nth-child(even) { grid-template-columns: 1fr; gap: .2rem; padding: .85rem 0; border-left: 0; }
   .table-scroll { overflow-x: auto; }
 }
+
+/* Fechas y observaciones del resumen inicial. */
+.home-cut { color: var(--muted); font-size: .78rem; margin: -1rem 0 1.5rem; }
+.market-value { color: var(--accent); font-size: 2rem; font-weight: 700; margin: .7rem 0 0; line-height: 1.1; }
+.market-value span { color: var(--muted); display: block; font-size: .67rem; font-weight: 400; margin-top: .35rem; }

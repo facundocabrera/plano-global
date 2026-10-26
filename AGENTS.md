@@ -30,3 +30,5 @@ Do not manually edit `agent/posicionamiento.md`; it is a generated exact-content
 3. Use `annotation` sparingly for institutional actions that change the interpretation.
 4. Update the homepage reading only when the chart changes the regime diagnosis; a new market print alone is not enough.
 5. Verify the chart at desktop and mobile widths before publishing.
+
+During a weekly review, check `index.md`, `_data/home.yml`, and `agent/index.md` against the latest Ledger. Refresh dated observations and the overview when they become stale, while preserving the date of the monthly classification. Correct an outdated description of the observed path without treating a new market print as a regime change. Every current indicator must show its observation date and link to the canonical detail; do not imply fresh gold or Bitcoin prices when no new observation is recorded.

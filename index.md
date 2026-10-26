@@ -9,10 +9,13 @@ page_class: page--home
 ---
 
 {% assign treasury = site.data.home.treasury_10y %}
+{% assign latest = treasury.points | last %}
 
 # El mercado todavía manda. Los gobiernos ya intervienen.
 
-<p class="lead home-lead">La deuda se encarece, la energía mantiene presión sobre los precios y aparecen respuestas oficiales. Todavía no alcanzan para controlar el costo del dinero a largo plazo.</p>
+<p class="lead home-lead">Las tasas largas cedieron desde el pico de octubre, mientras la energía sigue cara y las respuestas oficiales se multiplican. La baja del Treasury todavía no demuestra control del costo largo.</p>
+
+<p class="home-cut">Evidencia hasta el 23 oct 2026 · <a href="{{ '/eventos/' | relative_url }}">Ver últimos eventos →</a></p>
 
 <div class="regime-sequence" aria-label="Secuencia central del Plano Global">
   <span>Deuda elevada</span><b aria-hidden="true">→</b><span>Tasas largas</span><b aria-hidden="true">→</b><span>Intervención</span><b aria-hidden="true">→</b><span>¿Control?</span>
@@ -25,7 +28,7 @@ page_class: page--home
       <span>Corte mensual · 5 oct 2026</span>
     </div>
     <div class="regime-label"><strong>Phase 1C</strong><span>Stage 3 temprano</span></div>
-    <p class="plain-reading">El sistema ya intenta defenderse, pero todavía no controla el precio del dinero.</p>
+    <p class="plain-reading">La intervención sigue fragmentada. El refugio privado puede bajar las tasas sin que el Estado controle su precio. Phase 2 continúa sin confirmar.</p>
     <dl class="phase-scorecard">
       <div><dt><i class="signal signal--yes" aria-hidden="true"></i>Intervención repetida</dt><dd>Sí</dd></div>
       <div><dt><i class="signal signal--partial" aria-hidden="true"></i>Persistencia</dt><dd>Parcial</dd></div>
@@ -41,11 +44,12 @@ page_class: page--home
         <h2 id="treasury-title">La presión que organiza el plano</h2>
         <p>Rendimiento del Treasury de EE.UU. a 10 años</p>
       </div>
-      <span>Actualización semanal</span>
+      <span>{{ latest.display_date }}</span>
     </div>
-    <div class="yield-chart" data-chart="treasury-10y" role="img" aria-label="El Treasury de Estados Unidos a 10 años subió desde 4,63% el 23 de julio hasta 5,34% el 1 de octubre de 2026."></div>
+    <p class="market-value">{{ latest.display_value }} <span>última observación registrada</span></p>
+    <div class="yield-chart" data-chart="treasury-10y" role="img" aria-label="Treasury estadounidense a 10 años: observaciones fechadas, desde 4,63% el 23 de julio; pico registrado de 5,34% el 1 de octubre; última observación {{ latest.display_value }} el {{ latest.display_date }}."></div>
     <noscript><p>El gráfico requiere JavaScript. Los valores están disponibles debajo en “Ver datos y fuentes”.</p></noscript>
-    <p class="chart-reading"><strong>Lectura:</strong> hubo intervención, pero el rendimiento siguió subiendo. Por ahora, el mercado continúa fijando el costo largo.</p>
+    <p class="chart-reading"><strong>Lectura:</strong> desde 5,34% el 1/10 hacia ≈4,99% el 23/10: unos 35 pb menos. No alcanza para declarar Phase 2; faltan escala, persistencia, intención y efecto atribuible a intervención sobre el costo largo. Son observaciones del Ledger, no una serie diaria completa.</p>
     <details class="chart-data">
       <summary>Ver datos y fuentes</summary>
       <div class="table-scroll">
@@ -61,6 +65,25 @@ page_class: page--home
     </details>
   </section>
 </div>
+
+<section class="signal-section" aria-labelledby="snapshot-title">
+  <div class="section-heading">
+    <p class="section-kicker">Última evidencia registrada</p>
+    <h2 id="snapshot-title">Qué cambió y qué falta</h2>
+  </div>
+  <div class="signal-grid">
+    <a class="signal-card" href="{{ '/eventos/2026-10-23/' | relative_url }}">
+      <span>Brent · cierre 23 oct</span><strong>USD 116,72 / barril</strong><p>El petróleo sigue caro pese al alivio del Treasury. Energía e inflación continúan como restricción.</p>
+    </a>
+    <a class="signal-card" href="{{ '/eventos/2026-10-21/' | relative_url }}">
+      <span>Destilados EE.UU. · stock al 16 oct</span><strong>104,286 millones de barriles</strong><p>+1,675 millones en la semana; todavía ≈9% bajo el promedio de cinco años. Publicado el 21/10: alivio parcial, con crudo y gasolina en baja.</p>
+    </a>
+    <a class="signal-card" href="{{ '/eventos/2026-10-23/' | relative_url }}">
+      <span>Reserva estratégica · autorización 23 oct</span><strong>Hasta 400.000 barriles en préstamo</strong><p>Apoyo a una refinería con devolución futura. No acredita entrega ejecutada ni compras para reponer reservas netas.</p>
+    </a>
+  </div>
+  <p class="chart-reading"><strong>Vigilancia de inventarios:</strong> recuperar flujos no equivale a reconstruir stocks. Seguir compras y devoluciones efectivas, crudo y combustibles, refinación y exportación, tránsito por Ormuz/Yanbu y respuesta de Brent, diésel, inflación esperada y tasas largas. Más oferta exportable, refinerías recuperadas o menor demanda pueden aliviar la presión. <a href="{{ '/eventos/2026-10-05/' | relative_url }}">Punto de partida: estimaciones de Nasser, no compras confirmadas →</a></p>
+</section>
 
 <section class="signal-section" aria-labelledby="signals-title">
   <div class="section-heading">

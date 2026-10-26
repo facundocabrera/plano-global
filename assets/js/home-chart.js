@@ -31,7 +31,7 @@
   const formatShortDate = (date) => new Intl.DateTimeFormat('es-AR', { day: 'numeric', month: 'short', timeZone: 'UTC' }).format(date).replace('.', '');
 
   const render = () => {
-    const width = Math.max(300, Math.floor(container.getBoundingClientRect().width));
+    const width = Math.max(200, Math.floor(container.getBoundingClientRect().width));
     const height = width < 520 ? 250 : 280;
     const margin = { top: width < 520 ? 24 : 38, right: 48, bottom: 38, left: 52 };
     const plotWidth = width - margin.left - margin.right;
