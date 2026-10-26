@@ -115,4 +115,4 @@ page_class: page--home
 <p class="home-closing">Este sitio no presenta el futuro como un hecho consumado. Construye una historia contrastable y conserva también la evidencia que podría demostrar que está equivocada.</p>
 
 <script id="treasury-10y-data" type="application/json">{{ treasury.points | jsonify }}</script>
-<script src="{{ '/assets/js/home-chart.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/home-chart.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
