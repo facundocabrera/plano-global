@@ -1,5 +1,5 @@
 treasury_10y:
-  updated: "2026-10-23"
+  updated: "2026-10-30"
   points:
     - date: "2026-07-23"
       display_date: "23 jul 2026"
@@ -47,3 +47,8 @@ treasury_10y:
       value: 4.99
       display_value: "≈4,99%"
       source: "/eventos/2026-10-23/"
+    - date: "2026-10-30"
+      display_date: "30 oct 2026"
+      value: 4.94
+      display_value: "4,94%"
+      source: "/revisiones/2026-10/"

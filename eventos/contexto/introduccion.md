@@ -15,9 +15,11 @@ Este documento no registra todo el ruido macroeconómico. Registra únicamente e
 ## Estado vigente
 
 - **Fase estructural:** Phase 1C — Sovereign Fragility.
-- **Stage táctico:** Stage 2B — Fragilidad avanzada / divergencia liderada por tasas.
+- **Stage táctico:** Stage 3 temprano — intervención fragmentada; sostenido al cierre de octubre.
 - **Phase 2:** en observación, todavía no confirmada.
 - **Criterio de confirmación:** el mercado deja de determinar libremente el costo de financiamiento largo del Tesoro estadounidense.
+
+Cierre mensual: 31/10/2026, evaluado 2/11. [Consolidación de octubre](https://facundocabrera.github.io/plano-global/agent/revisiones/2026-10.md).
 
 ## Dashboard permanente — Oro como reserva monetaria
 

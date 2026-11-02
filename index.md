@@ -15,7 +15,7 @@ page_class: page--home
 
 <p class="lead home-lead">Las tasas largas cedieron desde el pico de octubre, mientras la energía sigue cara y las respuestas oficiales se multiplican. La baja del Treasury todavía no demuestra control del costo largo.</p>
 
-<p class="home-cut">Evidencia hasta el 23 oct 2026 · <a href="{{ '/eventos/' | relative_url }}">Ver últimos eventos →</a></p>
+<p class="home-cut">Cierre de octubre · evidencia hasta el 31 oct 2026 · <a href="{{ '/eventos/' | relative_url }}">Ver últimos eventos →</a></p>
 
 <div class="regime-sequence" aria-label="Secuencia central del Plano Global">
   <span>Deuda elevada</span><b aria-hidden="true">→</b><span>Tasas largas</span><b aria-hidden="true">→</b><span>Intervención</span><b aria-hidden="true">→</b><span>¿Control?</span>
@@ -25,7 +25,7 @@ page_class: page--home
   <section class="dashboard-panel regime-panel" aria-labelledby="regime-title">
     <div class="panel-heading">
       <h2 id="regime-title">¿Dónde estamos?</h2>
-      <span>Corte mensual · 5 oct 2026</span>
+      <span>Cierre mensual · 31 oct 2026</span>
     </div>
     <div class="regime-label"><strong>Phase 1C</strong><span>Stage 3 temprano</span></div>
     <p class="plain-reading">La intervención sigue fragmentada. El refugio privado puede bajar las tasas sin que el Estado controle su precio. Phase 2 continúa sin confirmar.</p>
@@ -49,7 +49,7 @@ page_class: page--home
     <p class="market-value">{{ latest.display_value }} <span>última observación registrada</span></p>
     <div class="yield-chart" data-chart="treasury-10y" role="img" aria-label="Treasury estadounidense a 10 años: observaciones fechadas, desde 4,63% el 23 de julio; pico registrado de 5,34% el 1 de octubre; última observación {{ latest.display_value }} el {{ latest.display_date }}."></div>
     <noscript><p>El gráfico requiere JavaScript. Los valores están disponibles debajo en “Ver datos y fuentes”.</p></noscript>
-    <p class="chart-reading"><strong>Lectura:</strong> desde 5,34% el 1/10 hacia ≈4,99% el 23/10: unos 35 pb menos. No alcanza para declarar Phase 2; faltan escala, persistencia, intención y efecto atribuible a intervención sobre el costo largo. Son observaciones del Ledger, no una serie diaria completa.</p>
+    <p class="chart-reading"><strong>Lectura mensual:</strong> las tasas bajaron y la energía siguió cara. En cierres oficiales comparables, el 10Y pasó de 5,24% el 1/10 a 4,94% el 30/10. El alivio no prueba control estatal de la curva. El gráfico reúne observaciones del Ledger —incluye datos intradiarios y aproximados—; la <a href="{{ '/revisiones/2026-10/' | relative_url }}">revisión mensual separa las comparaciones homogéneas</a>.</p>
     <details class="chart-data">
       <summary>Ver datos y fuentes</summary>
       <div class="table-scroll">
@@ -72,14 +72,14 @@ page_class: page--home
     <h2 id="snapshot-title">Qué cambió y qué falta</h2>
   </div>
   <div class="signal-grid">
-    <a class="signal-card" href="{{ '/eventos/2026-10-23/' | relative_url }}">
-      <span>Brent · cierre 23 oct</span><strong>USD 116,72 / barril</strong><p>El petróleo sigue caro pese al alivio del Treasury. Energía e inflación continúan como restricción.</p>
+    <a class="signal-card" href="{{ '/eventos/2026-10-30/' | relative_url }}">
+      <span>Brent · cierres 30 oct</span><strong>USD 113,43 · enero</strong><p>Diciembre vencía a USD 117,64. Son contratos distintos: la tensión energética persiste, pero no se mezclan sus precios.</p>
     </a>
-    <a class="signal-card" href="{{ '/eventos/2026-10-21/' | relative_url }}">
-      <span>Destilados EE.UU. · stock al 16 oct</span><strong>104,286 millones de barriles</strong><p>+1,675 millones en la semana; todavía ≈9% bajo el promedio de cinco años. Publicado el 21/10: alivio parcial, con crudo y gasolina en baja.</p>
+    <a class="signal-card" href="{{ '/eventos/2026-10-28/' | relative_url }}">
+      <span>Destilados EE.UU. · stock al 23 oct</span><strong>102,824 millones de barriles</strong><p>−1,462 millones semanales. Publicado el 28/10: la mejora de la semana anterior volvió a revertirse.</p>
     </a>
-    <a class="signal-card" href="{{ '/eventos/2026-10-23/' | relative_url }}">
-      <span>Reserva estratégica · autorización 23 oct</span><strong>Hasta 400.000 barriles en préstamo</strong><p>Apoyo a una refinería con devolución futura. No acredita entrega ejecutada ni compras para reponer reservas netas.</p>
+    <a class="signal-card" href="{{ '/revisiones/2026-10/' | relative_url }}">
+      <span>Balance mensual · evaluado 2 nov</span><strong>Más intervención. Control pendiente.</strong><p>52 eventos de octubre consolidados: qué se confirma, qué se corrige y por qué no cambia la Phase.</p>
     </a>
   </div>
   <p class="chart-reading"><strong>Vigilancia de inventarios:</strong> recuperar flujos no equivale a reconstruir stocks. Seguir compras y devoluciones efectivas, crudo y combustibles, refinación y exportación, tránsito por Ormuz/Yanbu y respuesta de Brent, diésel, inflación esperada y tasas largas. Más oferta exportable, refinerías recuperadas o menor demanda pueden aliviar la presión. <a href="{{ '/eventos/2026-10-05/' | relative_url }}">Punto de partida: estimaciones de Nasser, no compras confirmadas →</a></p>
@@ -102,6 +102,8 @@ page_class: page--home
     </a>
   </div>
 </section>
+
+[Leer la evaluación mensual de octubre →]({{ '/revisiones/2026-10/' | relative_url }})
 
 ## Profundizar
 

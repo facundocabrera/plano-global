@@ -15,9 +15,11 @@ Este documento no registra todo el ruido macroeconómico. Registra únicamente e
 ## Estado vigente
 
 - **Fase estructural:** Phase 1C — Sovereign Fragility.
-- **Stage táctico:** Stage 2B — Fragilidad avanzada / divergencia liderada por tasas.
+- **Stage táctico:** Stage 3 temprano — intervención fragmentada; sostenido al cierre de octubre.
 - **Phase 2:** en observación, todavía no confirmada.
 - **Criterio de confirmación:** el mercado deja de determinar libremente el costo de financiamiento largo del Tesoro estadounidense.
+
+Cierre mensual: 31/10/2026, evaluado 2/11. [Consolidación de octubre](https://facundocabrera.github.io/plano-global/agent/revisiones/2026-10.md).
 
 ## Dashboard permanente — Oro como reserva monetaria
 
@@ -52,6 +54,352 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 ---
 
 ## Eventos consolidados
+
+### 2026-10-31 — Exportaciones sauditas sostienen flujos, pero estimaciones incompatibles impiden declarar normalización
+
+**Hecho confirmado:** Gulf News publicó el 31/10 estimaciones de octubre de varios rastreadores: Vortexa 6,5 millones bpd de exportaciones sauditas frente a 6,6 en septiembre; TankerTrackers 6,99 y Kpler alrededor de 5,4. Cita a Vortexa para el mar Rojo/Yanbu en torno a 2,5 millones bpd frente a 2,4 en septiembre.
+
+**Restricción corregida:** Son estimaciones preliminares con ventanas y metodologías diferentes, no un consenso ni estadísticas oficiales de exportación. No promediarlas. El reporte de más de siete millones de Vortexa corresponde a otra ventana. Fecha de publicación 31/10 no significa que todos los flujos ocurrieran ese día.
+
+**Mecanismo:** Inferencia: rutas alternativas y cargamentos que siguen saliendo son una contraseñal concreta al cierre total. Crudo exportado puede aumentar incluso si una refinería pierde capacidad: recuperación de crudo no garantiza recuperación de combustibles.
+
+**Relación con eventos anteriores:** Actualiza la compensación de rutas registrada el 08/10 y contrasta con los ataques del 27–30/10. No establece que todo Yanbu u Ormuz estén recuperados.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Persisten restricciones y resiliencia simultáneas; no confundir primas de riesgo con barriles efectivamente perdidos ni flujos con stocks reconstruidos.
+
+**Implicación potencial para la cartera:** Distinguir crudo, refinados y logística operativa. Evitar comprar una escasez total no corroborada o dar por terminado el shock sólo por una estimación de exportaciones.
+
+**Evidencia pendiente:** Datos oficiales sauditas y series de cargamentos comparables; throughput de Petroline, exportaciones de productos, seguros y arribos. Reposición estratégica/comercial sigue siendo una variable diferente.
+
+**Fuentes:**
+
+- https://gulfnews.com/amp/story/business%2Fenergy%2Fsaudi-oil-keeps-flowing-despite-attacks-say-trackers-why-counting-barrels-is-not-easy-1.500730059
+
+---
+
+### 2026-10-30 — BOJ mantiene 1,25%, acelera ventas futuras de ETFs y Japón confirma cero intervención FX hasta el 28/10
+
+**Hecho confirmado:** BOJ mantuvo la tasa overnight en torno a 1,25% por ocho votos a uno y decidió por unanimidad elevar ventas anuales de ETFs desde ¥330.000 a ¥860.000 millones a valor libro, desde enero de 2027. El calendario ordinario JGB conserva ¥2,3 billones mensuales. MOF publicó cero intervención cambiaria entre 29/09 y 28/10. Reuters registró USDJPY alrededor de 157,51 el 30/10.
+
+**Restricción corregida:** Ventas de ETFs no son ventas de JGB ni nuevas compras para YCC; valor libro no es valor de mercado. El calendario JGB es guía de oferta operativa, no volumen ya ejecutado. Cero FX cubre hasta el 28/10: no se extiende a días posteriores. Un movimiento del yen no identifica intervención ni unwind masivo.
+
+**Mecanismo:** Inferencia: normalización y cambios de rendimientos relativos pueden alterar carry y atractivo de repatriación sin operaciones cambiarias del MOF. La reducción de ETFs actúa sobre otra parte del balance.
+
+**Relación con eventos anteriores:** Continúa el endurecimiento y taper de septiembre y la venta japonesa de bonos extranjeros publicada el 22/10. Esa categoría no identifica exclusivamente Treasuries.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Hay gestión y normalización del balance japonés, pero no nuevo control del Treasury largo ni retorno demostrado a YCC japonés.
+
+**Implicación potencial para la cartera:** Yen y duration siguen condicionales a flujos, cobertura cambiaria y diferencial de tasas. No confundir anuncio para 2027 con venta ejecutada esta semana.
+
+**Evidencia pendiente:** JGB 10/20/30Y, compras efectivas frente al calendario, flujos japoneses por instrumento, coberturas y datos FX posteriores al 28/10. Verificar velocidad del ajuste antes de diagnosticar desarme global de carry.
+
+**Fuentes:**
+
+- https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030a.pdf
+- https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k261030c.pdf
+- https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030c.pdf
+- https://www.mof.go.jp/english/policy/international_policy/reference/feio/monthly/20261030e.html
+- https://finance.yahoo.com/markets/currencies/articles/yen-steady-boj-ai-jitters-015222078.html
+
+---
+
+### 2026-10-30 — El Treasury largo cede con tasas reales positivas mientras Brent vuelve a máximos desde abril
+
+**Hecho confirmado:** La curva par oficial Treasury 10Y pasó de 5,05% el 28/10 a 4,94% el 30/10; 30Y terminó en 5,31%. La curva real 10Y pasó de 2,67% a 2,60%: diferencia nominal–real calculada de 2,38% a 2,34%. Brent diciembre, que vencía el 30/10, cerró en US$117,64; enero, contrato más activo, en US$113,43. Reuters reportó un ataque a un petrolero en Ormuz.
+
+**Restricción corregida:** CMT par oficial no es idéntico a un benchmark negociado intradía. La diferencia nominal–real es compensación aproximada por inflación, incorpora primas y no es expectativa pura. No confundir Brent diciembre al vencimiento, enero o spot; tampoco igualar ataque a pérdida permanente de toda una ruta.
+
+**Mecanismo:** Inferencia: demanda privada de refugio y repricing de actividad pueden bajar yields aun con prima física/geopolítica en petróleo. Tasas reales positivas y una baja de compensación no muestran represión por sí solas.
+
+**Relación con eventos anteriores:** Extiende la divergencia del 16/10 y 23/10; la semana incluye buyback del 27/10 y pausa Fed del 28/10, pero coincidencia temporal no atribuye toda la baja a la intervención.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Falta evidencia de intención, escala neta y defensa persistente de un costo largo. No se declara Phase 2 porque caigan yields mientras sube un contrato de crudo.
+
+**Implicación potencial para la cartera:** Conservar duration, oro y energía como exposiciones con motores distintos. No extrapolar una cotización de Brent afectada por vencimiento a rentas permanentes de productores o refinadores.
+
+**Evidencia pendiente:** Curva real, breakevens comparables, term premium y flujos; daño/tiempo fuera de servicio, seguros, tránsito y exportaciones. Ver si hay demanda cautiva por largo o cambios de emisión el 04/11.
+
+**Fuentes:**
+
+- https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=202610&type=daily_treasury_yield_curve
+- https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&field_tdr_date_value_month=202610&type=daily_treasury_real_yield_curve
+- https://pflpetroleum.com/reports/petroleum-daily-report-10-30-2026/ — cierres por contrato y reporte del incidente.
+
+---
+
+### 2026-10-30 — Datos mensuales estadounidenses muestran más producción y menor demanda, con rezago a agosto
+
+**Hecho confirmado:** Reuters reprodujo el Petroleum Supply Monthly publicado el 30/10: producción estadounidense de crudo de agosto en 13,965 millones bpd, +19.000 bpd respecto de julio revisado; producto suministrado total en 20,595 millones bpd, −2,9% interanual.
+
+**Restricción corregida:** La fecha del acontecimiento es la publicación del 30/10; el período medido es agosto. No describe el consumo actual de noviembre ni prueba destrucción mundial de demanda. Producción doméstica adicional no equivale automáticamente a oferta exportable de diésel.
+
+**Mecanismo:** Inferencia: más producción y menor absorción pueden aliviar el balance físico y facilitar reconstrucción de stocks, si refinación, exportación y logística convierten ese margen en producto disponible.
+
+**Relación con eventos anteriores:** Contraseñal a una extrapolación unilateral de la advertencia de Nasser del 05/10. Debe leerse junto al deterioro semanal de destilados publicado el 28/10, no reemplazarlo por un dato rezagado.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Introduce mitigantes reales a la restricción energética sin invalidar la fragilidad de rutas o reservas.
+
+**Implicación potencial para la cartera:** No valorar productores con demanda inelástica garantizada. Comparar oferta incremental, márgenes y costos; para proveedores argentinos, importan competitividad y acceso a mercados.
+
+**Evidencia pendiente:** Revisiones mensuales, datos más recientes, exportaciones por producto, capacidad operativa y acumulación comercial efectiva. No inferir reposición deliberada a partir de producción sola.
+
+**Fuentes:**
+
+- https://boereport.com/2026/10/30/us-crude-output-rose-in-august-while-petroleum-demand-declined-eia-says/amp/ — Reuters reproducida, 30/10.
+- https://www.eia.gov/petroleum/supply/monthly/
+
+---
+
+### 2026-10-29 — El ECB pausa tasas pero mantiene contracción de APP y PEPP
+
+**Hecho confirmado:** El ECB mantuvo depósito en 2,50%, refinanciación principal en 2,65% y facilidad marginal en 2,90%. Reconoce riesgos de energía al alza para inflación y a la baja para crecimiento. APP y PEPP siguen disminuyendo sin reinvertir principal; TPI permanece disponible.
+
+**Restricción corregida:** Disponibilidad de TPI no es activación ni compras de OAT confirmadas. Pausar la tasa no equivale a relanzar QE ni a abandonar la meta de inflación.
+
+**Mecanismo:** Inferencia: el shock energético limita el alivio monetario incluso con crecimiento amenazado. La reducción de carteras deja parte de la absorción soberana a inversores sensibles a precio.
+
+**Relación con eventos anteriores:** Continúa la condicionalidad europea del 08/10 y la divergencia Francia–Treasury del 23/10, mientras Europa anuncia nuevas entregas desde reservas energéticas.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Hay herramientas disponibles, pero no prueba de rescate soberano ejecutado o de control persistente del costo largo estadounidense.
+
+**Implicación potencial para la cartera:** Separar riesgo fiscal por país y alivio por refugio. No tratar toda deuda europea como exposición homogénea con backstop incondicional.
+
+**Evidencia pendiente:** Compras efectivas y criterios de TPI, spreads/subastas, efectos indirectos de energía y salarios. Seguir evolución de carteras, no sólo la tasa de depósito.
+
+**Fuentes:**
+
+- https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html
+
+---
+
+### 2026-10-29 — DOE adjudica más de 40 millones de barriles de salida y compromete devolución desde 2027
+
+**Hecho confirmado:** DOE adjudicó intercambios por más de 40 millones de barriles, incluidos volúmenes ofrecidos antes, con salidas previstas desde Big Hill y Bryan Mound. Afirma completar el compromiso estadounidense de liberar 172 millones dentro de la acción IEA de 400 millones y haber asegurado retornos por más de 216 millones desde comienzos de 2027, incluidos 44 millones de prima.
+
+**Restricción corregida:** Adjudicación, entrega desde SPR y devolución son hitos distintos. Los 40 millones no se suman como programa independiente a 172/400 millones; los 216 millones corresponden al retorno agregado declarado, no a reposición ejecutada esta semana ni a compras spot ya realizadas.
+
+**Mecanismo:** Inferencia: el intercambio traslada crudo del stock público al mercado presente y crea una obligación futura de devolución que puede competir con demanda corriente. Su presión depende del calendario y del origen de los barriles retornados.
+
+**Relación con eventos anteriores:** Da escala contractual a la secuencia del 10/10 y los préstamos del 23/10. Nasser advirtió el 05/10 hasta dos años para reponer stocks y estimó potencialmente 2 millones bpd adicionales durante 18 meses: son estimaciones atribuidas del productor, verificadas en Aramco y Reuters reproducida, no pronósticos independientes ni demanda realizada.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. La intervención física es material; todavía no acredita reconstrucción neta de stocks ni control monetario del largo.
+
+**Implicación potencial para la cartera:** Vigilar productores y logística capaces de atender salidas actuales y retornos futuros; no convertir un compromiso contractual en señal inmediata de compra de petróleo.
+
+**Evidencia pendiente:** Calendario por adjudicatario, entregas reales, devoluciones y stock neto; distinguir préstamos, primas y compras para evitar doble conteo. Las ventanas de 18 meses y hasta dos años de Nasser describen escenarios condicionales.
+
+**Fuentes:**
+
+- https://www.energy.gov/hgeo/opr/articles/energy-department-awards-contracts-strategic-petroleum-reserve-part-president
+- https://www.aramco.com/en/news-media/speeches/2026/remarks-by-amin-h-nasser-at-energy-intelligence-2026
+- https://energynow.com/2026/10/replenishing-crude-fuel-supplies-could-take-two-years-saudi-aramco-ceo-says/
+
+---
+
+### 2026-10-29 — Europa calendariza 42 millones de barriles de liberaciones, aproximadamente la mitad diésel
+
+**Hecho confirmado:** Lescure anunció que Europa liberará 42 millones de barriles durante tres meses, aproximadamente la mitad diésel. Francia prevé que sus 10 millones de barriles de diésel ya anunciados lleguen al mercado en los días siguientes, según Bloomberg y The National.
+
+**Restricción corregida:** Se concreta calendario de compromisos previos: no es una ronda íntegramente adicional a los 100 millones G7 ni a los 400 millones IEA. Anuncio de llegada y reducción de precio esperada no son entregas ni bajas al surtidor observadas.
+
+**Mecanismo:** Inferencia: liberar producto listo puede aliviar el cuello de diésel más directamente que crudo sin refinar, a costa de reducir el amortiguador público y dejar reposición futura pendiente.
+
+**Relación con eventos anteriores:** Continúa la aceleración IEA del 07/10 y 15/10 y el enfoque nacional del 20/10. Junto al DOE del 29/10 muestra apoyo presente con stocks futuros comprometidos.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Intervención energética coordinada y más específica por producto, sin garantía de normalización ni relación automática con Phase 2.
+
+**Implicación potencial para la cartera:** Separar beneficiarios de diésel entregado, refinación y transporte de una apuesta indiscriminada al barril. Agro/minería argentinos se benefician sólo si el alivio llega al costo local.
+
+**Evidencia pendiente:** Volúmenes retirados y entregados, alcance territorial, precio final y calendario de reposición. Contraseñales a escasez: nueva oferta exportable, refinerías recuperadas y menor consumo efectivo.
+
+**Fuentes:**
+
+- https://finance.yahoo.com/energy/articles/europe-set-release-42-million-112232664.html
+- https://www.thenationalnews.com/news/europe/2026/10/29/europe-set-to-release-42-million-barrels-of-oil-for-short-term-relief/
+- https://oilprice.com/Latest-Energy-News/World-News/Europe-to-Release-42-Million-Barrels-of-Oil.html
+
+---
+
+### 2026-10-29 — Rusia prepara cuotas de diésel mayores sin que el reporte confirme un decreto nuevo
+
+**Hecho confirmado:** Reuters reportó, citando dos fuentes, planes de extender la prohibición de exportar diésel a fin de año y ampliar cuotas de noviembre a dos millones de toneladas, desde 0,5 millones en octubre. También atribuye a fuentes una recuperación de utilización de refinerías del 25% desde inicios de mes. El ministerio no respondió.
+
+**Restricción corregida:** Lo confirmado aquí es el reporte sobre planes, no su aprobación legal, toneladas embarcadas o llegada a destino. El aumento de utilización es una estimación de fuentes, no una serie oficial independiente. Prohibición y exportaciones excepcionadas pueden coexistir.
+
+**Mecanismo:** Inferencia condicional: si se aprueban y ejecutan cuotas con más refinación, aumenta producto exportable aun con un marco restrictivo; si el cupo no se utiliza, el alivio potencial no llega al mercado.
+
+**Relación con eventos anteriores:** Continúa el cargamento hacia Nueva York registrado el 22/10 y funciona como contraseñal potencial a escasez uniforme, junto a las liberaciones europeas del 29/10.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. La dirección gubernamental del comercio sigue activa. No se cuenta una flexibilización propuesta como normalización ejecutada ni como cambio de fase.
+
+**Implicación potencial para la cartera:** Evitar extrapolar márgenes extraordinarios de diésel si aparece oferta adicional verificable. Distinguir mercado estadounidense, europeo y restricciones por origen.
+
+**Evidencia pendiente:** Decreto, empresas exceptuadas, cuotas utilizadas y exportaciones netas; arribo del cargamento previsto alrededor del 07/11, no ocurrido aún al corte. Verificar si la recuperación operativa persiste.
+
+**Fuentes:**
+
+- https://new.streetinsider.com/Reuters/Russia%2Bto%2Bextend%2Bdiesel%2Bexport%2Bban,%2Buse%2Bquotas%2Bto%2Bfulfil%2BUS%2Bdeal,%2Bsources%2Bsay/27255617.html
+
+---
+
+### 2026-10-29 — La subasta Treasury a siete años absorbe emisión a menor rendimiento sin probar supresión oficial
+
+**Hecho confirmado:** Treasury colocó US$44.000 millones a siete años al 4,894%, con cobertura 2,46. CME/Econoday reproduce rendimiento y cobertura; no se incorpora aquí un desglose de asignaciones no recotejado en el resultado primario.
+
+**Restricción corregida:** Las reinversiones oficiales, cuando existen, no demuestran expansión neta ni QE nueva: deben contrastarse con vencimientos y rollover de la directiva Fed. Cobertura no sustituye comparación contra when-issued; aquí no se afirma tail o stop-through no verificado.
+
+**Mecanismo:** Inferencia: demanda de clientes y reinversión oficial pueden coexistir con formación de precio de mercado. La colocación a siete años no describe automáticamente demanda a 20/30 años.
+
+**Relación con eventos anteriores:** Contrasta con la concesión de precio del 20Y del 21/10 y acompaña la pausa Fed del 28/10. El buyback del 27/10 debe evaluarse contra toda la emisión nueva.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. La absorción de emisión es contraseñal a una disfunción soberana indiscriminada. No prueba costo largo administrado.
+
+**Implicación potencial para la cartera:** Mantener decisiones de duration por tramo, rendimiento real y riesgo de refinanciación. No inferir pérdida general de demanda ni compra institucional ilimitada a partir de una sola subasta.
+
+**Evidencia pendiente:** When-issued comparable, flujo de cliente final, subastas posteriores y duration neta. Decisiones de composición estadounidense del 04/11 aún pendientes.
+
+**Fuentes:**
+
+- https://www.cmegroup.com/education/events/econoday/692986 — resultado reproducido; desglose primario no incorporado.
+- https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm
+
+---
+
+### 2026-10-28 — La Fed mantiene la tasa y circunscribe la gestión de reservas al tramo corto
+
+**Hecho confirmado:** El FOMC mantuvo 3,75%–4,00%, por 10 votos a dos; Cook y Hammack preferían subir 25 pb. La nota operativa, efectiva el 29/10, permite compras de T-bills y, si hace falta, otros Treasuries con plazo residual de hasta tres años para reservas amplias; mantiene rollover de principal Treasury y reinversión de agencias en bills.
+
+**Restricción corregida:** Es una directiva de gestión de reservas, no un anuncio de compras ejecutadas de bonos largos. El tope de tres años, la finalidad operativa y las reinversiones no equivalen a QE de duration, Twist o YCC. No se atribuye una nueva herramienta sólo porque reaparece en la nota.
+
+**Mecanismo:** Inferencia: sostener reservas puede reducir tensiones de funding mientras la tasa corta sigue restrictiva. Eso puede facilitar intermediación sin anular la formación de precio a 10/30 años.
+
+**Relación con eventos anteriores:** Da continuidad a la distinción de las actas del 07/10 y las reinversiones registradas el 15/10. El mercado vuelve a evaluar inflación, actividad y riesgo antes del refinanciamiento del 04/11.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. La pausa de tasas y las compras cortas autorizadas no satisfacen el criterio de control efectivo y persistente del costo largo.
+
+**Implicación potencial para la cartera:** Liquidez corta y duration larga conservan funciones distintas. No trasladar automáticamente una expansión de reservas a una señal de compra de bonos largos, oro o Bitcoin.
+
+**Evidencia pendiente:** Compras efectivas por vencimiento y propósito, reservas/repo, breakevens y curva real; cualquier cambio futuro en reinversiones o mandato de duration.
+
+**Fuentes:**
+
+- https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm
+- https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm
+
+---
+
+### 2026-10-28 — Reino Unido aumenta financiación y desplaza emisión desde gilts largos hacia plazos menores
+
+**Hecho confirmado:** El presupuesto revisó ventas de gilts 2026–27 a £250.600 millones, +£4.400 millones frente al remit de abril, y aporte neto de bills a £8.000 millones, +£3.000 millones. Gilts convencionales largos bajan £6.900 millones a £15.500 millones, 6,2% del total; cortos y medios pasan a 42,9% y 35,6%. También programa bills a 12 meses y una facilidad permanente de repo para enero de 2027; crea desde el 28/10 un pool de colateral de £250 millones nominales por bill existente.
+
+**Restricción corregida:** Es gestión de la oferta por vencimiento, no recompra ni nueva compra del BOE. Menos emisión larga no elimina necesidades de financiación: puede trasladarlas a renovaciones más frecuentes. La reacción de mercado no prueba control permanente; la facilidad futura de bills no es QE de largo.
+
+**Mecanismo:** Inferencia: reducir duration marginal ofrecida puede aliviar el extremo largo, aun con financiación total mayor, a cambio de mayor dependencia del tramo corto y del rollover.
+
+**Relación con eventos anteriores:** Amplía la secuencia británica de menor oferta institucional larga tras los cambios de QT registrados en septiembre. Se compara con buybacks estadounidenses del 27/10, sin asumir coordinación entre países.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Es intervención relevante en composición de deuda. No demuestra que Estados Unidos administre su costo largo ni que una respuesta británica aislada inaugure Phase 2 global.
+
+**Implicación potencial para la cartera:** Diferenciar alivio técnico por menor oferta de sostenibilidad fiscal. Evaluar soberanos, monedas y riesgo de reinversión por separado.
+
+**Evidencia pendiente:** Ejecución del remit, subastas y demanda final, costo medio y rollover. Vigilar persistencia del efecto en 20/30Y y financiación del ejercicio siguiente.
+
+**Fuentes:**
+
+- https://www.gov.uk/government/publications/budget-2026-document/budget-2026-html
+- https://www.aol.com/articles/uk-nudges-borrowing-plans-budget-134530000.html
+
+---
+
+### 2026-10-28 — La EIA revierte la mejora de destilados y muestra otra caída neta de la SPR
+
+**Hecho confirmado:** Publicación del 28/10, semana al 23/10: destilados 102,824 millones de barriles, desde 104,286; crudo comercial 410,625, desde 412,517; gasolina 209,180, desde 205,310; SPR 282,583, desde 282,683. Variaciones calculadas: −1,462; −1,892; +3,870 y −0,100 millones, respectivamente. El precio minorista EIA de diésel al 26/10, publicado el 27/10, fue US$6,352/galón, +US$0,076 semanal.
+
+**Restricción corregida:** La suba de destilados de la semana anterior no persistió. Una caída neta de SPR no identifica cada flujo bruto ni prueba ausencia de cualquier devolución; sí descarta reposición neta en este corte. Diésel minorista estadounidense no es precio mundial ni futuro europeo.
+
+**Mecanismo:** Inferencia: recuperar flujo o refinar más no garantiza acumulación de stocks de cada combustible. La divergencia entre gasolina y destilados impide una tesis de normalización uniforme.
+
+**Relación con eventos anteriores:** Corrige la lectura de alivio parcial del 21/10 y prolonga la vigilancia iniciada con Nasser el 05/10. Las liberaciones oficiales del 29/10 deben contrastarse luego con cantidades entregadas y stocks.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Persisten restricciones físicas con mitigantes por producto. No hay prueba de reposición global sostenida ni de Phase 2.
+
+**Implicación potencial para la cartera:** Comparar márgenes y disponibilidad de refinados, exposición al transporte y costos de agro/minería. No extrapolar el Brent a todos los combustibles.
+
+**Evidencia pendiente:** Stocks regionales, refinación/exportaciones y precios entregados; compras comerciales/estratégicas y devoluciones efectivas por separado. Verificar persistencia antes de declarar reconstrucción de stocks.
+
+**Fuentes:**
+
+- https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_NUS_W.htm
+- https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?f=W&n=PET&s=EMD_EPD2D_PTE_NUS_DPG
+
+---
+
+### 2026-10-28 — Rio Tinto inaugura dos proyectos de litio que ya estaban en ramp-up
+
+**Hecho confirmado:** La compañía inauguró Fénix 1B y Sal de Vida en Catamarca tras una inversión conjunta cercana a US$1.400 millones. Su comunicado aclara que ambos lograron primera producción en el segundo trimestre y están aumentando producción; añadirán 25.000 toneladas anuales de capacidad LCE cuando alcancen régimen.
+
+**Restricción corregida:** La inauguración del 28/10 no es primera producción ese día ni 25.000 toneladas ya exportadas. El total invertido no es un desembolso nuevo íntegro de esta semana. Separar capacidad, producción y exportación.
+
+**Mecanismo:** Inferencia: capacidad construida y en ramp-up reduce parte del riesgo de ejecución frente a proyectos sólo anunciados y puede ampliar oferta exportable futura; también aumenta competencia en litio.
+
+**Relación con eventos anteriores:** Contrasta con la ampliación de Eramet sujeta a FID del 01/10 y los planes de Taca Taca del 23/10. Es una etapa de ejecución distinta dentro de la rotación global hacia recursos.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Valida selectivamente a Argentina como proveedor real, sin cambiar la fase monetaria ni demostrar rentabilidad de toda la minería.
+
+**Implicación potencial para la cartera:** Priorizar operación, costos, balance y ventas frente a recursos en papel. La mayor capacidad puede beneficiar proveedores y a la vez limitar precios del mineral.
+
+**Evidencia pendiente:** Ramp-up efectivo, calidad, recuperación, costos, agua, energía, ventas/exportaciones y generación de caja. El posible Fénix II difundido el 29/10 continúa en evaluación; no es FID aprobada.
+
+**Fuentes:**
+
+- https://www.businesswire.com/news/home/20261028730364/en/Rio-Tinto-celebrates-opening-of-$1.4-billion-lithium-projects-in-Argentina
+- https://www.reuters.com/business/rio-tinto-assesses-new-lithium-plant-argentina-copper-opportunities-2026-10-29/
+
+---
+
+### 2026-10-27 — El Tesoro completa otra recompra a 20–30 años sin fijar un rendimiento objetivo
+
+**Hecho confirmado:** El resultado oficial del 27/10 aceptó USD 6.000 millones de nominal, todo el máximo, frente a USD 10.746 millones ofrecidos; seis de 35 emisiones elegibles. Liquidación el 28/10, vencimientos entre noviembre de 2046 y agosto de 2056.
+
+**Restricción corregida:** Nominal retirado no equivale a desembolso de caja ni a duration neta retirada del sistema: falta descontar emisiones nuevas. Completar el cupo no prueba un objetivo de yield ni compras de la Fed.
+
+**Mecanismo:** Inferencia: retirar bonos antiguos puede mejorar liquidez y reducir oferta de ciertos vencimientos. El impacto agregado depende de DV01, financiación y sustitución por nueva deuda.
+
+**Relación con eventos anteriores:** Continúa los cupos largos completos del 08/10 y 15/10 y la consulta del 16/10. La repetición es evidencia de persistencia operativa, no de control efectivo de curva.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Hay una herramienta repetida, pero faltan escala neta, intención de administrar el costo largo y efecto persistente atribuible. El refinanciamiento del 04/11 sigue pendiente.
+
+**Implicación potencial para la cartera:** Mantener duration nominal larga condicional. No elevar convicción sólo por el porcentaje de ejecución del cupo.
+
+**Evidencia pendiente:** Calendario y composición de emisiones del 04/11, DV01 neto, renovaciones, liquidez y reacción del 10Y/30Y frente a inflación y flujos privados.
+
+**Fuentes:**
+
+- https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/BBR_20261027174000.pdf
+
+---
+
+### 2026-10-27 — Australia dirige financiación pública condicional a tierras raras y tantalio
+
+**Hecho confirmado:** EFA aprobó condicionalmente hasta A$70 millones para Donald Mineral Sands, junto con A$110 millones de inversión condicional del NRF; también un préstamo condicional de US$41,4 millones a Global Advanced Metals para tantalio. El anuncio se inscribe en el marco Australia–Estados Unidos.
+
+**Restricción corregida:** Aprobación condicional no es desembolso, planta operativa ni flujo completo nuevo. No mezclar dólares australianos y estadounidenses ni sumar como novedad todo el apoyo acumulado desde 2025.
+
+**Mecanismo:** Inferencia: crédito e inversión públicos pueden reducir riesgo de financiación y orientar capacidad mineral hacia cadenas aliadas. La política dirige capital real por proyecto.
+
+**Relación con eventos anteriores:** Complementa el pedido estadounidense del 14/10 de ampliar financiación a hidrocarburos y minerales; contrasta con planes argentinos todavía pendientes de FID como Taca Taca del 23/10.
+
+**Impacto sobre el plano:** Phase 1C / Stage 3 temprano; Phase 2 no confirmada. Refuerza dirección estatal de capital y seguridad de suministro, sin evidencia de control del Treasury largo.
+
+**Implicación potencial para la cartera:** Comparar productores y proyectos por financiación, costos, permisos y compradores. Argentina compite con otras jurisdicciones por capital; el recurso geológico por sí solo no basta.
+
+**Evidencia pendiente:** Cumplimiento de condiciones, cierre financiero, desembolsos, construcción y contratos de venta; evitar confundir apoyo anunciado con oferta exportable disponible.
+
+**Fuentes:**
+
+- https://www.minister.industry.gov.au/t-ayres/media/more-investment-more-jobs-australias-critical-minerals-future
+
+---
 
 ### 2026-10-23 — DOE autoriza otro préstamo SPR para sostener una refinería, con devolución futura
 

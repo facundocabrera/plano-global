@@ -311,6 +311,18 @@ La transición hacia Phase 2 requiere una combinación de:
 
 Un buyback aislado puede confirmar la forma prevista por la hipótesis sin confirmar todavía el régimen.
 
+## Validación mensual · octubre 2026
+
+**Cierre 31/10, evaluado 2/11.** Se mantiene Phase 1C avanzada / Stage 3 temprano. La [consolidación de octubre]({{ '/revisiones/2026-10/' | relative_url }}) precisa el mecanismo sin cambiar las fases:
+
+1. **Intervenir liquidez, reservas bancarias o energía no basta para administrar duration.** Identificar balance, vencimiento, financiación y objetivo antes de atribuir represión.
+2. **La persistencia tiene dos niveles.** Varias recompras completas prueban continuidad operativa; no prueban escala neta suficiente, intención ni supresión persistente de yields.
+3. **La trayectoria no es monotónica.** La fragilidad fiscal puede coexistir con demanda privada de refugio y rendimientos largos en baja. Una caída de tasas reales no se etiqueta automáticamente como control oficial.
+4. **Flujo y stock requieren dos relojes.** Restablecer exportaciones o liberar reservas alivia el presente; reconstruir inventarios y ejecutar nueva capacidad lleva otro calendario. Anuncios y programas solapados no se suman como oferta nueva.
+5. **Dirección del capital y represión monetaria son mecanismos diferentes.** Apoyo a recursos, restricciones sectoriales y regulación de stablecoins pueden avanzar sin controlar el Treasury largo.
+
+La tesis sigue siendo contrastable: oferta recuperada, menor demanda, consolidación fiscal y absorción privada pueden reducir la necesidad de represión. La evidencia registrada no convierte su llegada en inevitable ni fija una fecha de transición.
+
 ## Conclusión estratégica
 
 No estamos necesariamente ante el final del dólar.

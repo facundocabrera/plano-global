@@ -26,6 +26,7 @@ jobs:
         run: |
           node scripts/build-event-ledger.mjs
           node scripts/build-asset-playbook.mjs
+          node scripts/build-agent-documents.mjs
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:

@@ -1,19 +1,22 @@
 # Plano Global
 
-> Evidencia hasta: 2026-10-23 · clasificación mensual: 2026-10-05
+> Evidencia hasta: 2026-10-31 · clasificación mensual: cierre octubre, evaluada 2026-11-02
 
 Plano Global documenta una hipótesis macroeconómica de largo plazo, la contrasta con eventos observables y traduce el resultado a posicionamiento por clases de activos.
 
 ## Estado actual
 
-Phase 1C — Fragilidad soberana avanzada. Stage táctico 3 temprano por intervención repetida pero fragmentada. Phase 2A no está confirmada: el Treasury 10Y cedió desde 5,34% el 01/10 hacia ≈4,99% el 23/10. La demanda privada de refugio puede bajar yields; faltan escala, persistencia, intención y efecto atribuible a intervención sobre el costo largo. Las recompras del 01/10 y 08/10 sí completaron su tope: no generalizar la subejecución de otras operaciones.
+Cierre 31/10/2026 · evaluación 2/11 · último cierre de mercado 30/10. Phase 1C avanzada y Stage 3 temprano sostenidos; Phase 2A no confirmada.
 
-## Resumen de la última evidencia
+## Consolidación mensual de octubre
 
-- [Treasury ≈4,99% y Brent USD 116,72 al 23/10](./eventos/2026-10-23.md): alivio de tasas con energía todavía cara; las observaciones no son simultáneas.
-- [Destilados estadounidenses al 16/10, publicados el 21/10](./eventos/2026-10-21.md): 104,286 millones de barriles, +1,675 millones semanales, todavía ≈9% bajo el promedio de cinco años. Crudo y gasolina cayeron.
-- [Préstamo SPR autorizado el 23/10](./eventos/2026-10-23.md): hasta 400.000 barriles; no acredita entrega ni reposición neta ejecutada.
-- Vigilancia explícita: compras y devoluciones efectivas de reservas, stocks comerciales, refinación/exportación y Ormuz/Yanbu; distinguir recuperación de flujos y reconstrucción de stocks. Contraseñales: más oferta exportable, recuperación de refinerías o menor demanda. Las [estimaciones de Nasser del 05/10](./eventos/2026-10-05.md) no son compras ejecutadas ni pronósticos independientes confirmados.
+[Revisión completa](./revisiones/2026-10.md): 52 eventos en 20 diarios; se incorporan 15 pendientes del 27–31/10. No incluye hechos de noviembre.
+
+- Las recompras sí completaron varios cupos. La repetición prueba continuidad operativa; no escala neta ni control de yields.
+- Treasuries recuperaron demanda de refugio mientras energía seguía tensionada. Baja de tasas no demuestra supresión estatal.
+- La mejora semanal de destilados volvió a revertirse; retorno contractual a SPR no es reposición ejecutada.
+- Respuestas oficiales tienen objetivos distintos. Regulación cripto y financiación productiva no equivalen a demanda cautiva por largo.
+- Sin cambios de categoría en el Asset Playbook. Pendientes: refinanciamiento del 4/11, duration neta, causalidad de tasas, crédito/funding y ejecución energética/productiva.
 
 ## Lectura recomendada
 

@@ -13,6 +13,10 @@ Plano Global estudia una transición de largo plazo hacia mayor intervención so
 - [Event Ledger](https://facundocabrera.github.io/plano-global/agent/eventos.md): acontecimientos materiales y fuentes.
 - [Asset Playbook](https://facundocabrera.github.io/plano-global/agent/posicionamiento.md): activos preferidos, condicionales y excluidos.
 
+## Última revisión mensual
+
+- [Octubre 2026](https://facundocabrera.github.io/plano-global/agent/revisiones/2026-10.md): consolidación del mes y delta de hipótesis, evaluada el 2 de noviembre.
+
 ## Información adicional
 
 - [Metodología](https://facundocabrera.github.io/plano-global/metodologia/)

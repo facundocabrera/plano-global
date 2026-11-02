@@ -21,24 +21,26 @@ Este documento responde cuatro preguntas:
 
 No asigna pesos ni reemplaza el análisis de valuación, liquidez, custodia o punto de entrada. Primero define la exposición económica deseada; luego se selecciona el vehículo.
 
-## Estado vigente — 2026-10-05
+## Estado vigente — 2026-10-31 · evaluado 2026-11-02
 
 - **Fase estructural:** Phase 1C — Sovereign Fragility.
-- **Stage táctico:** Stage 3 temprano — intervención fragmentada.
-- **Phase 2:** en observación, todavía no confirmada.
-- **Lectura dominante:** la intervención oficial ya es repetida, pero todavía específica por mercado e ineficaz sobre el Treasury largo; energía y refinados mantienen presión inflacionaria; activos reales, balances autofinanciados y liquidez corta siguen favorecidos.
+- **Stage táctico:** Stage 3 temprano sostenido; Phase 2A no confirmada.
+- **Lectura dominante:** intervención repetida y alivio selectivo del Treasury, sin control largo atribuible; energía e inventarios continúan como restricción.
+- **Universo:** 52 eventos de octubre en 20 diarios; 15 recuperados del 27–31/10. [Revisión y trazabilidad]({{ '/revisiones/2026-10/' | relative_url }}).
 
-### Delta mensual
+### Delta mensual de octubre
 
-**Suben en convicción sin cambiar de categoría:** oro; productores de energía de bajo costo; infraestructura de energía, refinación y logística; minerales estratégicos con producción o FID financiable; instrumentos soberanos muy cortos; proveedores argentinos capaces de convertir recursos en exportaciones reales.
+**Suben de categoría:** ninguno. **Bajan de categoría:** ninguno. **Nuevas exclusiones:** ninguna. No se asignan ponderaciones.
 
-**Bajan en convicción:** duration nominal larga sin respaldo institucional; high yield; empresas apalancadas o dependientes de refinanciación; apuestas que persiguen petróleo o diésel después de movimientos verticales.
+**Ganan respaldo específico:** oro por aumento de volumen físico chino, no por una performance mensual aquí no medida; infraestructura y operadores con capacidad entregable; recursos con producción/ramp-up frente a anuncios sin FID.
 
-**Permanecen neutrales o condicionales:** yen, bonos ligados a inflación, emergentes amplios, plata/mineras de oro, infraestructura cripto y agroindustria. La evidencia mensual mejoró algunos mecanismos, pero no alcanzó para convertirlos en núcleo.
+**Se reduce convicción en lecturas unidireccionales:** escasez energética creciente sin respuesta de oferta/demanda; pérdida permanente del refugio Treasury; compra automática de BTC por regulación de stablecoins. No cambian las categorías estructurales por esas correcciones.
 
-**Sin cambios de categoría:** ningún activo cruza este mes entre preferido, neutral y evitar. El cambio relevante es de régimen táctico y de grado de convicción, no de arquitectura del playbook.
+**Tesis tácticas invalidadas o debilitadas:** recompras siempre incompletas, venta uniforme de soberanos y equivalencia entre liberación, devolución futura y reposición ejecutada. La matriz anterior del 5/10 se conserva: el cambio de octubre es de mecanismo y selectividad.
 
-**Lecturas tácticas invalidadas:** prohibición inmediata de exportaciones estadounidenses de diésel; cierre uniforme de Ormuz; control efectivo del Treasury largo por el solo aumento de buybacks.
+**Evidencia pendiente:** composición/renovación del 4/11 y DV01 neto; tasas reales, term premium, crédito/funding y flujos; stocks y retornos energéticos; reservas de stablecoins, compras oficiales de oro y ejecución de proyectos.
+
+**Vehículos para análisis posterior:** oro asignado/spot respaldado, BTC directo/spot, productores e infraestructura con caja/exportación y soberanos muy cortos. No se recomiendan tickers o entradas sin comprobar valuación, liquidez y custodia.
 
 ---
 
@@ -54,7 +56,7 @@ Son exposiciones coherentes con Phase 1C y con la transición probable hacia rep
 
 **Confirmación estructural:** compras netas oficiales sostenidas y aumento del stock en toneladas, no solo incremento de su peso en reservas causado por la suba del precio. Observar conjuntamente reservas oficiales, COFER ajustado por FX, tasas reales, DXY y demanda privada.
 
-**Actualización mensual:** el traslado neerlandés de 86 toneladas hacia custodia doméstica refuerza la función estratégica y operativa del metal, pero todavía falta el corte agregado de compras oficiales de H2 2026.
+**Actualización mensual de octubre:** el dato chino publicado el 7/10 muestra aumento físico aun con menor valor contable. Mantener separados stock, precio y custodia; no extrapolar a todo el agregado oficial.
 
 **Riesgo principal:** correcciones por suba de tasas reales o apreciación transitoria del dólar.
 
@@ -66,7 +68,7 @@ Son exposiciones coherentes con Phase 1C y con la transición probable hacia rep
 
 **Riesgo principal:** volatilidad, correlación táctica con liquidez global y riesgo de custodia o contraparte.
 
-**Actualización mensual:** la regulación de stablecoins y T-bills mejora la integración de infraestructura cripto con el sistema financiero, pero no constituye demanda automática por Bitcoin ni reduce su sensibilidad táctica a tasas reales y liquidez.
+**Actualización mensual de octubre:** la OCC avanzó a regla final con vigencia futura, sin demanda automática por BTC. No hay aquí serie de precio/flujos que permita afirmar mejora mensual de su función de refugio.
 
 ### Productores de energía de bajo costo
 
@@ -78,7 +80,7 @@ Son exposiciones coherentes con Phase 1C y con la transición probable hacia rep
 
 **Riesgo principal:** comprar beneficios extraordinarios como si fueran permanentes o perseguir el crudo después de un shock vertical.
 
-**Actualización mensual:** la recuperación de casi 80% de las exportaciones de crudo de Oriente Medio reduce el caso para perseguir el barril, mientras la escasez de diésel mantiene preferencia por operadores de bajo costo, refinación y logística efectivamente disponibles.
+**Actualización mensual de octubre:** rutas alternativas, reservas y recuperación de oferta pueden aliviar precios; persisten restricciones de refinados y stocks. Favorecer costos, acceso y logística frente a una apuesta indiscriminada a escasez permanente.
 
 ### Cobre, uranio y minerales estratégicos
 
@@ -88,7 +90,7 @@ Son exposiciones coherentes con Phase 1C y con la transición probable hacia rep
 
 **Riesgo principal:** ciclos de capex, ejecución, nacionalismo de recursos y valuaciones impulsadas por narrativa.
 
-**Actualización mensual:** la expansión de Eramet agregaría 11.000 toneladas anuales de LCE en Argentina, pero sigue sujeta a FID, financiamiento y recuperación del balance. Los proyectos anunciados permanecen por debajo de activos en producción dentro de la selección.
+**Actualización mensual de octubre:** Eramet y Taca Taca siguen sujetos a hitos pendientes; Fénix 1B y Sal de Vida ya estaban en ramp-up antes de inaugurarse el 28/10. Capacidad nueva no es producción anual realizada ni rentabilidad asegurada.
 
 ### Infraestructura energética y de recursos
 
@@ -134,7 +136,7 @@ No deben integrar el núcleo por defecto. Se habilitan cuando aparece una señal
 
 **Uso:** trade de compresión de yields durante la transición. No asumir que se transforman en reserva de valor real.
 
-**Estado actual:** no habilitados como posición estructural. El 10Y tocó 5,34% mientras el Tesoro aceptaba cerca de la mitad de las ofertas y recompraba menos que el tope de USD 6.000 millones. El instrumento conserva valor táctico sólo después de observar control efectivo, no por nivel de yield aislado.
+**Estado actual:** no habilitados como núcleo por la tesis de intervención. Octubre sí mostró cupos completos y refugio privado. Esa cobertura táctica se reconoce sin confundir baja de yields con control oficial ni con protección real garantizada.
 
 ### Bonos ligados a inflación
 
@@ -148,7 +150,7 @@ No deben integrar el núcleo por defecto. Se habilitan cuando aparece una señal
 
 **Uso:** cobertura táctica frente a unwind del carry trade.
 
-**Estado actual:** la intervención récord de agosto no produjo estabilización persistente; Japón no intervino entre el 27/08 y el 28/09, el BOJ subió a 1,25% y redujo compras de JGB. Sigue siendo cobertura táctica, no activo preferido.
+**Estado actual:** cobertura táctica condicional. Japón reportó cero intervención FX entre 29/9 y 28/10; el BOJ mantuvo 1,25% el 30/10. Ventas de bonos extranjeros por inversores no identifican por sí solas reservas oficiales o unwind sistémico.
 
 ### Mercados emergentes no estadounidenses
 
@@ -168,7 +170,7 @@ No deben integrar el núcleo por defecto. Se habilitan cuando aparece una señal
 
 **Uso:** exposición empresarial o tecnológica. No confundir con la función monetaria de BTC.
 
-**Estado actual:** la propuesta de la Fed para respaldo integral con T-bills/HQLA favorece custodia y emisores regulados, pero todavía faltan regla final, crecimiento, adicionalidad de reservas y captura de valor. No mejora por sí sola la tesis de altcoins.
+**Estado actual:** propuesta de Fed y regla final OCC tienen alcances diferentes. La regla OCC del 21/10 tiene vigencia futura; faltan implementación, reservas adicionales y captura de valor. No equivale a flujo automático hacia altcoins o bonos largos.
 
 ### Agricultura y agroindustria
 
@@ -299,4 +301,4 @@ El Asset Playbook define **qué queremos poseer**. Una decisión de compra requi
 
 ## Conclusión vigente
 
-El paso a Stage 3 temprano no habilita todavía duration larga: confirma que las autoridades ya intervienen, pero también que sus herramientas no administran el Treasury 10Y/30Y. El posicionamiento coherente sigue reduciendo dependencia de promesas nominales largas y favoreciendo escasez monetaria, recursos estratégicos, infraestructura, liquidez corta y activos productivos capaces de atravesar inflación, intervención fragmentada y fragmentación geopolítica.
+El paso a Stage 3 temprano no habilita todavía duration larga: confirma que las autoridades ya intervienen, pero también que no está demostrado que sus herramientas administren el Treasury 10Y/30Y. El posicionamiento coherente sigue reduciendo dependencia de promesas nominales largas y favoreciendo escasez monetaria, recursos estratégicos, infraestructura, liquidez corta y activos productivos capaces de atravesar inflación, intervención fragmentada y fragmentación geopolítica.

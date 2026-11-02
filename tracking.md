@@ -2,7 +2,7 @@
 layout: default
 title: Seguimiento
 description: Dashboard de validación y coordenadas tácticas del Plano Global.
-eyebrow: Track Global · 5 de octubre de 2026
+eyebrow: Track Global · cierre octubre 2026 · evaluación 2 noviembre
 agent_url: /agent/tracking.md
 permalink: /tracking/
 ---
@@ -14,8 +14,8 @@ permalink: /tracking/
 <div class="status">
 <strong>Coordenadas actuales</strong><br>
 Estructural: Phase 1C — Fragilidad soberana avanzada.<br>
-Táctica: Stage 3 temprano — Intervención fragmentada, todavía ineficaz sobre el Treasury largo.<br>
-Transición: Stage 3 activado por repetición de respuestas oficiales; Phase 2A todavía no confirmada.
+Táctica: Stage 3 temprano — Intervención fragmentada; control del Treasury largo todavía no demostrado.<br>
+Transición: Stage 3 sostenido durante octubre; Phase 2A todavía no confirmada.
 </div>
 
 ## Dos coordenadas, dos escalas
@@ -80,6 +80,27 @@ El 30Y sube con el frente corto contenido, las subastas empeoran y el term premi
 ### Ruptura de coordinación energética
 
 Petróleo elevado pese a crecimiento débil, acompañado por interrupciones de rutas, refinación o coordinación de productores. Convierte energía en restricción monetaria.
+
+## Cierre mensual vigente
+
+### 31 oct 2026 · evaluación 2 nov
+
+**Stage 3 temprano sostenido; Phase 1C sin cambio.** Se revisaron 52 eventos de octubre en 20 diarios, incluidos los 15 pendientes de publicación del 27–31/10. [Informe mensual completo]({{ '/revisiones/2026-10/' | relative_url }}).
+
+| Evidencia mensual | Resultado | Implicancia |
+|---|---|---|
+| Treasury, cierres CMT 1→30/10 | 2Y 4,78→4,56%; 10Y 5,24→4,94%; 30Y 5,61→5,31% | Alivio de largo, sin atribución causal automática |
+| Real 10Y, mismo corte | 2,88→2,60%; nominal menos real 2,36→2,34% | El cambio coincide principalmente con menor tasa real; la diferencia no es expectativa pura |
+| Buybacks | Cupos completos repetidos; última operación 27/10 | Corregir subejecución generalizada; medir DV01 neto, propósito y eficacia |
+| Fed / ECB / BOJ | Pausas de tasa con mandatos de balance diferentes | No hay prueba de rescate coordinado de duration |
+| Stocks EE.UU., 2→23/10 | Destilados 105,138→102,824 millones; SPR 282,983→282,583 millones | La mejora semanal del 16/10 no consolidó reconstrucción |
+| Capital real y regulación | Regla OCC final de vigencia futura, apoyo condicional y plantas en ramp-up | Diferenciar norma, financiación, producción y caja |
+
+**Corrección histórica:** la descripción del 5/10 se conserva abajo como corte anterior, no como veredicto vigente. Varias recompras sí completaron cupos y los Treasuries recuperaron demanda de refugio; ya no corresponde describir todo octubre como tasas ascendentes pese a subejecución.
+
+**Prueba de Phase 2A:** repetición sí; persistencia de supresión parcial/no probada; escala neta, intención de administrar el largo, coordinación y eficacia atribuible no acreditadas. Sin cambios de categoría en el playbook.
+
+**Pendientes:** emisión y renovación de buybacks del 4/11; duration neta, term premium, flujos privados, subastas, MOVE y crédito con cortes comparables; devoluciones/entregas y stocks energéticos; reservas oficiales, ejecución regulatoria y proyectos. No se incorpora información posterior al 31/10 al veredicto.
 
 ## Cortes históricos recuperados
 

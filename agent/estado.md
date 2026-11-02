@@ -1,35 +1,57 @@
-# Estado actual — 2026-10-05
+# Phase 1C avanzada — Stage 3 temprano
 
-## Clasificación
+Octubre consolidó intervenciones repetidas y alivio del Treasury, mientras energía e inventarios siguieron tensionados. La continuidad de las herramientas aumenta; el control persistente del costo largo estadounidense todavía no está demostrado.
 
-Phase 1C activa. Stage táctico 3 temprano por intervención repetida pero fragmentada. Phase 2A no confirmada.
+Cierre de octubre
+Phase 1C activa · Stage 3 temprano sostenido · Phase 2A no confirmada.
+Período 1–31/10/2026 · evaluación 2/11 · último cierre de mercado 30/10.
 
-## Evidencia
+[Leer la consolidación mensual de octubre](https://facundocabrera.github.io/plano-global/revisiones/2026-10/). Revisión de 52 eventos en 20 diarios; la clasificación del 5/10 se conserva y se corrige su explicación. El [tracking](https://facundocabrera.github.io/plano-global/tracking/) mantiene el corte previo.
 
-- UST 10Y en 5,34% el 1/10, máximo desde 2002, con presión paralela en Francia, Reino Unido y Japón;
-- buybacks del Tesoro con tope de USD 6.000 millones, aceptación cercana a la mitad de lo ofrecido y sin supresión efectiva del yield;
-- Fed en 3,75%–4,00% sin intervención sobre duration;
-- BoE administrando oferta y QT del tramo largo;
-- BOJ en 1,25%, compras ordinarias de JGB reducidas y cero intervención FX entre el 27/08 y el 28/09;
-- regulación propuesta para respaldar stablecoins con T-bills/HQLA, concentrada en el extremo corto;
-- G7 liberando 100 millones de barriles mientras Ormuz y el diésel siguen restringidos;
-- nueva validación de oferta real argentina mediante la expansión condicionada de litio de Eramet.
+## Qué cambió al consolidar el mes
 
-## Inferencia
+| Proceso | Hechos registrados | Lectura mensual |
+|---|---|---|
+| Treasury | Cupos completos el 8, 15 y 27/10; subastas absorbidas a precios distintos; demanda de refugio durante ventas de riesgo | La repetición está probada; la supresión de tasas no. No generalizar subejecución ni venta continua de bonos |
+| Energía | Reservas aceleradas, préstamos y retornos futuros; mejora de destilados revertida al 23/10 | Recuperar flujo no garantiza reconstruir inventarios; evitar contar anuncios solapados |
+| Bancos centrales | Fed mantiene tasa y mandato de reservas cortas; ECB reduce carteras; BOJ mantiene tasa y anuncia ventas de ETFs | Respuestas con objetivos distintos, sin rescate monetario único |
+| Emisión y divisas | Reino Unido reduce oferta larga planeada; Japón reporta cero FX hasta 28/10 | Gestión de duration británica no equivale a control del Treasury; flujos privados no son intervención oficial |
+| Capital y recursos | Regla OCC con vigencia futura; apoyo mineral condicional; plantas argentinas en ramp-up | Dirección sectorial más concreta, ejecución desigual; no trasladar reservas de stablecoins a demanda por BTC |
+| Oro | El volumen chino publicado en octubre aumentó aun cayendo su valor | Evidencia física específica; faltan agregado global y comparación de precios |
 
-La repetición de respuestas oficiales mueve el Stage táctico de 2B a 3 temprano. La intervención sigue fragmentada por mercado y no constituye un régimen coordinado de control de la curva estadounidense.
+## Inferencia de régimen
 
-## Hipótesis confirmadas, debilitadas e invalidadas
+La secuencia mensual es **restricciones persistentes → herramientas repetidas → alivio selectivo y redistribución de riesgos → control largo todavía no demostrado**. La presión soberana dejó de ser uniforme: Treasuries recuperaron refugio mientras Francia enfrentaba riesgo propio.
 
-- confirmadas: fragilidad soberana sincronizada, vínculo energía–tasas, escalada gradual de herramientas, demanda regulada primero en T-bills y rotación hacia oferta real;
-- debilitadas: cierre uniforme de Ormuz, eficacia de buybacks pequeños y capacidad de una intervención FX aislada para estabilizar el yen;
-- invalidadas: pérdida automática y permanente de toda la capacidad saudita vía Yanbu y prohibición inmediata de exportaciones estadounidenses de diésel;
-- ninguna hipótesis estructural central quedó invalidada.
+La caída del rendimiento nominal coincidió principalmente con menor rendimiento real en las observaciones comparables. Eso obliga a considerar refugio, actividad y demanda privada junto a recompras; no identifica por sí solo el motor exacto. Tampoco invalida la fragilidad fiscal ni prueba que la represión financiera sea inevitable.
 
-## Phase 2A no confirmada
+## Correcciones al diagnóstico del 5 de octubre
 
-El UST 10Y alcanzó 5,34% mientras las recompras estaban activas; el Tesoro no agotó su tope; la Fed no actuó sobre duration; la demanda regulada propuesta se concentra en T-bills; no existe objetivo de yield, coordinación operativa permanente Fed–Treasury ni control observable y persistente del tramo largo.
+- **Invalidada como generalización:** recompras largas siempre por debajo del cupo. Octubre sí documenta ejecución completa repetida.
+- **Debilitada:** pérdida permanente y uniforme del refugio soberano; el mercado volvió a demandar Treasuries durante ventas de riesgo.
+- **Sostenida:** intervención fragmentada; mayor persistencia operativa todavía no es control persistente de yields.
+- **Reforzada:** diferencia entre flujos energéticos y stocks; devoluciones contratadas no son compras ni reposición neta ya realizadas.
+- **No confirmadas:** demanda cautiva por notes/bonds, unwind sistémico del carry y desacople global del oro. Faltan series o causalidad específicas.
 
-## Próximas señales
+## Por qué no cambia la Phase
 
-Escala y renovación de buybacks; composición de emisión; demanda cautiva por notes/bonds; operaciones de duration de la Fed; rango de yield defendido; subastas y term premium; uso de FIMA y tenencias japonesas; ejecución de reservas G7; reapertura física de Ormuz; FID de proyectos reales; reservas oficiales de oro y COFER ajustado por precio y FX.
+| Prueba sobre el largo de EE.UU. | Estado |
+|---|---|
+| Intervención repetida | Sí |
+| Persistencia de supresión | Parcial; sólo continuidad operativa demostrada |
+| Escala neta suficiente | No demostrada |
+| Intención de administrar yields | No acreditada |
+| Coordinación Fed–Treasury sobre duration | No acreditada |
+| Eficacia persistente atribuible | No demostrada |
+
+No avanzar a Stage 4 ni a Phase 2A. La baja de yields es un hecho de mercado; el cambio de régimen exige mecanismo, escala y atribución.
+
+## Posicionamiento y siguiente prueba
+
+Sin cambios de categoría ni nuevas exclusiones. Se mantiene preferencia por escasez monetaria, oferta real competitiva, infraestructura, balances sólidos y liquidez corta. Duration larga continúa condicional; su cobertura táctica observada no equivale a habilitación estructural. [Ver delta completo](https://facundocabrera.github.io/plano-global/posicionamiento/).
+
+La primera prueba de noviembre es el refinanciamiento del **4/11**, aún futuro al corte: composición de emisión, renovación de recompras y duration neta. Después: tasa real/compensación por inflación, flujos, subastas y funding; inventarios y retornos efectivos; políticas japonesas/europeas y ejecución de proyectos. Term premium, MOVE, crédito y reservas globales no tienen aquí un corte mensual completo comparable: quedan pendientes.
+
+## Qué debilitaría esta lectura
+
+Consolidación fiscal creíble, demanda voluntaria sostenida por largo, desinflación y reconstrucción de inventarios sin supresión financiera; estabilidad de funding y ausencia de dependencia creciente de intervenciones. Esas señales deben competir con la tesis, no explicarse automáticamente a su favor.

@@ -19,3 +19,7 @@ Este repositorio contiene el contenido fuente y el sitio público de Plano Globa
 - `eventos/`: fichas trazables de acontecimientos materiales.
 
 El contenido documenta una hipótesis en evolución. Consultá el [disclaimer](./disclaimer.md).
+
+## Revisiones mensuales
+
+- [Octubre de 2026](./revisiones/2026-10.md): consolidación causal del mes, pruebas de transición y delta del Asset Playbook.
