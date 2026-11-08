@@ -21,6 +21,8 @@ Este documento no registra todo el ruido macroeconómico. Registra únicamente e
 
 Cierre mensual: 31/10/2026, evaluado 2/11. [Consolidación de octubre](https://facundocabrera.github.io/plano-global/agent/revisiones/2026-10.md).
 
+Revisión semanal 2–8/11: 11 eventos incorporados en cinco diarios. La secuencia combina renovación de financiación e intermediación, propuestas regulatorias aún no vinculantes, alivio del crudo y persistencia del faltante de destilados. [Resumen semanal](https://facundocabrera.github.io/plano-global/agent/index.md). El corte mensual anterior permanece fechado.
+
 ## Dashboard permanente — Oro como reserva monetaria
 
 El oro se monitorea como variable monetaria y no solo como commodity o precio de mercado.
@@ -54,6 +56,260 @@ El oro se monitorea como variable monetaria y no solo como commodity o precio de
 ---
 
 ## Eventos consolidados
+
+### 2026-11-07 — China aumenta el oro físico de octubre pese a una valuación en dólares menor
+
+**Hecho confirmado:** SAFE publicó reservas de octubre: oro de 77,47 a 78,30 millones de onzas; incremento de 830.000 onzas, aproximadamente 25,816 toneladas calculadas con 31,1034768 g/onza. Valor declarado: de USD 323.517 a 306.411 millones.
+
+**Restricción corregida:** Es variación del stock reportado, no detalle de transacciones. Filas de valor usan USD 100 millones; las onzas están en unidades de diez mil. Mayor volumen no significa mayor valor.
+
+**Mecanismo:** Inferencia: acumulación oficial y caída de precio/valuación pueden coexistir. No prueba un piso de mercado o una sustitución global del dólar.
+
+**Relación con eventos anteriores:** Continúa el dato chino de septiembre publicado el 7/10; agrega un mes observado.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Respalda función monetaria del oro sin aumentar automáticamente exposición a mineras ni demostrar desacople de tasas.
+
+**Evidencia pendiente:** Compras oficiales agregadas, precio frente a dólar/tasas reales y COFER comparable. No atribuir motivaciones o ventas de Treasuries sin flujos.
+
+**Fuentes:**
+
+- https://www.safe.gov.cn/safe/file/file/20261107/b22a6f10151648d181b9bfd051bd6679.pdf — tabla oficial; unidades cotejadas visualmente.
+- https://www.safe.gov.cn/safe/2026/1106/28067.html — fecha visible de publicación 07/11.
+
+---
+
+### 2026-11-06 — Empleo resistente y curvas reales positivas limitan atribuir el alivio del Treasury a supresión
+
+**Hecho confirmado:** BLS publicó +165.000 empleos en octubre y desempleo de 4,1%; el empleo parcial por razones económicas aumentó 339.000. Treasury CMT al 6/11: 2Y 4,51%, 10Y 4,86%, 30Y 5,26%; real 10Y 2,63%. Nominal menos real: 2,23%, cálculo propio.
+
+**Restricción corregida:** El empleo corresponde a octubre. La diferencia de curvas incluye primas; no es inflación esperada pura. Cierres CMT no son prints negociados intradiarios.
+
+**Mecanismo:** Inferencia: la política puede seguir condicionada por actividad e inflación aun con refugio en bonos. No se identifica control oficial por la baja semanal.
+
+**Relación con eventos anteriores:** Frente a CMT del 30/10, 10Y baja 8 pb y real 10Y sube 3 pb: diferencia nominal–real cae 11 pb. La composición difiere del alivio de octubre.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Distinguir cobertura táctica y protección real; reservas cortas o buybacks no generan automáticamente flujo hacia BTC.
+
+**Evidencia pendiente:** Term premium, crédito/funding y flujos comparables; subastas siguientes. No atribuir todos los movimientos a una sola publicación.
+
+**Fuentes:**
+
+- https://www.bls.gov/news.release/empsit.nr0.htm
+- https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=202611&type=daily_treasury_yield_curve
+- https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=202611&type=daily_treasury_real_yield_curve
+- https://facundocabrera.github.io/plano-global/revisiones/2026-10/ — base 30/10.
+
+---
+
+### 2026-11-06 — El alivio del crudo convive con exportaciones de refinados todavía incompletas
+
+**Hecho confirmado:** Reuters reproduce estimaciones de Vortexa para octubre: crudo/condensados del Golfo a 14 millones bpd, alrededor de 86% prebélico; productos a 3,1 millones, poco más de la mitad habitual. JPMorgan estima superávit de octubre y Goldman un balance cercano al equilibrio. Brent enero cerró 6/11 a USD 98,32.
+
+**Restricción corregida:** Son estimaciones de cobertura diferente, no consenso oficial ni reposición certificada. Para el mismo enero, contra USD 113,43 del 30/10, la caída calculada es 13,32%; no usar diciembre vencido para inflar la comparación.
+
+**Mecanismo:** Inferencia: mayor flujo y demanda debilitada pueden aliviar crudo sin resolver refinados o stocks terrestres.
+
+**Relación con eventos anteriores:** Contraseñal a escasez lineal de Nasser y continuación de la divergencia del 31/10. Riesgo de rutas persiste aunque baje el precio.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Valorar energía argentina por costos, caja y acceso; menor petróleo puede aliviar insumos de agro/minería y reducir ingresos de productores.
+
+**Evidencia pendiente:** Inventarios conciliados, demanda realizada, entregas, seguros y Ormuz/Yanbu. Swaps físicos en contango y futuros en backwardation no son curvas equivalentes.
+
+**Fuentes:**
+
+- https://energynow.com/2026/11/as-high-oil-prices-curb-demand-fresh-signs-of-glut-appear/ — Reuters reproducida; estimaciones atribuidas.
+- https://live.euronext.com/en/financial-news/crude-gains-worries-about-renewed-us-attacks-iran — cierre enero, 6/11.
+- https://github.com/facundocabrera/plano-global/blob/main/eventos/dias/2026/10/2026-10-30.md — comparación mismo contrato.
+
+---
+
+### 2026-11-06 — Japón vuelve a comprar bonos extranjeros largos en el último dato semanal
+
+**Hecho confirmado:** MOF, publicado 6/11 para 25–31/10: adquisiciones netas de deuda extranjera larga por ¥1,312 billones, después de ventas revisadas de ¥81.800 millones la semana previa. Tabla en unidades de ¥100 millones: +13.120 y −818.
+
+**Restricción corregida:** Categoría por residencia del emisor: no identifica sólo Treasuries, al Tesoro japonés o una intervención FX. Signo positivo es compra neta.
+
+**Mecanismo:** Inferencia: el flujo de inversores puede revertirse sin cambio de régimen; debilita extrapolar ventas continuas o repatriación mecánica.
+
+**Relación con eventos anteriores:** Contrasta con las cinco semanas vendedoras documentadas el 22/10. Se preservan revisiones y períodos, sin equiparar una compra semanal a tendencia sostenida.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Cobertura en yenes y duration dependen de flujos y costos, no de una narrativa única de liquidación.
+
+**Evidencia pendiente:** Desglose por país/tenedor, hedge y semanas siguientes; FX oficial posterior al 28/10.
+
+**Fuentes:**
+
+- https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/week.pdf — tabla vigente consultada 08/11; publicación 06/11.
+- https://www.mof.go.jp/english/policy/international_policy/reference/itn_transactions_in_securities/index.htm
+
+---
+
+### 2026-11-05 — El BoE sube a 4% mientras anticipa más presión energética
+
+**Hecho confirmado:** El BoE publicó el 5/11 la decisión de la reunión terminada el 4/11: ocho miembros apoyaron subir 25 pb a 4%; uno prefirió 50 pb. Proyecta inflación cercana a 5% a mediados de 2027, con evidencia aún limitada de efectos de segunda ronda.
+
+**Restricción corregida:** La previsión no es inflación realizada. Esta decisión de tasa no es un nuevo anuncio de compras de gilts.
+
+**Mecanismo:** Inferencia: administrar oferta de duration puede coexistir con endurecimiento de la tasa corta para contener transmisión energética.
+
+**Relación con eventos anteriores:** Complementa la reducción británica de emisión larga del 28/10 y los cambios previos de QT.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Separar alivio técnico del largo, tasa corta y riesgo de inflación/reinversión.
+
+**Evidencia pendiente:** Precios/salarios, ejecución de emisión y QT, subastas y persistencia de efectos. Una previsión energética descendente puede no materializarse.
+
+**Fuentes:**
+
+- https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026
+
+---
+
+### 2026-11-05 — Las actas japonesas mantienen abierta una normalización más rápida si la inflación se desvía
+
+**Hecho confirmado:** Las actas de septiembre, publicadas el 5/11, registran apoyo a continuar subas; algunos miembros consideran acelerar si los precios exceden el escenario, mientras otros aconsejan evitar precipitación.
+
+**Restricción corregida:** La novedad es la publicación: no hubo una nueva suba el 5/11. La tasa vigente de 1,25% corresponde a la decisión previa, mantenida en octubre.
+
+**Mecanismo:** Inferencia: revisar diferenciales y cobertura puede cambiar demanda internacional y financiación en yenes sin una intervención cambiaria.
+
+**Relación con eventos anteriores:** Continúa BOJ del 30/10 y ventas de bonos extranjeros publicadas el 22/10; no convierte esos flujos en ventas oficiales de reservas.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Yen y duration siguen sujetos a política efectiva, cobertura y flujos; no declarar unwind sistémico por comunicación.
+
+**Evidencia pendiente:** Decisiones futuras, curva JGB y flujos. El Summary de la reunión de octubre está previsto para 10/11, después de este corte.
+
+**Fuentes:**
+
+- https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf — reunión 17–18/09; publicación 05/11.
+- https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+
+---
+
+### 2026-11-05 — La recuperación del diésel ruso sigue condicionada por refinerías y descarga
+
+**Hecho confirmado:** Reuters informó nuevas incidencias en refinerías rusas y señales de cargamentos transatlánticos; al 5/11 no constaba llegada de diésel ruso a Estados Unidos bajo el acuerdo. La primera descarga prevista seguía condicionada.
+
+**Restricción corregida:** Itinerario, ataque reportado y capacidad fuera de servicio son pruebas distintas. No se acredita aquí una descarga posterior al 5/11.
+
+**Mecanismo:** Inferencia: reapertura comercial y disponibilidad física pueden divergir; evaluar producto entregado.
+
+**Relación con eventos anteriores:** Actualiza cargamento del 22/10 y cuotas propuestas del 29/10.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Márgenes y costos de transporte requieren oferta efectiva, no destinos declarados.
+
+**Evidencia pendiente:** Arribos, descargas, autorizaciones aplicables y recuperación de refinerías. No extrapolar este corte a toda la semana.
+
+**Fuentes:**
+
+- https://www.reuters.com/world/renewed-refinery-attacks-deplete-russian-diesel-supply-us-deal-focus-2026-11-05/
+
+---
+
+### 2026-11-04 — El Tesoro renueva buybacks y conserva la estructura de emisión del trimestre
+
+**Hecho confirmado:** Treasury anunció un refunding de USD 125.000 millones, con USD 28.000 millones de caja nueva: 58.000 millones a 3Y, 42.000 a 10Y y 25.000 a 30Y. Prevé mantener tamaños de cupones/FRN y hasta USD 70.000 millones de buybacks de liquidez más 25.000 millones de gestión de caja a 1 mes–2 años.
+
+**Restricción corregida:** Son programación y topes, no compras ejecutadas ni demanda cautiva. Comparar nuevas emisiones y reaperturas equivalentes; noviembre no se compara mecánicamente con octubre.
+
+**Mecanismo:** Inferencia: renovar intermediación convive con oferta de bonos largos. No demuestra retiro neto suficiente de duration ni un rango de rendimiento defendido.
+
+**Relación con eventos anteriores:** Resuelve el hito pendiente del 4/11 señalado en la revisión de octubre; continúa la consulta del 16/10 y recompras del 27/10.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Duration larga conserva condición táctica; no anticipar supresión por el máximo trimestral.
+
+**Evidencia pendiente:** Subastas del 9, 10 y 12/11, liquidación 16/11, compras efectivas y DV01 neto. El cambio del 7Y a emisión trimestral comienza en marzo de 2027.
+
+**Fuentes:**
+
+- https://home.treasury.gov/news/press-releases/sb0678/
+
+---
+
+### 2026-11-04 — TBAC propone evaluar alivios regulatorios para ampliar demanda por Treasuries
+
+**Hecho confirmado:** El informe TBAC publicado el 4/11 plantea evaluar exenciones de Treasuries en ratios de apalancamiento, reconocimiento de colateral y mayor acceso/plazo de repo. Considera útiles los buybacks para liquidez y recomienda gestionar vencimientos mediante tamaños de subasta.
+
+**Restricción corregida:** TBAC asesora: el informe no aprueba una regla, activa compras ni garantiza capital nuevo. Su diagnóstico de buena absorción de deuda y menor evidencia de crowding out es una evaluación atribuida.
+
+**Mecanismo:** Inferencia: aliviar restricciones de balance podría ampliar intermediación y demanda; faltan norma, adopción y efecto por vencimiento.
+
+**Relación con eventos anteriores:** Desarrolla el canal regulatorio del Plano y la consulta de demanda estructural del 16/10, sin confundirlo con reservas cortas de stablecoins.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Vigilar bancos/dealers y bonos por tramo; no elevar duration por una recomendación.
+
+**Evidencia pendiente:** Autoridad competente, texto vinculante, vigencia, capacidad adicional, demanda neta y eficacia persistente en 10Y/30Y. El comité señala sensibilidad de precio en bills.
+
+**Fuentes:**
+
+- https://home.treasury.gov/news/press-releases/sb0679/
+
+---
+
+### 2026-11-04 — Los destilados caen por debajo de 100 millones de barriles y la SPR sigue bajando
+
+**Hecho confirmado:** EIA, publicada 4/11 para semana al 30/10: destilados 99,259 millones de barriles, desde 102,824; crudo comercial 409,760, desde 410,625; SPR 282,184, desde 282,583. Cambios calculados: −3,565; −0,865 y −0,399 millones. Diésel minorista al 2/11, publicado 3/11: USD 6,292/galón, −0,060 semanal.
+
+**Restricción corregida:** Son stocks estadounidenses y precio minorista, con fechas distintas. Stock neto menor no identifica todos los flujos brutos. Diésel más barato no acredita reposición.
+
+**Mecanismo:** Inferencia: precios pueden aliviarse antes de reconstruir amortiguadores; la disponibilidad por producto exige cantidades y persistencia.
+
+**Relación con eventos anteriores:** Continúa la reversión de destilados del 28/10. Se recotejó Nasser: hasta dos años en Aramco; dos millones bpd durante 18 meses atribuidos por Reuters. Permanecen escenarios, no demanda ejecutada.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Comparar refinación, logística y costos entregados de agro/minería; no extrapolar el barril a todos los combustibles.
+
+**Evidencia pendiente:** Compras/devoluciones efectivas, stocks por región, refinación y exportaciones. Los retornos DOE de 2027 no se cuentan como stock actual.
+
+**Fuentes:**
+
+- https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_NUS_W.htm — unidades: miles de barriles; corte 30/10.
+- https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?f=W&n=PET&s=EMD_EPD2D_PTE_NUS_DPG
+- https://www.aramco.com/en/news-media/speeches/2026/remarks-by-amin-h-nasser-at-energy-intelligence-2026
+- https://energynow.com/2026/10/replenishing-crude-fuel-supplies-could-take-two-years-saudi-aramco-ceo-says/
+
+---
+
+### 2026-11-02 — ADNOC reclama reconstruir amortiguadores y capacidad de entrega
+
+**Hecho confirmado:** En ADIPEC, Al Jaber afirmó que se drenó cerca de mil millones de barriles de inventarios desde la disrupción de Ormuz y pidió ampliar almacenamiento, reservas de productos y capacidad de entrega. Son afirmaciones y propuestas de ADNOC, no compras anunciadas.
+
+**Restricción corregida:** La cifra acumulada del productor no es una caída semanal ni una auditoría independiente. No sumarla a las estimaciones de Aramco: coberturas y períodos pueden superponerse.
+
+**Mecanismo:** Inferencia: la seguridad energética depende del stock utilizable y de la logística, además del volumen producido. Más almacenamiento propuesto necesita financiación y ejecución.
+
+**Relación con eventos anteriores:** Continúa Nasser del 05/10 y las liberaciones/devoluciones SPR del 29/10.
+
+**Impacto sobre el plano:** Se mantiene la lectura Phase 1C / Stage 3 temprano; Phase 2 no confirmada.
+
+**Implicación potencial para la cartera:** Favorece investigar almacenamiento y logística con contratos y caja; una necesidad declarada no garantiza rentas.
+
+**Evidencia pendiente:** Proyectos, adjudicaciones, inversión ejecutada, capacidad efectiva y stocks reconstruidos. Contrastar con recuperación de oferta y menor consumo.
+
+**Fuentes:**
+
+- https://www.adnoc.ae/media-center/news/2026/11/Global-Energy-Security-Must-Be-Rebuilt-for-a-New-Era-Dr-Sultan-Al-Jaber — comunicado del productor, 02/11.
+- https://www.reuters.com/business/energy/nearly-1-billion-oil-barrels-drained-global-inventories-since-hormuz-disruption-2026-11-02/
+
+---
 
 ### 2026-10-31 — Exportaciones sauditas sostienen flujos, pero estimaciones incompatibles impiden declarar normalización
 

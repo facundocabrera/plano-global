@@ -21,6 +21,8 @@ Este documento no registra todo el ruido macroeconómico. Registra únicamente e
 
 Cierre mensual: 31/10/2026, evaluado 2/11. [Consolidación de octubre](https://facundocabrera.github.io/plano-global/agent/revisiones/2026-10.md).
 
+Revisión semanal 2–8/11: 11 eventos incorporados en cinco diarios. La secuencia combina renovación de financiación e intermediación, propuestas regulatorias aún no vinculantes, alivio del crudo y persistencia del faltante de destilados. [Resumen semanal](https://facundocabrera.github.io/plano-global/agent/index.md). El corte mensual anterior permanece fechado.
+
 ## Dashboard permanente — Oro como reserva monetaria
 
 El oro se monitorea como variable monetaria y no solo como commodity o precio de mercado.
